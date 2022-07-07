@@ -1,24 +1,12 @@
-# Welcome to the maintained Geometry Dash Shitty List repo!
+# Welcome to the maintained Geometry Dash Unrated Demons List repo!
+
+# Website Disclaimer
+
+This website was made using the TSL template, so credits to their coding team.
 
 # FAQ
 
 ---
-
-### Website FAQ
-
-Can I use the Shitty List template?
-
-- I mean, sure. just make sure you give credit somewhere and make sure you state
-  that you're not affiliated with the shitty list.
-
-The website isnt loading! What can I do?
-
-- since no webhost is perfect, downtime is expected. you can either wait til the
-  website is back online or you can do some behind the scene stuff and run it
-  locally.
-
----
-
 ### List FAQ
 
 How long will my record take to get accepted?
@@ -30,32 +18,24 @@ How long will my record take to get accepted?
 
 What do New record, update record, and fix record mean?
 
-- new record is when your submitting a record for a level for the first time,
+- New record is when your submitting a record for a level for the first time,
   update record is when you have a record on a level but you got a new best and
   it needs to be updated, fix record is when there is an issue with one of your
   records that needs to be fixed
-
-What's an easy way to prove I don't hack?
-
-- Show 2-5 seconds at the end of the previous attempt and the death of that
-  attempt. This is the easiest way for us to verify you arent hacking/nocliping.
-  However having click, fps counter or hand cam will help out a lot too
 
 It's been like more than a week and my record still hasn't been added, what do i
 do?
 
 - You can ask us in
-  [#list-support](https://discord.com/channels/713151800932433972/744151240765603951)
+  [#list-discussion](https://discord.com/channels/381513933250494475/381968184875417610)
   , it was probably an accidentally deleted record(yes it happens), accidentally
   deleting the form, your name was mispelled or you were rejected for cheating
 
 When will \_\_\_ be added to the list?
 
-- With the way our current system works, the staff and relaibles play the
-  levels, if the level gets enough positive opinions from us, it then goes into
-  voting, where it is voted on if it will be added
+- It may take a while, but it will eventually be added, so be patient
 
-Can i submit Multiple levels on 1 video?
+Can I submit Multiple levels on 1 video?
 
 - Yes
 
@@ -67,45 +47,42 @@ Can i submit Multiple levels on 1 video?
 
 ---
 
-## Owners:
+## List Leaders/Owners:
 
-- Bluestone
-- iRaily
+- DaMeister
+- legoyoshi
 
 ---
 
-## List Admins:
+## List Moderators:
 
-- attrixia
-- Davine
-
-## Server Administrators:
-
-- JustCrust
-- Microwaveee
+- MythicalTG
+- Sevant
 
 ---
 
 ## List Helpers:
 
 - KylashTheKiller
-- Samuuu
-- TravelChimp
-- Acidius
+- ZakkOfAllTrades
+- Remy
+- Sneze
+- ButterFish
+- GDMeric
+- knali
+- opy
 
 ---
 
 ## Server Moderators:
 
-- LBoke
-- frigusterio
-- Prometheus
-- Nolife
+- ZakkOfAllTrades
+- Flakjacket
+- Kirby
+- Wailmore
 
 ---
 
 ## Repo Maintainers:
 
-- Electro
 - Prometheus
-- Emonadeo
