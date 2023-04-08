@@ -1,0 +1,28 @@
+{
+    "id": 83010430,
+    "name": "Bloody Knuckles (Old)",
+    "author": "enzbro",
+    "creators": ["PinchPeak5203"],
+    "verifier": "enzbro",
+    "verification": "https://youtu.be/WadNMBgt4CA",
+    "percentToQualify": 83,
+    "password": "696969",
+    "records": [
+        {
+            "user": "Hipo",
+            "link": "https://youtu.be/M7DsYgiXW58",
+            "percent": 100
+        },
+        {
+            "user": "DuckMoment",
+            "link": "https://mega.nz/file/jnxTjI6A#gGS6nRIDVTvV1FAGroQ4CVY8fs4CgJqrTXIF4m5E_qQ",
+            "percent": 89
+        },
+        {
+            "user": "sobot",
+            "link": "https://drive.google.com/file/d/1hIqP-xKGGIgTlKN_fWAv5xI040sO4j6J/view?usp=sharing",
+            "percent": 85
+        }
+    ],
+    "tags": ["Old Impossible Level"]
+}

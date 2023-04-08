@@ -1,0 +1,22 @@
+{
+    "id": 86324405,
+    "name": "Asteria",
+    "author": "xArtemis",
+    "creators": ["BlaZe", "QuantumVortex", "TheMightyRager", "Shadowhazaro14"],
+    "verifier": "Artemis",
+    "verification": "https://youtu.be/wg_RCxKTOwM",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "HeyImCreo",
+            "link": "https://youtu.be/042AAsACu5E",
+            "percent": 100
+        },
+        {
+            "user": "Nik14k",
+            "link": "https://youtu.be/MLb1BnhYkzw",
+            "percent": 100
+        }
+    ],
+    "tags": ["Nine Circles Level"]
+}

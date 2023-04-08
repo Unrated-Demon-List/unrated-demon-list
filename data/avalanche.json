@@ -1,0 +1,21 @@
+{
+    "id": 38325880,
+    "name": "Avalanche",
+    "author": "Filqh",
+    "creators": [],
+    "verifier": "DaMeister",
+    "verification": "https://youtu.be/by16NuHWEIc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "krakow",
+            "link": "https://youtu.be/WGcSGPHtJv8",
+            "percent": 100
+        },
+        {
+            "user": "breaddemon",
+            "link": "https://youtu.be/IMIxFjkCYkM",
+            "percent": 100
+        }
+    ]
+}

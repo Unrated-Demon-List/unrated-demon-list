@@ -1,0 +1,21 @@
+{
+    "id": 27663879,
+    "name": "A Darker Fate",
+    "author": "Combined",
+    "creators": ["Truelogic","Marwec"],
+    "verifier": "Combined",
+    "verification": "https://youtu.be/QqzMg9mkM2A?t=16091",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "TheFrozenTideGD",
+            "link": "https://youtu.be/Gxhmg7lXbHU",
+            "percent": 100
+        },
+        {
+            "user": "Roldan and Mauro",
+            "link": "https://youtu.be/bXCB7NzbsTM",
+            "percent": 100
+        }
+    ]
+}

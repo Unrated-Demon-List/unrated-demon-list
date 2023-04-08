@@ -1,0 +1,22 @@
+{
+    "id": 48428459,
+    "name": "Aldebaran",
+    "author": "Amaranth",
+    "creators": ["Amaranth", "Luneye"],
+    "verifier": "Luneye",
+    "verification": "https://youtu.be/zT0QBkK4SLE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "KeeravaL",
+            "link": "https://youtu.be/BhsEa8GJtQE",
+            "percent": 100
+        },
+        {
+            "user": "Remy",
+            "link": "https://www.youtube.com/watch?v=oEJphg_rkQg",
+            "percent": 100
+        }
+    ],
+    "tags": ["Nine Circles"]
+}

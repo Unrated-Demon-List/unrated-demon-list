@@ -1,0 +1,21 @@
+{
+    "id": 24947401,
+    "name": "AlphA",
+    "author": "Zelda9912",
+    "creators": [],
+    "verifier": "Koreaqwer",
+    "verification": "https://www.youtube.com/watch?v=R5IPkU4o3P8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Recillia",
+            "link": "https://www.youtube.com/watch?v=94zNHGC6uYw",
+            "percent": 100
+        },
+        {
+            "user": "Brendan Shrader",
+            "link": "https://youtu.be/DzIMLr_W9Qk",
+            "percent": 100
+        }
+    ]
+}

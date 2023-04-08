@@ -1,0 +1,21 @@
+{
+    "id": 63511345,
+    "name": "Blast From The Past",
+    "author": "vp999",
+    "creators": ["vp999", "Epsima"],
+    "verifier": "Simmy",
+    "verification": "https://youtu.be/BYkyRKFIrz4",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "vp999",
+            "link": "https://youtu.be/VEmQTSIvB1k",
+            "percent": 100
+        },
+        {
+            "user": "AlexDIRO",
+            "link": "https://youtu.be/bnFWXNqAmu8",
+            "percent": 100
+        }
+    ]
+}

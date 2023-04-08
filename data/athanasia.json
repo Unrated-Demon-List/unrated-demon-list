@@ -1,0 +1,16 @@
+{
+    "id": 26647581,
+    "name": "Athanasia",
+    "author": "iIiViRuZiIi",
+    "creators": ["iIiViRuZiIi", "GD Foxy"],
+    "verifier": "iIiViRuZiIi",
+    "verification": "https://www.youtube.com/watch?v=xNSfe7cqA0Q",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Antares",
+            "link": "https://www.youtube.com/watch?v=b1_y56OlX4E",
+            "percent": 100
+        }
+    ]
+}

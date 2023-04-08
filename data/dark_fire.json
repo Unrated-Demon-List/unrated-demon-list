@@ -1,0 +1,27 @@
+{
+    "id": 72574677,
+    "name": "Dark Fire",
+    "author": "exenityyy",
+    "creators": [],
+    "verifier": "TFIBB",
+    "verification": "https://youtu.be/7kkADfnqrmc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "piesy",
+            "link": "https://youtu.be/OEnLyH6U5Q0",
+            "percent": 100
+        },
+        {
+            "user": "njacked",
+            "link": "https://youtu.be/KkIHgmItOlA",
+            "percent": 100
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://youtu.be/QMTKGO__uvo",
+            "percent": 100
+        }
+    ],
+    "tags": ["GDPS Level", "Short"]
+}

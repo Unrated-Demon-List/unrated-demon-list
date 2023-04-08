@@ -1,0 +1,57 @@
+{
+    "id": 80178903,
+    "name": "Call Me Maybe",
+    "author": "nothawkyre",
+    "creators": ["nothawkyre", "fitatfi", "CO34", "Lasaga", "Uprush"],
+    "verifier": "LordVadercraft",
+    "verification": "https://youtu.be/Jc-98ND5OJk",
+    "percentToQualify": 51,
+    "records": [
+        {
+            "user": "Trick",
+            "link": "https://youtu.be/0G8dTQECdTE",
+            "percent": 100
+        },
+        {
+            "user": "Mcrawford001",
+            "link": "https://youtu.be/N5W5KEbg-ng",
+            "percent": 100
+        },
+        {
+            "user": "DLAppleGamez",
+            "link": "https://youtu.be/ZLIe7P4xrQE",
+            "percent": 100
+        },
+        {
+            "user": "takmaster",
+            "link": "https://youtu.be/GFFt99w4v18",
+            "percent": 100
+        },
+        {
+            "user": "M4nst3r",
+            "link": "https://youtu.be/w-i1OvReFSA",
+            "percent": 100
+        },
+	{
+	    "user": "Jasuki",
+	    "link": "https://youtu.be/-LDC4i1v4ag",
+	    "percent": 100
+	},
+	{
+	    "user": "Pulse",
+	    "link": "https://youtu.be/8dGoQI6b6HY",
+	    "percent": 100
+	},
+    {
+	    "user": "PixelGqmer_",
+	    "link": "https://youtu.be/So6B_fFl4aw",
+	    "percent": 75
+	},
+    {
+	    "user": "Franzy",
+	    "link": "https://youtu.be/VdmQ6U_5Phk",
+	    "percent": 70
+	}
+    ],
+    "tags": ["NoNG Song"]
+}

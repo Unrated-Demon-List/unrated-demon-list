@@ -1,0 +1,27 @@
+{
+    "id": 82472396,
+    "name": "Dank Processing",
+    "author": "MetaManRB",
+    "creators": [],
+    "verifier": "MetaManRB",
+    "verification": "https://youtu.be/uEFMw-YO2qo",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Hover",
+            "link": "https://youtu.be/Wg4zwjVAROg",
+            "percent": 100
+        },
+        {
+            "user": "GDMeric",
+            "link": "https://youtu.be/vdCu3a21bY4",
+            "percent": 100
+        },
+        {
+            "user": "Amandus",
+            "link": "https://youtu.be/TLbh8lWtep0",
+            "percent": 100
+        }
+    ],
+    "tags": ["NoNG Song"]
+}

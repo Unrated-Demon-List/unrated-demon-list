@@ -1,0 +1,36 @@
+{
+    "id": 80966089,
+    "name": "CITRA",
+    "author": "Varse",
+    "creators": [],
+    "verifier": "Varse",
+    "verification": "https://youtu.be/I8M1OOhub9w",
+    "percentToQualify": 62,
+    "records": [
+        {
+            "user": "Jori",
+            "link": "https://youtu.be/VxbsQLnDOA0",
+            "percent": 100
+        },
+        {
+            "user": "DTDom",
+            "link": "https://youtu.be/rnySN80ju3c",
+            "percent": 100
+        },
+        {
+            "user": "saturn",
+            "link": "https://youtu.be/swed0OraUb4",
+            "percent": 100
+        },
+        {
+            "user": "Johnfree",
+            "link": "https://youtu.be/8PruG5OZE3o",
+            "percent": 100
+        },
+        {
+            "user": "Deactive",
+            "link": "https://youtu.be/LM852pIXfCE",
+            "percent": 65
+        }
+    ]
+}

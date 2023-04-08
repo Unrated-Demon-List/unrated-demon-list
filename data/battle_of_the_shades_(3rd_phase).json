@@ -1,0 +1,41 @@
+{
+    "id": 59125613,
+    "name": "Battle Of The Shades (Phase 3)",
+    "author": "ColorBolt",
+    "creators": ["GD virus"],
+    "verifier": "ColorBolt",
+    "verification": "https://www.youtube.com/watch?v=kmaATUe0NXc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Skarro",
+            "link": "https://youtu.be/Ec5wZDZDsRk",
+            "percent": 100
+        },
+        {
+            "user": "reoode",
+            "link": "https://youtu.be/Vz5pTnpvcv8",
+            "percent": 100
+        },
+        {
+            "user": "Wyse",
+            "link": "https://youtu.be/vQBQozdV-w0",
+            "percent": 100
+        },
+        {
+            "user": "Hover",
+            "link": "https://youtu.be/Fr0hDSgcNpY",
+            "percent": 100
+        },
+        {
+            "user": "HequinoX",
+            "link": "https://youtu.be/sRiwPyJhi5o",
+            "percent": 100
+        },
+        {
+            "user": "Awesomeme360",
+            "link": "https://youtu.be/d2TTVLJsBlA",
+            "percent": 100
+        }
+    ]
+}

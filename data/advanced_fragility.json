@@ -1,0 +1,17 @@
+{
+    "id": 41983817,
+    "name": "Advanced Fragility",
+    "author": "InVeCtiVE",
+    "creators": ["InVeCtiVE", "Allan", "Dangerz", "PotatoBaby", "SergeiSonic95", "MyCrafted", "Wolfen", "Xiodazer", "SlashVoid", "Hota1991", "Shidez", "f4u", "FritCollix58"],
+    "verifier": "WormFodder",
+    "verification": "https://www.youtube.com/watch?v=kzsfcN43QRc",
+    "percentToQualify": 100,
+    "password": "080903",
+    "records": [
+        {
+            "user": "hotball1",
+            "link": "https://youtu.be/fuu3Yi4b6hg",
+            "percent": 100
+        }
+    ]
+}

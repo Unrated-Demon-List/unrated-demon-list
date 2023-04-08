@@ -1,0 +1,17 @@
+{
+    "id": 42054644,
+    "name": "Arcansil",
+    "author": "Visionari",
+    "creators": ["Visionari", "Choinkus"],
+    "verifier": "Zagros",
+    "verification": "https://www.youtube.com/watch?v=id8w2aySMH8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Pearlescent",
+            "link": "https://youtu.be/FcpnTTZc6JE",
+            "percent": 52
+        }
+    ],
+    "tags": ["Short"]
+}

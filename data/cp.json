@@ -1,0 +1,27 @@
+{
+    "id": 78281403,
+    "name": "CP",
+    "author": "bawlz",
+    "creators": ["Vix", "njacked"],
+    "verifier": "njacked",
+    "verification": "https://youtu.be/qw9YnXJ_LpM",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Gelforce",
+            "link": "https://youtu.be/6_2xjNx5NgQ",
+            "percent": 100
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/naZIwNMBVKM",
+            "percent": 100
+        },
+        {
+            "user": "Amza",
+            "link": "https://youtu.be/Sjb6wg-7dak",
+            "percent": 100
+        }
+    ],
+    "tags": ["GDPS Level", "Short"]
+}

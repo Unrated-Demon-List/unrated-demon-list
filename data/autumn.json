@@ -1,0 +1,41 @@
+{
+    "id": 82127532,
+    "name": "Autumn",
+    "author": "Fusion425",
+    "creators": ["Fusion425", "Quantum"],
+    "verifier": "Tinushi",
+    "verification": "https://youtu.be/IVbbbSgG7BA",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Skarro",
+            "link": "https://youtu.be/kZS3UcSKR7U",
+            "percent": 100
+        },
+        {
+            "user": "Oceliveth",
+            "link": "https://youtu.be/cTlQSnnaOSU",
+            "percent": 100
+        },
+        {
+            "user": "Fusion425",
+            "link": "https://youtu.be/A-5RHMkNhCA",
+            "percent": 100
+        },
+        {
+            "user": "Th13teen",
+            "link": "https://youtu.be/WKa2vEusMSI",
+            "percent": 100
+        },
+        {
+            "user": "Wauks",
+            "link": "https://youtu.be/YuOxeLHY6ss",
+            "percent": 100
+        },
+        {
+            "user": "ShindaYoshi",
+            "link": "https://youtu.be/zTPej1m-3Pc",
+            "percent": 100
+        }
+    ]
+}

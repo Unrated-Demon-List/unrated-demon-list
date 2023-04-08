@@ -1,0 +1,18 @@
+{
+    "id": 77986010,
+    "name": "Baruzla Vortex",
+    "author": "Javixed4",
+    "creators": ["Javixed4","PikaSempai"],
+    "verifier": "Jackensito",
+    "verification": "https://youtu.be/NvMW0ih8m0M",
+    "percentToQualify": 100,
+    "password": "080222",
+    "records": [
+        {
+            "user": "SebHerVil",
+            "link": "https://youtu.be/XTBm7gkAQ3M",
+            "percent": 100
+        }
+    ],
+    "tags": ["Nine Circles"]
+}

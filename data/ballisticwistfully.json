@@ -1,0 +1,16 @@
+{
+    "id": 70371046,
+    "name": "Ballistic wistfully",
+    "author": "eightos",
+    "creators": ["eightos", "TomScott", "maus999"],
+    "verifier": "No One",
+    "verification": "https://www.youtube.com/watch?v=L691ACA2rmA",
+    "percentToQualify": 0.5,
+    "records": [
+        {
+            "user": "IAmNot60hz",
+            "link": "https://youtu.be/7j6BkJuRFqw",
+            "percent": 0.57
+        }
+    ]
+}

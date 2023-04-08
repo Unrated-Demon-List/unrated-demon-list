@@ -1,0 +1,17 @@
+{
+    "id": 62176581,
+    "name": "Astaroth",
+    "author": "8BitFudge",
+    "creators": ["8BitFudge", "tomi"],
+    "verifier": "vinny",
+    "verification": "https://www.youtube.com/watch?v=pd9Z5v2dyiE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "joeingly",
+            "link": "https://www.youtube.com/watch?v=J_bu76lYjiA",
+            "percent": 100
+        }
+    ],
+    "tags": ["Remake"]
+}

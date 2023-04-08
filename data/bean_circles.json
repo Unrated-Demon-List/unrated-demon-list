@@ -1,0 +1,17 @@
+{
+    "id": 70030128,
+    "name": "Bean Circles",
+    "author": "rusticbtw",
+    "creators": ["rusticbtw","Wrandom Stuff", "Spinboot"],
+    "verifier": "Envei",
+    "verification": "https://www.youtube.com/watch?v=h6MsQ2zqZYc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "GDMeric",
+            "link": "https://youtu.be/7URS_dHpZW0",
+            "percent": 100
+        }
+    ],
+    "tags": ["NoNG Song", "Nine Circles"]
+}

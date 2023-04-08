@@ -1,0 +1,76 @@
+{
+    "id": 63862905,
+    "name": "Ballistic Funk",
+    "author": "IronIngot",
+    "creators": ["Melsang"],
+    "verifier": "IronIngot",
+    "verification": "https://youtu.be/mOhuxHyu7m8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Jeller",
+            "link": "https://youtu.be/KqM9-PkhrPM",
+            "percent": 100
+        },
+        {
+            "user": "ddddr",
+            "link": "https://youtu.be/PgJWhKrK13k",
+            "percent": 100
+        },
+	{
+	    "user": "1qawsz",
+	    "link": "https://youtu.be/CTY-hB-6ivA",
+	    "percent": 100
+	},
+	{
+	    "user": "venfy",
+	    "link": "https://youtu.be/YsU6iToUJoc",
+	    "percent": 100
+	},
+	{
+	    "user": "SangChun",
+	    "link": "https://youtu.be/dd9kibeBjg0",
+	    "percent": 100
+	},
+	{
+	    "user": "Maesile",
+	    "link": "https://youtu.be/kTINdEVRbNk",
+	    "percent": 100
+	},
+	{
+	    "user": "블랑",
+	    "link": "https://youtu.be/EMdxpUykaGY",
+	    "percent": 100
+	},
+	{
+	    "user": "Zooisland",
+	    "link": "https://youtu.be/uBDPcExc2gA",
+	    "percent": 100
+	},
+	{
+	    "user": "ysj1005",
+	    "link": "https://youtu.be/wBZFmIABk3w",
+	    "percent": 100
+	},
+	{
+	    "user": "realcookie",
+	    "link": "https://youtu.be/6plo7t1YULA",
+	    "percent": 100
+	},
+	{
+	    "user": "PureDinoMight",
+	    "link": "https://youtu.be/BbcMpqzRyTY",
+	    "percent": 100
+	},
+	{
+	    "user": "Gyrodog",
+	    "link": "https://youtu.be/3RVz5M9jazQ",
+	    "percent": 100
+	},
+        {
+	    "user": "RDJ",
+	    "link": "https://youtu.be/GwTODcw5LqQ",
+	    "percent": 100
+	}
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": 56711529,
+    "name": "Buff This 2",
+    "author": "MetaManZ",
+    "creators": ["MetaManZ", "Wave", "MaxyLAND", "RoiMousti", "AstroFox", "ThinhVN", "Janucha", "BoyOfTheCones", "Zylenox"],
+    "verifier": "HargChucu",
+    "verification": "https://youtu.be/bXye-ejOvSc",
+    "percentToQualify": 100,
+    "password": "696969",
+    "records": [
+        {
+            "user": "CobraBlitz",
+            "link": "https://youtu.be/txC7VItGtzg",
+            "percent": 100
+        },
+        {
+            "user": "Laniakea",
+            "link": "https://youtu.be/N94IoWSU8vg",
+            "percent": 64
+        }
+    ]
+}

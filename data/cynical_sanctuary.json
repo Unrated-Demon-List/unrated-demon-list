@@ -1,0 +1,22 @@
+{
+    "id": 31245342,
+    "name": "Cynical Sanctuary",
+    "author": "Snowfoot",
+    "creators": ["Snowfoot", "RedUniverse"],
+    "verifier": "JakeSJ",
+    "verification": "https://www.youtube.com/watch?v=Wh5-_4JiMak",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "mike; rain22",
+            "link": "https://youtu.be/iKOcTQafPJA",
+            "percent": 100
+        },
+        {
+            "user": "m333",
+            "link": "https://youtu.be/rIPrMdEKaDw",
+            "percent": 100
+        }
+    ],
+    "tags": ["Remake", "Nine Circles", "Short"]
+}

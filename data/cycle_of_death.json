@@ -1,0 +1,52 @@
+{
+    "id": 66120152,
+    "name": "Cycle Of Death",
+    "author": "GDFruitSalad",
+    "creators": [],
+    "verifier": "Isiah",
+    "verification": "https://www.youtube.com/watch?v=C9YZlOQJiHA",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "DiLeMa",
+            "link": "https://www.youtube.com/watch?v=dPg4f0ZMK6A",
+            "percent": 100
+        },
+        {
+            "user": "Amza",
+            "link": "https://www.youtube.com/watch?v=fmycqntlL-Y",
+            "percent": 100
+        },
+        {
+            "user": "TGM05",
+            "link": "https://www.youtube.com/watch?v=IijHlUifVvk",
+            "percent": 100
+        },
+        {
+            "user": "Realiosteelio",
+            "link": "https://www.youtube.com/watch?v=yrHjlQVQlx4",
+            "percent": 100
+        },
+        {
+            "user": "Kurumi",
+            "link": "https://www.youtube.com/watch?v=jfwMkVg9xfM",
+            "percent": 100
+        },
+        {
+            "user": "xRiver007",
+            "link": "https://www.youtube.com/watch?v=LTNdj7b6fbs",
+            "percent": 100
+        },
+        {
+            "user": "Cersia",
+            "link": "https://www.youtube.com/watch?v=HgP9QlzjPQk",
+            "percent": 100
+        },
+        {
+            "user": "exomix",
+            "link": "https://www.youtube.com/watch?v=bvCFl2IC-_4",
+            "percent": 100
+        }
+    ],
+    "tags": ["GDPS Level"]
+}
