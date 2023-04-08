@@ -1,0 +1,22 @@
+{
+    "id": 81345618,
+    "name": "Self Care",
+    "author": "Luk231",
+    "creators": [],
+    "verifier": "1woi",
+    "verification": "https://youtu.be/tubJZ0P7s1k",
+    "percentToQualify": 100,
+    "password": "021121",
+    "records": [
+        {
+            "user": "ZBosGaming",
+            "link": "https://youtu.be/Wwc9Ci_oRR0",
+            "percent": 100
+        },
+        {
+            "user": "Fusion425",
+            "link": "https://youtu.be/9ZmZiuI8iBk",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": 83166664,
+    "name": "Snowcone",
+    "author": "leg1timate",
+    "creators": ["andrew", "CCost", "Galaxium"],
+    "verifier": "Slijee",
+    "verification": "https://youtu.be/uKTeVVDSfEs",
+    "percentToQualify": 60,
+    "records": [
+        {
+            "user": "iIiLaSeRiIi",
+            "link": "https://youtu.be/wS4bZabYJRo",
+            "percent": 100
+        },
+        {
+            "user": "andrew",
+            "link": "https://youtu.be/XvIDU1e5jGY",
+            "percent": 83
+        }
+    ],
+    "tags": ["Short"]
+}

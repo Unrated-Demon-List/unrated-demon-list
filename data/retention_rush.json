@@ -1,0 +1,31 @@
+{
+    "id": 81906166,
+    "name": "Retention Rush",
+    "author": "TheBlackHell",
+    "creators": [],
+    "verifier": "Dark Angel",
+    "verification": "https://youtu.be/SPn1wsc9J9M",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Zoink Doink",
+            "link": "https://youtu.be/WJpcSyII2Xg",
+            "percent": 100
+        },
+        {
+            "user": "rNexel",
+            "link": "https://youtu.be/bQqplbUKoQg",
+            "percent": 100
+        },
+        {
+            "user": "Bibu",
+            "link": "https://youtu.be/U4tKATRKSkw",
+            "percent": 100
+        },
+        {
+            "user": "GGonop",
+            "link": "https://youtu.be/EO3msNQSKpY",
+            "percent": 100
+        }
+    ]
+}

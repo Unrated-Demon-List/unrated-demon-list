@@ -1,0 +1,41 @@
+{
+    "id": 59603582,
+    "name": "Purgatory",
+    "author": "DetroitMichigan",
+    "creators": ["Slithium", "Togru"],
+    "verifier": "Slithium",
+    "verification": "https://youtu.be/-O109ei2UJw",
+    "percentToQualify": 100,
+    "records": [
+	{
+	    "user": "Realiosteelio",
+	    "link": "https://youtu.be/bjcT_0cEj54",
+            "percent": 100
+	},
+	{
+	    "user": "TGM05",
+	    "link": "https://youtu.be/JloCvC1FxWQ",
+            "percent": 100
+	},
+	{
+	    "user": "royen",
+	    "link": "https://youtu.be/Zk0xwzcQ5bs",
+            "percent": 100
+	},
+	{
+	    "user": "Cersia",
+	    "link": "https://youtu.be/S9i_qhHoqFg",
+            "percent": 100
+	},
+	{
+	    "user": "Magmeta",
+	    "link": "https://youtu.be/BwCFWKhDfNc",
+            "percent": 100
+	},
+    {
+	    "user": "Amza",
+	    "link": "https://youtu.be/_XFqZ-yNFyY",
+            "percent": 100
+	}
+    ]
+}

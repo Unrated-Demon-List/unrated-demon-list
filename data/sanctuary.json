@@ -1,0 +1,26 @@
+{
+    "id": 84045888,
+    "name": "Sanctuary",
+    "author": "nikoberry",
+    "creators": ["Wulzy"],
+    "verifier": "sleepy",
+    "verification": "https://youtu.be/ChCclGS276w",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ILikeYEETing",
+            "link": "https://youtu.be/fAA1kp2W85Q",
+            "percent": 100
+        },
+        {
+            "user": "RoinT",
+            "link": "https://youtu.be/Wbq1bn-eYxg",
+            "percent": 100
+        },
+        {
+            "user": "Hipo",
+            "link": "https://youtube.com/watch?v=m6fiQplUOu0&feature=share",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 1376712,
+    "name": "Quadraric Function",
+    "author": "Megadere",
+    "creators": [],
+    "verifier": "nSwish",
+    "verification": "https://youtu.be/5uI6saZ1yA4",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "SrGuillester",
+            "link": "https://youtu.be/GYx6nHfE63s",
+            "percent": 100
+        },
+	{
+            "user": "Delay",
+            "link": "https://youtu.be/6ZPNek5Nx9w",
+            "percent": 100
+        },
+        {
+            "user": "ShindaYoshi",
+            "link": "https://youtu.be/u17IkFNnC54",
+            "percent": 100
+        },
+        {
+            "user": "Th13teen",
+            "link": "https://youtu.be/lpgapYA6D2w",
+            "percent": 100
+        },
+        {
+            "user": "ExoticCreep2",
+            "link": "https://youtu.be/xh1zuVBzOiY",
+            "percent": 100
+        }
+    ]
+}

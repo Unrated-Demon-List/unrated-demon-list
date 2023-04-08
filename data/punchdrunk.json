@@ -1,0 +1,41 @@
+{
+    "id": 54490156,
+    "name": "PunchDrunk",
+    "author": "Zylenox",
+    "creators": [],
+    "verifier": "Zylenox",
+    "verification": "https://youtu.be/El-cBX7KLHw",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "SrGuillester",
+            "link": "https://youtu.be/yEOhGRBC7Aw",
+            "percent": 100
+        },
+        {
+            "user": "visionary",
+            "link": "https://youtu.be/R9KGB-m1GOM",
+            "percent": 100
+        },
+        {
+            "user": "AL3G",
+            "link": "https://youtu.be/inpK90tDk8w",
+            "percent": 100
+        },
+        {
+            "user": "realcookie",
+            "link": "https://youtu.be/iGsMImGQCmM",
+            "percent": 100
+        },
+        {
+            "user": "Draven",
+            "link": "https://youtu.be/2-fgJ5PK_1U",
+            "percent": 100
+        },
+        {
+            "user": "RealPokeGamer",
+            "link": "https://youtu.be/o_A1WAlj3l8",
+            "percent": 100
+        }
+    ]
+}

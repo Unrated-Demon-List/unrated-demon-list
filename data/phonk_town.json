@@ -1,0 +1,77 @@
+{
+    "id": 78126272,
+    "name": "Phonk Town",
+    "author": "ThunderDarkness",
+    "creators": ["Ohmwise", "Entique", "Macstorm", "Viper Arcturus", "Byomix", "WolfSempai", "384", "River"],
+    "verifier": "LordVadercraft",
+    "verification": "https://youtu.be/s5BmZM45TLg",
+    "percentToQualify": 100,
+    "password": "021422",
+    "records": [
+        {
+            "user": "Galvam",
+            "link": "https://youtu.be/TZE8eqHtHpQ",
+            "percent": 100
+        },
+        {
+            "user": "Ohmwise",
+            "link": "https://youtu.be/48WQogWrY7k",
+            "percent": 100
+        },
+        {
+            "user": "dewlemons",
+            "link": "https://youtu.be/ODyBRFw7ye0",
+            "percent": 100
+        },
+        {
+            "user": "JustAlf",
+            "link": "https://youtu.be/w4AAJMTemL4",
+            "percent": 100
+        },
+        {
+            "user": "RyuDieDragon",
+            "link": "https://youtu.be/RxQObXyyoZY",
+            "percent": 100
+        },
+        {
+            "user": "piesy",
+            "link": "https://youtu.be/NqhvqaDXjV8",
+            "percent": 100
+        },
+        {
+            "user": "JoltGD",
+            "link": "https://youtu.be/Lq8Utp4ouiw",
+            "percent": 100
+        },
+        {
+            "user": "HeyImCreo",
+            "link": "https://youtu.be/9Ii8upMCmCE",
+            "percent": 100
+        },
+        {
+            "user": "Wauks",
+            "link": "https://youtu.be/hlDINGXKCWI",
+            "percent": 100
+        },
+        {
+            "user": "Mcrawford001",
+            "link": "https://www.youtube.com/watch?v=G7aamcNNSPo",
+            "percent": 100
+        },
+        {
+            "user": "ZeRefios",
+            "link": "https://youtu.be/JX_zQtJ8JLg",
+            "percent": 100
+        },
+        {
+            "user": "ItzQba96",
+            "link": "https://youtu.be/P6N8-PEFu-8",
+            "percent": 100
+        },
+        {
+            "user": "Trick",
+            "link": "https://youtu.be/i8mdTNbnl10",
+            "percent": 100
+        }
+    ]
+}

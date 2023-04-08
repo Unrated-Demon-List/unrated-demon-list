@@ -1,0 +1,21 @@
+{
+    "id": 66547095,
+    "name": "Parallel Universes",
+    "author": "BGram",
+    "creators": ["LittleBigKilla", "Akira Kurisu", "Saria", "Vet", "Anyth", "Poke", "Indigo67", "Quaint", "Ossy", "Fl9Wol", "Criq"],
+    "verifier": "BGram",
+    "verification": "https://youtu.be/O2KlsQh2Uds",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "conski",
+            "link": "https://youtu.be/Cpsd82fC_0g",
+            "percent": 100
+        },
+        {
+            "user": "Th13teen",
+            "link": "https://youtu.be/YzGFv9kIGxI",
+            "percent": 100
+        }
+    ]
+}

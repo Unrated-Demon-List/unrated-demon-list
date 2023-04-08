@@ -1,0 +1,16 @@
+{
+    "id": 77669659,
+    "name": "Pagoda",
+    "author": "Seturan",
+    "creators": ["Xiko", "Angyung", "Yonaka", "Lebi06", "Gyro", "SyQual"],
+    "verifier": "Seturan",
+    "verification": "https://youtu.be/KVomsNjGalQ",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "SkyCrab",
+            "link": "https://youtu.be/Oz0V5DOPsGU",
+            "percent": 100
+        }
+    ]
+}

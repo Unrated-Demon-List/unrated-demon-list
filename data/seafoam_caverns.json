@@ -1,0 +1,46 @@
+{
+    "id": 59220357,
+    "name": "Seafoam Caverns",
+    "author": "Spamdrew128",
+    "creators": ["Tricks33"],
+    "verifier": "Spamdrew128",
+    "verification": "https://www.youtube.com/watch?v=OQ0ULsXTvOA",
+    "percentToQualify": 100,
+    "records": [
+	{
+	    "user": "DiLeMa",
+	    "link": "https://www.youtube.com/watch?v=qeYLsF5hhBE",
+            "percent": 100
+	},
+	{
+	    "user": "AlexDIRO",
+	    "link": "https://www.youtube.com/watch?v=QpoH7wHKhxI",
+            "percent": 100
+	},
+	{
+	    "user": "royen",
+	    "link": "https://www.youtube.com/watch?v=bukPnPGJW_k",
+            "percent": 100
+	},
+	{
+	    "user": "TGM05",
+	    "link": "https://www.youtube.com/watch?v=_H_eyqqRuqk",
+            "percent": 100
+	},
+	{
+	    "user": "Cersia",
+	    "link": "https://www.youtube.com/watch?v=MlvquqPX2pA",
+            "percent": 100
+	},
+	{
+	    "user": "Realiosteelio",
+	    "link": "https://www.youtube.com/watch?v=a7O7P2cSQAE",
+            "percent": 100
+	},
+	{
+	    "user": "Kurumi",
+	    "link": "https://www.youtube.com/watch?v=bnEHiIydlmc",
+            "percent": 100
+	}
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": 75867791,
+    "name": "poocu",
+    "author": "btLisp",
+    "creators": [],
+    "verifier": "Baeru",
+    "verification": "https://youtu.be/6n3419JUP1M",
+    "percentToQualify": 57,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Rydon",
+            "link": "https://youtu.be/LEzV-7NkOk0",
+            "percent": 100
+        },
+        {
+            "user": "Sardina",
+            "link": "https://youtu.be/4U1i_YvU1Uc",
+            "percent": 90
+        },
+        {
+            "user": "CheezySF",
+            "link": "https://youtu.be/2tCxKSyg6ko",
+            "percent": 70
+        }
+    ],
+    "tags": ["2-Player"]
+}

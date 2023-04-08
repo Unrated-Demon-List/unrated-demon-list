@@ -1,0 +1,22 @@
+{
+    "id": 78287357,
+    "name": "Silent Cataclysm",
+    "author": "HequinoX",
+    "creators": ["AEROSTATIK"],
+    "verifier": "HequinoX",
+    "verification": "https://youtu.be/4eDOi8R5ZgQ",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ItzDoVi",
+            "link": "https://youtu.be/MyzWz8JrvQU",
+            "percent": 100
+        },
+        {
+            "user": "ShindaYoshi",
+            "link": "https://youtu.be/-rwdhDDCuM4",
+            "percent": 100
+        }
+    ],
+    "tags": ["Old Impossible Level"]
+}

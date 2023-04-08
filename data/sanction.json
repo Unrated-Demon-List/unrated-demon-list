@@ -1,0 +1,21 @@
+{
+    "id": 57241446,
+    "name": "Sanction",
+    "author": "xArnold",
+    "creators": ["Digital", "Skulzi", "Zoshie", "Mixer"],
+    "verifier": "xArnold",
+    "verification": "https://youtu.be/umTX_6Fyqng",
+    "percentToQualify": 100,
+    "records": [
+	{
+	    "user": "WormFodder",
+	    "link": "https://youtu.be/a9y8WplayXs",
+	    "percent": 100
+	},
+	{
+	    "user": "Enzollz",
+	    "link": "https://youtu.be/eniUCpHguUg",
+	    "percent": 100
+	}
+    ]
+}

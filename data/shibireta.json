@@ -1,0 +1,52 @@
+{
+    "id": 58700716,
+    "name": "shibireta",
+    "author": "lolwut7",
+    "creators": ["Shuri", "Minaxa", "Lime"],
+    "verifier": "lolwut",
+    "verification": "https://youtu.be/PIdX-VGhBX4",
+    "percentToQualify": 100,
+    "password": "121519",
+    "records": [
+        {
+            "user": "shibireta",
+            "link": "https://youtu.be/a9y8WplayXs",
+            "percent": 100
+        },
+        {
+            "user": "Ryth",
+            "link": "https://youtu.be/T74y3cy1fu0",
+            "percent": 100
+        },
+        {
+            "user": "vaen",
+            "link": "https://youtu.be/0AlSrwnOF8c",
+            "percent": 100
+        },
+        {
+            "user": "nac",
+            "link": "https://youtu.be/2Au9tq24KVo",
+            "percent": 100
+        },
+        {
+            "user": "Fusion425",
+            "link": "https://youtu.be/A6dl5tLXVOU",
+            "percent": 100
+        },
+        {
+            "user": "Ranly",
+            "link": "https://youtu.be/3dwAAUR-Qsw",
+            "percent": 100
+        },
+        {
+            "user": "Shimzy",
+            "link": "https://youtu.be/oUdtZAonCwE",
+            "percent": 100
+        },
+        {
+            "user": "x86bit",
+            "link": "https://youtu.be/qtLjIc1zwOI",
+            "percent": 100
+        }
+    ]
+}

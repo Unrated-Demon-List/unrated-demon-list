@@ -1,0 +1,26 @@
+{
+    "id": 29786910,
+    "name": "Paracosm Hell",
+    "author": "JakeSJ",
+    "creators": ["N1X0", "Metalface221"],
+    "verifier": "JakeSJ",
+    "verification": "https://youtu.be/rdVxCMl_f5Y",
+    "percentToQualify": 100,
+    "records": [
+	{
+	    "user": "Aeden",
+	    "link": "https://youtu.be/m16ZVSDhiJ4",
+	    "percent": 100
+	},
+	{
+	    "user": "OkayRandy",
+	    "link": "https://youtu.be/HwoZa3Kmas8",
+	    "percent": 100
+	},
+	{
+	    "user": "DaMeister",
+	    "link": "https://youtu.be/YQ7HyH5mq34",
+	    "percent": 94
+	}
+    ]
+}

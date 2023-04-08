@@ -1,0 +1,22 @@
+{
+    "id": 79750719,
+    "name": "Silent Circles",
+    "author": "Zynvire",
+    "creators": ["Zynvire", "Metalface221", "Majkomar", "Artos", "Ramrekt", "Voltex", "Noice", "Nxbuluah", "CuLuC", "Nepmere", "UFokinWotM8", "RDelta", "Temp", "Isane", "EyeOfTheStorm", "RealVet", "Connected", "Cyrillic", "TheRealSailent"],
+    "verifier": "xanii",
+    "verification": "https://youtu.be/A7WkrQGV7Xs",
+    "percentToQualify": 50,
+    "records": [
+	{
+	    "user": "Cursed",
+	    "link": "https://youtu.be/z0p9TfvK5co",
+            "percent": 100
+	},
+        {
+	        "user": "Dolphy",
+	        "link": "https://youtu.be/grb_CS-5l4I",
+            "percent": 81
+	    }
+    ],
+    "tags": ["Remake", "Nine Circles Level"]
+}

@@ -1,0 +1,27 @@
+{
+    "id": 78181354,
+    "name": "REVOLT",
+    "author": "TrusTa",
+    "creators": ["Dream Eater", "domi", "Allox", "Gigsrh", "Alf", "Mezzo", "Darite", "Oreate", "Sedgehog", "Kivixi"],
+    "verifier": "Magilex",
+    "verification": "https://youtu.be/n4HjGtShvgU",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "ElectricExcalibur",
+            "link": "https://youtu.be/D03tPl6m3iM",
+            "percent": 100
+        },
+        {
+            "user": "Wolvez",
+            "link": "https://youtu.be/wQwN_LJLqZs",
+            "percent": 100
+        },
+        {
+            "user": "Magmeta",
+            "link": "https://youtu.be/vQTELAOaODo",
+            "percent": 100
+        }
+    ]
+}

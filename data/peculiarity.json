@@ -1,0 +1,21 @@
+{
+    "id": 55828630,
+    "name": "Peculiarity",
+    "author": "KatelynWaffles",
+    "creators": [],
+    "verifier": "KatelynWaffles",
+    "verification": "https://www.youtube.com/watch?v=lzB4cgdTXu4",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "HaydenX13",
+            "link": "https://youtu.be/f73r3DNF5cY",
+            "percent": 100
+        },
+        {
+            "user": "Spatdoepa",
+            "link": "https://youtu.be/hz7UaEHMcKk",
+            "percent": 100
+        }
+    ]
+}

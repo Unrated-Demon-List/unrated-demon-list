@@ -1,0 +1,48 @@
+{
+    "id": 49294791,
+    "name": "River Styx",
+    "author": "SONIC80",
+    "creators": ["EnemyMoabs"],
+    "verifier": "SONIC80",
+    "verification": "https://youtu.be/Al3fWcz0Mfo",
+    "percentToQualify": 100,
+    "password": "300918",
+    "records": [
+        {
+           "user": "Blitzer",
+           "link": "https://youtu.be/kOafWRIcrgM",
+           "percent": 100
+        },
+	{
+	   "user": "GDMeric",
+	   "link": "https://youtu.be/wyH_sJVtz9A",
+	   "percent": 100
+	},
+        {
+	   "user": "ButterFish",
+	   "link": "https://www.youtube.com/watch?v=HIA4v-1j51g",
+	   "percent": 100
+	},
+        {
+	   "user": "paqoe",
+	   "link": "https://youtu.be/Y8sqyHW26Jk",
+	   "percent": 100
+	},
+        {
+	   "user": "ShindaYoshi",
+	   "link": "https://youtu.be/R77lBLI7y5A",
+	   "percent": 100
+	},
+        {
+	   "user": "Deados35",
+	   "link": "https://youtu.be/l4MAJdvU1CE",
+	   "percent": 100
+	},
+	{
+	   "user": "DaMeister",
+	   "link": "https://youtu.be/3DkZhuKo8Wc",
+	   "percent": 74
+	}
+    ],
+    "tags": ["Old Impossible Level", "Memory"]
+}

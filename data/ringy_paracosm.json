@@ -1,0 +1,27 @@
+{
+    "id": 78745224,
+    "name": "Ringy Paracosm",
+    "author": "GDNachoo",
+    "creators": ["GDNachoo", "Flooky", "CrystalCM"],
+    "verifier": "SpeedyMuffin",
+    "verification": "https://youtu.be/RIDuh4IVGiw",
+    "percentToQualify": 58,
+    "records": [
+        {
+            "user": "WatchPiggy",
+            "link": "https://youtu.be/Ughwu-KBsKA",
+            "percent": 100
+        },
+        {
+            "user": "Hipo",
+            "link": "https://youtu.be/kK8x41bbbdo",
+            "percent": 100
+        },
+        {
+            "user": "Ghosting Dash",
+            "link": "https://youtu.be/LAnfmvCdFfE",
+            "percent": 100
+        }
+    ],
+    "tags": ["Nine Circles Level"]
+}

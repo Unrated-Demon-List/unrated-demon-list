@@ -1,0 +1,18 @@
+{
+    "id": 37641709,
+    "name": "Sakupen Realm",
+    "author": "MeatiusGaming",
+    "creators": ["Filqh", "Drakeghast", "Delcherro", "TrusTa", "Panos1303", "Zundex", "NightFreeze", "Cosmoo"],
+    "verifier": "MeatiusGaming",
+    "verification": "https://youtu.be/yIbP2GgsLBo",
+    "percentToQualify": 58,
+    "password": "280917",
+    "records": [
+        {
+            "user": "Luqualizer",
+            "link": "https://youtu.be/QuY-6x42WTY",
+            "percent": 100
+        }
+    ],
+    "tags": ["Former Top 1"]
+}

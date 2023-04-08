@@ -1,0 +1,16 @@
+{
+    "id": 65379053,
+    "name": "Polaris",
+    "author": "AzaFTW",
+    "creators": ["Alex112300", "Delts", "HaminoPulsu", "LakiFarux", "Agate", "Rambostro", "Geonox", "Miradpon", "Arith"],
+    "verifier": "AzaFTW",
+    "verification": "https://youtu.be/enUPCOaFW1w",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "TheUltraBlock",
+            "link": "https://youtu.be/WCFS_-qClVA",
+            "percent": 100
+        }
+    ]
+}

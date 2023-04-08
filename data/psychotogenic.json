@@ -1,0 +1,18 @@
+{
+    "id": 84408042,
+    "name": "Psychotogenic",
+    "author": "zDeadblue",
+    "creators": [],
+    "verifier": "TFIBB",
+    "verification": "https://youtu.be/yBqqudXa5dU",
+    "percentToQualify": 44,
+    "password": "",
+    "records": [
+        {
+            "user": "njacked",
+            "link": "https://youtu.be/D6wjFkZdMcA",
+            "percent": 60
+        }
+    ],
+    "tags": ["GDPS Level", "Short", "Layout"]
+}

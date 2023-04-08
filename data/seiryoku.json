@@ -1,0 +1,22 @@
+{
+    "id": 78146075,
+    "name": "Seiryoku",
+    "author": "Chouwa",
+    "creators": ["FomalHaut", "AAAAlex", "Shard", "Raven", "royal", "Alf", "Trilogy", "DavoBoss", "Lax HDz"],
+    "verifier": "rDelfih",
+    "verification": "https://youtu.be/LiGP8LtGdnM",
+    "percentToQualify": 100,
+    "password": "300513",
+    "records": [
+        {
+            "user": "ilysakae",
+            "link": "https://youtu.be/tnOmkT_X_ZA",
+            "percent": 100
+        },
+        {
+            "user": "Micro",
+            "link": "https://youtu.be/qFjihIMpoKc",
+            "percent": 100
+        }
+    ]
+}

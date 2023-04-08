@@ -1,0 +1,41 @@
+{
+    "id": 66851981,
+    "name": "Redemption",
+    "author": "llZestll",
+    "creators": [],
+    "verifier": "llZestll",
+    "verification": "https://youtu.be/UdKLG3kfqys",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "JakeSJ",
+            "link": "https://youtu.be/PfMyOIRk-x0",
+            "percent": 100
+        },
+        {
+            "user": "VoTcHi",
+            "link": "https://youtu.be/PE_QK5iyMSw",
+            "percent": 100
+        },
+        {
+            "user": "reoode",
+            "link": "https://youtu.be/sMOZz9g3hlc",
+            "percent": 100
+        },
+        {
+            "user": "Hipo",
+            "link": "https://youtu.be/yyfKPj5Etgg",
+            "percent": 100
+        },
+        {
+            "user": "LkWavs",
+            "link": "https://youtu.be/v48WFgg5fog",
+            "percent": 100
+        },
+        {
+            "user": "krakow",
+            "link": "https://youtu.be/gU2oggINPXA",
+            "percent": 100
+        }
+    ]
+}
