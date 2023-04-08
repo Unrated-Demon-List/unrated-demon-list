@@ -1,17 +1,16 @@
 {
-    "id": ,
-    "name": "",
-    "author": "",
-    "creators": [],
-    "verifier": "",
-    "verification": "",
-    "percentToQualify": 100,
-    "password": "",
+    "id": 76264681,
+    "name": "Unnerfed Allegiance",
+    "author": "nikroplays",
+    "creators": ["nikroplays", "EndLevel"],
+    "verifier": "Laniakea",
+    "verification": "https://youtu.be/JJpfvGCNIBo",
+    "percentToQualify": 62,
     "records": [
         {
-            "user": "",
-            "link": "",
-            "percent": 100
+            "user": "Slithium",
+            "link": "https://youtu.be/ojeHOv-nVec",
+            "percent": 80
         }
     ]
 }
