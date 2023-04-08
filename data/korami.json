@@ -1,0 +1,21 @@
+{
+    "id": 58481301,
+    "name": "Korami",
+    "author": "iMinAY",
+    "creators": [],
+    "verifier": "Moosh",
+    "verification": "https://youtu.be/vIoeqPlYlJ4",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "PoweredByPie",
+            "link": "https://youtu.be/gpsO1LH6ZW4",
+            "percent": 100
+        },
+        {
+            "user": "Th13teen",
+            "link": "https://youtu.be/XJt8c2Coplk",
+            "percent": 100
+        }
+    ]
+}

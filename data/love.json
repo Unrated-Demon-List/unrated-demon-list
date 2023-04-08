@@ -1,0 +1,32 @@
+{
+    "id": 70677045,
+    "name": " Love",
+    "author": "IcEDCave",
+    "creators": ["IcEDCave", "Akira Kurisu"],
+    "verifier": "Mark Napkin",
+    "verification": "https://youtu.be/sfRPjgz7vxM",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "damian",
+            "link": "https://youtu.be/Q0Q7VBbcuXg",
+            "percent": 100
+        },
+        {
+            "user": "ShindaYoshi",
+            "link": "https://youtu.be/hWAxdw6JTEc",
+            "percent": 100
+        },
+        {
+            "user": "thiccboiparker",
+            "link": "https://youtu.be/tfIPPjHlSkI",
+            "percent": 61
+        },
+        {
+            "user": "Dils thik",
+            "link": "https://youtu.be/RG41gQL60PI",
+            "percent": 100
+        }
+    ],
+    "tags": ["GDPS Level"]
+}

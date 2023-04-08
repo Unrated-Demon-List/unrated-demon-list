@@ -1,0 +1,16 @@
+{
+    "id": 47668174,
+    "name": "Narcissist",
+    "author": "Skulzi",
+    "creators": ["Cheesy", "Howl", "BIGMAC77", "Mixerplay101"],
+    "verifier": "Skulzi",
+    "verification": "https://youtu.be/ra4aIfhn4w8",
+    "percentToQualify": 100,
+    "records": [
+	{
+	    "user": "JakeSJ",
+	    "link": "https://youtu.be/gRqFReCAMxY",
+	    "percent": 100
+	}
+    ]
+}

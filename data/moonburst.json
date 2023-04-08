@@ -1,0 +1,17 @@
+{
+    "id": 70945986,
+    "name": "Moonburst",
+    "author": "btLisp",
+    "creators": ["Rumi", "Samati", "Reshi"],
+    "verifier": "Hover",
+    "verification": "https://youtu.be/s8GNjOlv_Q4",
+    "percentToQualify": 100,
+    "password": "000000",
+    "records": [
+        {
+            "user": "ZerniasX",
+            "link": "https://youtu.be/JzbuWyJ55WQ",
+            "percent": 100
+        }
+    ]
+}

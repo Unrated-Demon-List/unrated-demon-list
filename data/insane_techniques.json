@@ -1,0 +1,26 @@
+{
+    "id": 80529928,
+    "name": "Insane Techniques",
+    "author": "Exorsus12",
+    "creators": ["Azuler", "Limogema", "Hail", "Benja", "Simon", "Nainteils", "Zeithex", "Rexter", "BlueLite", "MatoSwag", "Superioxx", "Snikz", "Aniiuu", "Gryllex", "Sekya", "Rezy", "EVILSEPH"],
+    "verifier": "SrGuillester",
+    "verification": "https://youtu.be/sWeruKgwDwc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "BlazerWolf",
+            "link": "https://youtu.be/m3qJ4NiGEeY",
+            "percent": 100
+        },
+        {
+            "user": "Doshi",
+            "link": "https://www.youtube.com/watch?v=q9l0JP3iVoY",
+            "percent": 100
+        },
+        {
+            "user": "EVILSEPH83",
+            "link": "https://youtu.be/LIzl7ocYk7E",
+            "percent": 100
+        }
+    ]
+}

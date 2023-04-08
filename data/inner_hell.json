@@ -1,0 +1,47 @@
+{
+    "id": 25666477,
+    "name": "Inner Hell",
+    "author": "KaotikJumper",
+    "creators": [],
+    "verifier": "MeatiusGaming",
+    "verification": "https://youtu.be/7rYqPwFGNwk",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+	{
+            "user": "Syne",
+            "link": "https://www.youtube.com/watch?v=72s7ylmPR-I",
+            "percent": 100
+        },
+        {
+            "user": "ErKe",
+            "link": "https://youtu.be/MdYICoSTlso",
+            "percent": 100
+        },
+        {
+            "user": "Zagros",
+            "link": "https://youtu.be/49yVx2PdcuM",
+            "percent": 100
+        },
+        {
+            "user": "LkWavs",
+            "link": "https://youtu.be/f4ug14pan_4",
+            "percent": 100
+        },
+        {
+            "user": "reoode",
+            "link": "https://youtu.be/Xik-J4a1r7M",
+            "percent": 100
+        },
+        {
+            "user": "Mentrillum",
+            "link": "https://youtu.be/TiHveu5U0H0",
+            "percent": 100
+        },
+        {
+            "user": "Th13teen",
+            "link": "https://youtu.be/ixVkMRokEp8",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": 89031391,
+    "name": "Monke",
+    "author": "The1inthecircle",
+    "creators": ["Anonymous"],
+    "verifier": "Circle",
+    "verification": "https://youtu.be/cEM4gb9ZGNQ",
+    "percentToQualify": 53,
+    "records": [
+        {
+            "user": "ViperVenom95",
+            "link": "https://youtu.be/8i_ZP5dz-Es",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 86412942,
+    "name": "Knights of Thunder",
+    "author": "HangerLord",
+    "creators": [],
+    "verifier": "Helix",
+    "verification": "https://youtu.be/npIZ8TGMDvk",
+    "percentToQualify": 52,
+    "records": [
+        {
+            "user": "Picksl",
+            "link": "https://youtu.be/DpQctgGrdrE",
+            "percent": 100
+        },
+        {
+            "user": "Victurkey",
+            "link": "https://youtu.be/TN6xG6jfQgY",
+            "percent": 100
+        },
+        {
+            "user": "Fwin",
+            "link": "https://youtu.be/080PhRPR3J8",
+            "percent": 100
+        },
+        {
+            "user": "ItzRainy",
+            "link": "https://youtu.be/bG2y5fBoZPw",
+            "percent": 100
+        },
+        {
+            "user": "ItzMira",
+            "link": "https://youtu.be/dauXFhTCXqY",
+            "percent": 75
+        }
+    ]
+}

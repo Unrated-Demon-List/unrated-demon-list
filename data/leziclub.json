@@ -1,0 +1,26 @@
+{
+    "id": 29445012,
+    "name": "Leziclub",
+    "author": "lSunix",
+    "creators": ["ScpLanst"],
+    "verifier": "lSunix",
+    "verification": "https://youtu.be/J3eL9aaUt9o",
+    "percentToQualify": 100,
+    "records": [
+	{
+	    "user": "VileX",
+	    "link": "https://youtu.be/oTMc15P_dps",
+	    "percent": 100
+	},
+	{
+	    "user": "SeptaGon7",
+	    "link": "https://youtu.be/Kc10PwBwrw8",
+	    "percent": 100
+	},
+	{
+	    "user": "krakow",
+	    "link": "https://youtu.be/YIbfpzaTXU0",
+	    "percent": 100
+	}
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": 79004787,
+    "name": "Old Avalanche",
+    "author": "DaMeister",
+    "creators": ["Filqh"],
+    "verifier": "MeatiusGaming",
+    "verification": "https://youtu.be/wH0HsbLdN8g",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "DaMeister",
+            "link": "https://youtu.be/Cjcb2XeR8YI",
+            "percent": 100
+        },
+        {
+            "user": "breaddemon",
+            "link": "https://youtu.be/8nMX-oDK8uw",
+            "percent": 100
+        }
+    ],
+    "tags": ["Limited Vision"]
+}

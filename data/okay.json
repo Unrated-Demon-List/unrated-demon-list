@@ -1,0 +1,27 @@
+{
+    "id": 59101849,
+    "name": "OKAY",
+    "author": "Moosh",
+    "creators": ["99percent"],
+    "verifier": "Moosh",
+    "verification": "https://youtu.be/Xstfv8KK0JQ",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Koozoo2000",
+            "link": "https://youtu.be/aGQ2ua0B4ho",
+            "percent": 100
+        },
+        {
+            "user": "Kapinapi",
+            "link": "https://youtu.be/RzfEL7E0MuY",
+            "percent": 100
+        },
+        {
+            "user": "Asdner",
+            "link": "https://youtu.be/hp-7OoktdvI",
+            "percent": 100
+        }
+    ]
+}

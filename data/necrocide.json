@@ -1,0 +1,36 @@
+{
+    "id": 53653552,
+    "name": "Necrocide",
+    "author": "Zylenox",
+    "creators": [],
+    "verifier": "Zylenox",
+    "verification": "https://youtu.be/TtZznh8RgIw",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Enzeux",
+            "link": "https://youtu.be/BiFXGAjKGZk",
+            "percent": 100
+        },
+        {
+            "user": "Dorami",
+            "link": "https://youtu.be/lw-0homWvkM",
+            "percent": 100
+        },
+        {
+            "user": "FigTheCat",
+            "link": "https://youtu.be/MNueDJZGs4Q",
+            "percent": 100
+        },
+        {
+            "user": "OnlyTrying",
+            "link": "https://youtu.be/lnunk9ukUto",
+            "percent": 100
+        },
+        {
+            "user": "BrowarKedawar",
+            "link": "https://youtu.be/HeEaAJE2ekE",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": 88474874,
+    "name": "Lavender Falls",
+    "author": "Darksive",
+    "creators": [],
+    "verifier": "Pike",
+    "verification": "https://youtu.be/z3bTC08zT4g",
+    "percentToQualify": 54,
+    "records": [
+        {
+            "user": "kloone",
+            "link": "https://youtu.be/xV0_Xzs3c5A",
+            "percent": 100
+        },
+        {
+            "user": "zSquidKnight",
+            "link": "https://youtu.be/IqkmWQeqDYA",
+            "percent": 100
+        },
+        {
+            "user": "Experienced Lobster",
+            "link": "https://youtu.be/d0c17Qc3lAc",
+            "percent": 100
+        }
+    ],
+    "tags": ["NoNG Song"]
+}

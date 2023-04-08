@@ -1,0 +1,42 @@
+{
+    "id": 88244926,
+    "name": "MISFIRE",
+    "author": "Galaxxyss",
+    "creators": ["Galaxxyss", "zYuko", "Anonymous 1", "Metsho", "Anonymous 2", "Valentlne", "MauzyMice", "GawrGura", "lGenoxide", "CrispyCroc"],
+    "verifier": "Zeronium",
+    "verification": "https://youtu.be/hKerWliimjg",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Slijee",
+            "link": "https://youtu.be/l08ZNGXUknU",
+            "percent": 100
+        },
+        {
+            "user": "GdLightshade",
+            "link": "https://youtu.be/0BTtD5gtPS0",
+            "percent": 100
+        },
+        {
+            "user": "Multiverse",
+            "link": "https://drive.google.com/file/d/1y3aOCqft_25Ks10fH6aI-llkPHPjbURd/view?usp=share_link",
+            "percent": 100
+        },
+        {
+            "user": "bimms",
+            "link": "https://youtu.be/PuK4urKNU7g",
+            "percent": 100
+        },
+        {
+            "user": "mark.",
+            "link": "https://youtu.be/pXOhmvQVniY",
+            "percent": 100
+        },
+        {
+            "user": "Bibu",
+            "link": "https://youtu.be/fccfceiREvE",
+            "percent": 100
+        }
+    ],
+    "tags": ["NoNG Song"]
+}

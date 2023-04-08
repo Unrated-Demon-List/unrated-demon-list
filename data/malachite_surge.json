@@ -1,0 +1,37 @@
+{
+    "id": 61723338,
+    "name": "Malachite Surge",
+    "author": "GDXeox",
+    "creators": [],
+    "verifier": "That one cat",
+    "verification": "https://youtu.be/jb69GBzHxMI",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Mullsy",
+            "link": "https://youtu.be/mSQhgTSWStE",
+            "percent": 100
+        },
+        {
+            "user": "CaveMelv",
+            "link": "https://youtu.be/GlRWS7ACjGc",
+            "percent": 100
+        },
+        {
+            "user": "Healbreath",
+            "link": "https://youtu.be/CMWGdpuEAa0",
+            "percent": 100
+        },
+        {
+            "user": "Hikudo",
+            "link": "https://youtu.be/Ij779FeSP5I",
+            "percent": 100
+        },
+        {
+            "user": "orizu",
+            "link": "https://www.youtube.com/watch?v=JHzeJN2K6KE",
+            "percent": 100
+        }
+    ],
+    "tags": ["GDPS Level", "NoNG Song"]
+}

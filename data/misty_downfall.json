@@ -1,0 +1,27 @@
+{
+    "id": 79221962,
+    "name": "Misty Downfall (Remake)",
+    "author": "Dep96",
+    "creators": ["Dep96","Wonwo","legit","Gruzy","Korewa"],
+    "verifier": "Noxiom",
+    "verification": "https://youtu.be/97nGT1jphL0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Dep96",
+            "link": "https://www.youtube.com/watch?v=i3Cv_bj4mio",
+            "percent": 100
+        },
+        {
+            "user": "Zoink",
+            "link": "https://youtu.be/SEWr79KFYl8",
+            "percent": 100
+        },
+        {
+            "user": "Zaph",
+            "link": "https://youtu.be/pK7RA4oX5OA",
+            "percent": 100
+        }
+    ],
+    "tags": ["Remake"]
+}

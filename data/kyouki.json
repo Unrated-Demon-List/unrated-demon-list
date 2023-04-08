@@ -1,0 +1,21 @@
+{
+    "id": 86018142,
+    "name": "Kyouki",
+    "author": "Demishio",
+    "creators": [],
+    "verifier": "Demishio",
+    "verification": "https://youtu.be/KDa5c0CJTHs",
+    "percentToQualify": 49,
+    "records": [
+        {
+            "user": "Thnnder",
+            "link": "https://youtu.be/WERzZHrSPMk",
+            "percent": 50
+        },
+        {
+            "user": "taiago",
+            "link": "https://youtu.be/wmwCzACklbg",
+            "percent": 50
+        }
+    ],
+}

@@ -1,0 +1,41 @@
+{
+    "id": 24829681,
+    "name": "Kinetics",
+    "author": "Conra",
+    "creators": ["Failure444", "DatNitro", "Xmale", "TBGeo123", "Silence", "GaidenHertuny", "Vapen", "CesDroid", "Licentious", "BubShish", "Happy", "Ninetales"],
+    "verifier": "Conra",
+    "verification": "https://youtu.be/G7AxnfvU5Gs",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "SebQuero11",
+            "link": "https://youtu.be/XEgohueKp8U",
+            "percent": 100
+        },
+        {
+            "user": "Mactanow",
+            "link": "https://youtu.be/hLoCMT7rK0k",
+            "percent": 100
+        },
+        {
+            "user": "Sebazepp",
+            "link": "https://youtu.be/3U1Aw5WWd_s",
+            "percent": 100
+        },
+        {
+            "user": "Swithical",
+            "link": "https://www.youtube.com/watch?v=bzvimOV_hdM",
+            "percent": 100
+        },
+        {
+            "user": "GaidenHertuny",
+            "link": "https://youtu.be/vHI2B40Ip5c",
+            "percent": 100
+        },
+        {
+            "user": "xyLteK",
+            "link": "https://youtu.be/s16mCR--Q3M",
+            "percent": 100
+        }
+    ]
+}

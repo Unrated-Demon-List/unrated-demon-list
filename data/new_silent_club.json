@@ -1,0 +1,17 @@
+{
+    "id": 38295902,
+    "name": "New Silent Club",
+    "author": "HequinoX",
+    "creators": ["blackP2Sfull", "JZDash", "Hyoko"],
+    "verifier": "HequinoX",
+    "verification": "https://youtu.be/Xvfe3OLoWfE",
+    "percentToQualify": 100,
+    "password": "151017",
+    "records": [
+        {
+	    "user": "reruchoupie",
+	    "link": "https://www.youtube.com/watch?v=JEroDhSBsfM",
+            "percent": 100
+	}
+    ]
+}

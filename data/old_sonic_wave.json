@@ -1,0 +1,36 @@
+{
+    "id": 39676903,
+    "name": "Old Sonic Wave",
+    "author": "lSunix",
+    "creators": ["Cyclic"],
+    "verifier": "lSunix",
+    "verification": "https://youtu.be/HPyTphv-9xM",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "LkWavs",
+            "link": "https://youtu.be/zIOJdKqZQMM",
+            "percent": 100
+        },
+        {
+            "user": "xanii",
+            "link": "https://youtu.be/1Ne-uI_suys",
+            "percent": 100
+        },
+        {
+            "user": "KristoZed",
+            "link": "https://youtu.be/SaW80gbLyYE",
+            "percent": 100
+        },
+        {
+            "user": "Hipo",
+            "link": "https://youtu.be/PQpYGA1hMwE",
+            "percent": 100
+        },
+        {
+            "user": "FaStNiNjAzZ",
+            "link": "https://youtu.be/N6lueT1cjps",
+            "percent": 100
+        }
+    ]
+}

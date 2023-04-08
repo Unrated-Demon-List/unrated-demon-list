@@ -1,0 +1,71 @@
+{
+    "id": 88611404,
+    "name": "NEUTRA",
+    "author": "Jenkins"
+    "creators": ["Jenkins", "ILRELL", "Marwec"],
+    "verifier": "AeonAir",
+    "verification": "https://youtu.be/0fNBFwNS1qg",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "CheezySF",
+            "link": "https://youtu.be/7zjZ-VDbCSw",
+            "percent": 100
+        },
+        {
+            "user": "Moderns",
+            "link": "https://youtu.be/_E4XbbUQ9cU",
+            "percent": 100
+        },
+        {
+            "user": "Jenkshouse1",
+            "link": "https://youtu.be/yD9g0Dady8k",
+            "percent": 100
+        },
+        {
+            "user": "Boodbdog",
+            "link": "https://www.twitch.tv/videos/1744088125",
+            "percent": 92
+        },
+        {
+            "user": "teraaa",
+            "link": "https://youtu.be/i_lcN7I6zBU",
+            "percent": 86
+        },
+        {
+            "user": "Circle",
+            "link": "https://drive.google.com/file/d/1C-0UyAqtCCXkMcF9fhmqVF8T_3Q3oLFi/view?usp=share_link",
+            "percent": 85
+        },
+        {
+            "user": "Washed",
+            "link": "https://www.youtube.com/watch?v=tozCiWvNiPI",
+            "percent": 83
+        },
+        {
+            "user": "Magmeta",
+            "link": "",
+            "percent": 73
+        },
+        {
+            "user": "Splingxz",
+            "link": "https://youtu.be/BORvdHBeyjY",
+            "percent": 68
+        },
+        {
+            "user": "redd",
+            "link": "https://youtu.be/6-rmg0FicrE",
+            "percent": 66
+        },
+        {
+            "user": "Fabricorn",
+            "link": "https://cdn.discordapp.com/attachments/396433111245914112/1078905559522234468/neutra_59.mp4",
+            "percent": 59
+        },
+        {
+            "user": "kiseta",
+            "link": "https://twitter.com/kiseta32/status/1627452051142721538",
+            "percent": 58
+        }
+    ]
+}

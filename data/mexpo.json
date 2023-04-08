@@ -1,0 +1,21 @@
+{
+    "id": 34874296,
+    "name": "Mexpo",
+    "author": "HequinoX",
+    "creators": ["ScpLanst", "OverZero"],
+    "verifier": "HequinoX",
+    "verification": "https://youtu.be/WOcoDHmZLrQ",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "SeptaGon7",
+            "link": "https://youtu.be/VGqnM6F1QoI",
+            "percent": 100
+        },
+        {
+            "user": "reoode",
+            "link": "https://youtu.be/YPOIqgzvrCU",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 85064280,
+    "name": "Modern Dart",
+    "author": "szamle",
+    "creators": ["magicstuff"],
+    "verifier": "Gokill",
+    "verification": "https://youtu.be/KAr3fiiBRGg",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Hipo",
+            "link": "https://youtu.be/ETmbUULMYJU",
+            "percent": 100
+        }
+    ],
+    "tags": ["Remake", "Nine Circles"]
+}

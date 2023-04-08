@@ -1,0 +1,16 @@
+{
+    "id": 31776933,
+    "name": "Lunar Eclipse",
+    "author": "Atomic",
+    "creators": ["KaptainCPU"],
+    "verifier": "Atomic",
+    "verification": "https://youtu.be/OVvsvkRVqus",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Retina",
+            "link": "https://youtu.be/WvUvR0b8oXY",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 88216956,
+    "name": "True Innards (Unnerfed)",
+    "author": "eandis",
+    "creators": ["Kaito"],
+    "verifier": "eandis",
+    "verification": "https://youtu.be/K77leSnLP0Y",
+    "percentToQualify": 49,
+    "password": "Free to copy",
+    "records": [
+    {
+            "user": "nSwish",
+            "link": "https://youtu.be/Q7eFrm1l6-Y",
+            "percent": 82
+        },
+        {
+            "user": "Microzz",
+            "link": "https://youtu.be/qqliE2_ijnM",
+            "percent": 82
+        },
+        {
+            "user": "SpeedyMuffin",
+            "link": "https://www.twitch.tv/speedymuffin/clip/FragileVibrantGoldfishThunBeast-E3bporLGMnHDnETC?filter=clips&range=30d&sort=time",
+            "percent": 64
+        },
+       {
+            "user": "Dice88",
+            "link": "https://youtu.be/DSx6bu0Uk84",
+            "percent": 63
+        },
+        {
+            "user": "xarve",
+            "link": "https://youtu.be/ygyyglcUwJo",
+            "percent": 60
+        }
+        ],
+    "tags": ["Old Impossible Level"]
+}

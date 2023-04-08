@@ -1,0 +1,26 @@
+{
+    "id": 29482536,
+    "name": "magnix",
+    "author": "EndLevel",
+    "creators": ["ScpLanst"],
+    "verifier": "GeometryJosh",
+    "verification": "https://youtu.be/p3D1uV0Vu1Q",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "SeptaGon7",
+            "link": "https://youtu.be/Hn-xl5r_ltw",
+            "percent": 100
+        },
+        {
+            "user": "Excillion",
+            "link": "https://youtu.be/a9y8WplayXs",
+            "percent": 100
+        },
+        {
+            "user": "ShindaYoshi",
+            "link": "https://youtu.be/CC0Teta4UT4",
+            "percent": 100
+        }
+    ]
+}

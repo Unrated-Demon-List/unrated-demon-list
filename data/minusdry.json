@@ -1,0 +1,17 @@
+{
+    "id": 89414220,
+    "name": "MINUSdry",
+    "author": "CDMusic",
+    "creators": ["CDMusic", "Sevant"],
+    "verifier": "Varium",
+    "verification": "https://youtu.be/YvA8ehhzz0Q",
+    "percentToQualify": 55,
+    "records": [
+        {
+            "user": "ViperVenom95",
+            "link": "https://youtu.be/DMpJdr11XZs",
+            "percent": 100
+        }
+    ],
+    "tags": ["Remake"]
+}

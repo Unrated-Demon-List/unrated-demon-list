@@ -1,0 +1,22 @@
+{
+    "id": 84093650,
+    "name": "Night City",
+    "author": "bawlz",
+    "creators": ["Amza"],
+    "verifier": "Amza",
+    "verification": "https://youtu.be/u0IPM4nJRiI",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "njacked",
+            "link": "https://youtu.be/LtbG-UgsDHI",
+            "percent": 100
+        },
+        {
+            "user": "Gelforce",
+            "link": "https://youtu.be/8ueXyFAngpE",
+            "percent": 100
+        }
+    ],
+    "tags": ["GDPS Level", "NoNG Song", "Short"] 
+}

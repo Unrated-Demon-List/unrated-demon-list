@@ -1,0 +1,17 @@
+{
+    "id": 77924905,
+    "name": "Leviathan",
+    "author": "BIGMAC77",
+    "creators": ["Skulzi"],
+    "verifier": "joeingly",
+    "verification": "https://youtu.be/0nmQnUYoPpE",
+    "percentToQualify": 100,
+    "password": "777777",
+    "records": [
+        {
+            "user": "CobraBlitz",
+            "link": "https://youtu.be/HF8RX-xpAT4",
+            "percent": 100
+        }
+    ]
+}
