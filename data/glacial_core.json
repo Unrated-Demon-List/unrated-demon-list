@@ -1,0 +1,26 @@
+{
+    "id": 61603616,
+    "name": "Glacial Core",
+    "author": "Janucha",
+    "creators": [],
+    "verifier": "JakeSJ",
+    "verification": "https://youtu.be/gKRCG9bAY8M",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Audiam",
+            "link": "https://www.youtube.com/watch?v=pVFRV-Nry04",
+            "percent": 100
+        },
+        {
+            "user": "WatchPiggy",
+            "link": "https://youtu.be/noFf_1SsnTg",
+            "percent": 75
+        },
+        {
+            "user": "Baeru",
+            "link": "https://youtu.be/qAXLmet0nLU",
+            "percent": 56
+        }
+    ]
+}

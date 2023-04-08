@@ -1,0 +1,47 @@
+{
+    "id": 49416063,
+    "name": "Golden Paracosm",
+    "author": "GMDBlue",
+    "creators": [],
+    "verifier": "dice88",
+    "verification": "https://youtu.be/z2FR-DhjHMU",
+    "percentToQualify": 100,
+    "password": "147369",
+    "records": [
+        {
+            "user": "Vapor",
+            "link": "https://youtu.be/rbb6WG38rTg",
+            "percent": 100
+        },
+        {
+            "user": "Hipo",
+            "link": "https://youtu.be/QWjMep1DXFg",
+            "percent": 100
+        },
+        {
+	        "user": "saturn",
+	        "link": "https://youtu.be/UPoPigesjN4",
+	        "percent": 100
+	    },
+	    {
+	        "user": "WatchPiggy",
+	        "link": "https://youtu.be/Ury1CfTL32s",
+	        "percent": 100
+	    },
+        {
+	        "user": "krakow",
+	        "link": "https://youtu.be/ft1jstyvML0",
+	        "percent": 83
+	    },
+        {
+	        "user": "Wity",
+	        "link": "https://youtu.be/-r7BzKceKX0",
+	        "percent": 66
+	    },
+	    {
+	        "user": "Arcturus",
+	        "link": "https://youtu.be/qcLTk6Iw_-0",
+	        "percent": 62
+	    }
+    ]
+}

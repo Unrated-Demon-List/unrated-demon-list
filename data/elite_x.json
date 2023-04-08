@@ -1,0 +1,42 @@
+{
+    "id": 58145219,
+    "name": "Elite X",
+    "author": "TheLasaga",
+    "creators": [],
+    "verifier": "Spamdrew128",
+    "verification": "https://www.youtube.com/watch?v=lotQ4aAQCMQ",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "DiLeMa",
+            "link": "https://www.youtube.com/watch?v=GwLOi-f2Bwc",
+            "percent": 100
+        },
+        {
+            "user": "Circlego",
+            "link": "https://www.youtube.com/watch?v=xc-epjtIMvg",
+            "percent": 100
+        },
+        {
+            "user": "TGM05",
+            "link": "https://www.youtube.com/watch?v=kJdx4nOJO18",
+            "percent": 100
+        },
+        {
+            "user": "Realiosteelio",
+            "link": "https://www.youtube.com/watch?v=uRglTFGX8Jg",
+            "percent": 100
+        },
+        {
+            "user": "nac",
+            "link": "https://www.youtube.com/watch?v=SjdrO8mBY8A",
+            "percent": 100
+        },
+        {
+            "user": "Magmeta",
+            "link": "https://www.youtube.com/watch?v=4CFU37PDQwc",
+            "percent": 100
+        }
+    ],
+    "tags": ["GDPS Level"]
+}

@@ -1,0 +1,63 @@
+{
+    "id": 54749001,
+    "name": "Infected Caverns",
+    "author": "Spamdrew128",
+    "creators": ["PurplePopcorn", "Tricks33"],
+    "verifier": "Spamdrew128",
+    "verification": "https://youtu.be/d5IHszuBHps",
+    "percentToQualify": 100,
+    "password": "002705",
+    "records": [
+        {
+            "user": "kiseta",
+            "link": "https://www.youtube.com/watch?v=PjmdD3pPrwQ",
+            "percent": 100
+        },
+        {
+            "user": "DiLeMa",
+            "link": "https://youtu.be/Id88gBq4EaM",
+            "percent": 100
+        },
+        {
+            "user": "Cersia",
+            "link": "https://youtu.be/gcZv_tF8tnk",
+            "percent": 100
+        },
+        {
+            "user": "TGM05",
+            "link": "https://youtu.be/BBssuzYAbfk",
+            "percent": 100
+        },
+        {
+            "user": "Realiosteelio",
+            "link": "https://youtu.be/o1cy1JLwJxI",
+            "percent": 100
+        },
+        {
+            "user": "Kurumi",
+            "link": "https://youtu.be/rNo0RQe3SV8",
+            "percent": 100
+        },
+        {
+            "user": "AlexDIRO",
+            "link": "https://youtu.be/xFbETzejKy0",
+            "percent": 100
+        },
+        {
+            "user": "Zerum",
+            "link": "https://youtu.be/m34lvINucsg",
+            "percent": 100
+        },
+        {
+            "user": "Zamos",
+            "link": "https://youtu.be/AbScrjIcmgM",
+            "percent": 100
+        },
+        {
+            "user": "smaicicle",
+            "link": "https://youtu.be/6iDoItB1k8k",
+            "percent": 100
+        }
+    ],
+    "tags": ["GDPS Level", "NoNG Song"]
+}

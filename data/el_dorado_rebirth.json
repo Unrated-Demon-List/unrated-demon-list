@@ -1,0 +1,32 @@
+{
+    "id": 48206486,
+    "name": "El Dorado Rebirth",
+    "author": "BoBoBoBoBoBoBo",
+    "creators": [],
+    "verifier": "BoBoBoBoBoBoBo",
+    "verification": "https://youtu.be/THA8XtiwnzM",
+    "percentToQualify": 100,
+    "records": [
+	{
+	    "user": "SeptaGon7",
+	    "link": "https://youtu.be/cCMFoBVUeug",
+            "percent": 100
+	},
+	{
+	    "user": "reoode",
+	    "link": "https://youtu.be/7fI51PA8HKU",
+            "percent": 100
+	},
+	{
+	    "user": "benedikT",
+	    "link": "https://youtu.be/UCMXJLXt1RM",
+            "percent": 100
+	},
+	{
+	    "user": "Pacnet Netty",
+	    "link": "https://youtu.be/_pPtqA7fQTU",
+            "percent": 100
+	}
+    ],
+    "tags": ["Remake"]
+}

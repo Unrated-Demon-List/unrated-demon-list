@@ -1,0 +1,27 @@
+{
+    "id": 71885708,
+    "name": "Graceful",
+    "author": "DaGYT",
+    "creators": ["DaGYT", "Knots", "Crescent", "Exomin", "GMDPandaKun", "Ardolf", "ItsAgileSilver", "Ragle", "Galaxxyss", "Robotchief", "FSS", "Reunomi"],
+    "verifier": "DaGYT",
+    "verification": "https://youtu.be/aUEiQXEYncc",
+    "percentToQualify": 50,
+    "password": "001319",
+    "records": [
+        {
+            "user": "TheUltraBlock",
+            "link": "https://youtu.be/MIibT1jc0pU",
+            "percent": 100
+        },
+                {
+            "user": "Hipo",
+            "link": "https://youtu.be/Ty9HSYzIXAg",
+            "percent": 100
+        },
+        {
+            "user": "enzbro",
+            "link": "https://youtu.be/uUgTel3aKc8",
+            "percent": 100
+        }
+    ]
+}

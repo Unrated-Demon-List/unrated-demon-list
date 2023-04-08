@@ -1,0 +1,26 @@
+{
+    "id": 81811526,
+    "name": "death fr",
+    "author": "exenityyy",
+    "creators": [],
+    "verifier": "TFIBB",
+    "verification": "https://youtu.be/DwicucE0grw",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "njacked",
+            "link": "https://youtu.be/xvABCIWByGs",
+            "percent": 100
+        },
+        {
+            "user": "sauci",
+            "link": "https://youtu.be/Bfvzl1MWXZw",
+            "percent": 100
+        },
+        {
+            "user": "Rulmy",
+            "link": "https://youtu.be/zmgZAfpcxMs",
+            "percent": 100
+        }
+    ]
+}

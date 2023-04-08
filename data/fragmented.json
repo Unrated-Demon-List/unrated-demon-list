@@ -1,0 +1,53 @@
+{
+    "id": 71571300,
+    "name": "Fragmented",
+    "author": "Cersia",
+    "creators": [],
+    "verifier": "TGM05",
+    "verification": "https://youtu.be/7wrpprd9nOw",
+    "percentToQualify": 44,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Kurumi",
+            "link": "https://youtu.be/wSD4W_GV4-A",
+            "percent": 100
+        },
+        {
+            "user": "Hover",
+            "link": "https://youtu.be/gS6Txf6EkiQ",
+            "percent": 100
+        },
+        {
+            "user": "Dosh7t",
+            "link": "https://youtu.be/-63FYtsEQSo",
+            "percent": 100
+        },
+        {
+            "user": "glames",
+            "link": "https://www.youtube.com/watch?v=VOLuz44TTPk",
+            "percent": 100
+        },
+        {
+            "user": "Tato",
+            "link": "https://youtu.be/iq9NHUb5x_s",
+            "percent": 63
+        },
+        {
+            "user": "Cersia",
+            "link": "https://youtu.be/c9kgsGOBAms",
+            "percent": 53
+        },
+        {
+            "user": "Realiosteelio",
+            "link": "https://youtu.be/VbUyukf3F8k",
+            "percent": 50
+        },
+        {
+            "user": "Amza",
+            "link": "https://youtu.be/3ik0MpoaKIY",
+            "percent": 49
+        }
+    ],
+    "tags": ["GDPS Level", "NoNG Song"]
+}

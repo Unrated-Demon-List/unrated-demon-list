@@ -1,0 +1,22 @@
+{
+    "id": 69871729,
+    "name": "HYPOTHERMIA",
+    "author": "JinoBeats",
+    "creators": [],
+    "verifier": "orizu",
+    "verification": "https://youtu.be/6LcziDGaCGc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Sawa",
+            "link": "https://youtu.be/7ELn9mqBPxU",
+            "percent": 100
+        },
+        {
+            "user": "Hikudo",
+            "link": "https://youtu.be/HXky-5kEZlc",
+            "percent": 100
+        }
+    ],
+    "tags": ["GDPS Level", "Short"]
+}

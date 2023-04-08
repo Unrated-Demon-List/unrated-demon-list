@@ -1,0 +1,26 @@
+{
+    "id": 55260777,
+    "name": "Fusion Z (Old)",
+    "author": "BGram",
+    "creators": ["Serponge", "Knobbelboy", "LazerBlitz", "Shocksidian", "Surv", "Bianox", "DWshin", "Morphin", "Panman", "Loogiah", "Xaro", "Xcy7", "Edicts", "Manix648", "TeslaX", "GironDavid", "Willy"],
+    "verifier": "BGram",
+    "verification": "https://youtu.be/N0oALek4v_k",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Jori",
+            "link": "https://youtu.be/aE__YeTv9Uw",
+            "percent": 100
+        },
+        {
+            "user": "Argon",
+            "link": "https://youtu.be/mgaWdbW4GEs",
+            "percent": 82
+        },
+        {
+            "user": "Fusion425",
+            "link": "https://youtu.be/IYJn55id_P8",
+            "percent": 70
+        }
+    ]
+}

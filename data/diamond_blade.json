@@ -1,0 +1,27 @@
+{
+    "id": 56069688,
+    "name": "DIAMOND BLADE",
+    "author": "IcEDCave",
+    "creators": [],
+    "verifier": "UFokinWotM8",
+    "verification": "https://youtu.be/K_dXwi-XwkY",
+    "percentToQualify": 54,
+    "records": [
+        {
+            "user": "Cursed",
+            "link": "https://youtu.be/03Q3wALkU8M",
+            "percent": 100
+        },
+        {
+            "user": "Seels",
+            "link": "https://youtu.be/Xw0MzSiBnpU",
+            "percent": 100
+        },
+        {
+            "user": "Amandus",
+            "link": "https://youtu.be/03Q3wALkU8M",
+            "percent": 95
+        }
+    ],
+    "tags": ["Layout"]
+}

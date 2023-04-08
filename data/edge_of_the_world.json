@@ -1,0 +1,22 @@
+{
+    "id": 83697006,
+    "name": "Edge of the World",
+    "author": "L4TeZk",
+    "creators": ["DreamZoneGD", "Ultimxte", "FlaksY", "ManHeadRambo", "At424", "LapoGD", "Xinpa", "Lumihiutale", "Custi", "Jiikoo", "WhitePythor", "Novaach", "Ked", "Miikkem", "Luksa"],
+    "verifier": "L4TeZk",
+    "verification": "https://youtu.be/QWy1RnPDCWk",
+    "percentToQualify": 56,
+    "records": [
+        {
+            "user": "Scotchtape",
+            "link": "https://youtu.be/HLF6AZug-6c",
+            "percent": 100
+        },
+        {
+            "user": "ked",
+            "link": "https://youtu.be/a1wFa9V1a8Q",
+            "percent": 100
+        }
+    ],
+    "tags": ["NoNG Song"]
+}

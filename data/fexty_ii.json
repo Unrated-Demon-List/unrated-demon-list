@@ -1,0 +1,22 @@
+{
+    "id": 78565924,
+    "name": "Fexty II",
+    "author": "Dragoon",
+    "creators": ["MeatiusGaming", "Jawis", "Rin04", "Tenzk", "Muffy", "Superhamp", "Moby", "Tim", "HugoHMF"],
+    "verifier": "Dragoon",
+    "verification": "https://youtu.be/vgXhIgb49u4",
+    "percentToQualify": 53,
+    "records": [
+        {
+            "user": "Bibu",
+            "link": "https://youtu.be/XFot9E8u7H0",
+            "percent": 100
+        },
+        {
+            "user": "almohadaless",
+            "link": "https://youtu.be/0TQUX7NcZt0",
+            "percent": 78
+        }
+    ],
+    "tags": ["Short"]
+}

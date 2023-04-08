@@ -1,0 +1,21 @@
+{
+    "id": 55060204,
+    "name": "Eleos",
+    "author": "SeptaGon7",
+    "creators": ["zZenith", "Cheifflurry"],
+    "verifier": "SeptaGon7",
+    "verification": "https://youtu.be/h6v9VURyrtM",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Skarro",
+            "link": "https://youtu.be/YLxeeeQMFiE",
+            "percent": 100
+        },
+        {
+            "user": "Zalgaryth",
+            "link": "https://youtu.be/0A-juX9tAfw",
+            "percent": 64
+        }
+    ]
+}

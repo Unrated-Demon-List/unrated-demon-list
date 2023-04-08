@@ -1,0 +1,31 @@
+{
+    "id": 43357575,
+    "name": "Game Over",
+    "author": "AZuLer4",
+    "creators": ["Pennutoh"],
+    "verifier": "SrGuillester",
+    "verification": "https://youtu.be/tH5avKOW2w4",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Zylenox",
+            "link": "https://youtu.be/gaRRQHSmU4M",
+            "percent": 100
+        },
+        {
+            "user": "iCobalTi",
+            "link": "https://youtu.be/rfxogSrRJg8",
+            "percent": 100
+        },
+        {
+            "user": "ColorBolt",
+            "link": "https://youtu.be/4Btqoe1Yrfw",
+            "percent": 100
+        },
+        {
+            "user": "reoode",
+            "link": "https://youtu.be/5NRRLoDVFPg",
+            "percent": 100
+        }
+    ]
+}

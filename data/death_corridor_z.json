@@ -1,0 +1,53 @@
+{
+    "id": 38403655,
+    "name": "Death Corridor Z",
+    "author": "lSunix",
+    "creators": ["Airswipe", "KaotikJumper"],
+    "verifier": "lSunix",
+    "verification": "https://youtu.be/9799msdH394",
+    "percentToQualify": 54,
+    "password": "555888",
+    "records": [
+        {
+            "user": "XylOL",
+            "link": "https://www.youtube.com/watch?v=gpuXiHu9d0k",
+            "percent": 100
+        },
+        {
+            "user": "TGM05",
+            "link": "https://www.youtube.com/watch?v=PExQ388Hrck",
+            "percent": 100
+        },
+        {
+            "user": "DibiiziCookie",
+            "link": "https://youtu.be/-9b18jdq2sQ",
+            "percent": 100
+        },
+        {
+            "user": "joeingly",
+            "link": "https://youtu.be/u_p8IZWxfwA",
+            "percent": 100
+        },
+        {
+            "user": "Mentrillum",
+            "link": "https://www.youtube.com/watch?v=jZqBSfM2HOA",
+            "percent": 79
+        },
+        {
+            "user": "Astley",
+            "link": "https://youtu.be/qvU-Xvc3hw0",
+            "percent": 63
+        },
+        {
+            "user": "Donei GD",
+            "link": "https://youtu.be/o5rDmDsaMyo",
+            "percent": 57
+        },
+        {
+            "user": "Ethqngd",
+            "link": "https://youtu.be/BPEVXiJ-qMo",
+            "percent": 54
+        }
+    ],
+    "tags": ["Remake"]
+}

@@ -1,0 +1,22 @@
+{
+    "id": 89725822,
+    "name": "Horse",
+    "author": "iiLogan",
+    "creators": [],
+    "verifier": "iiLogan",
+    "verification": "https://youtu.be/rRxuR-p0nqM",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "DuckMoment",
+            "link": "https://youtu.be/MN2iLmocgmU",
+            "percent": 100
+        },
+        
+        {
+            "user": "breaddemon",
+            "link": "https://youtu.be/2jyAEaMGX_E",
+            "percent": 100
+        }
+    ]
+}

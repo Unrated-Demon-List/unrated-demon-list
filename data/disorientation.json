@@ -1,0 +1,21 @@
+{
+    "id": 40542758,
+    "name": "disorientation",
+    "author": "pg1004",
+    "creators": [],
+    "verifier": "pg1004",
+    "verification": "https://youtu.be/TimpEvMCFl4",
+    "percentToQualify": 100,
+    "records": [
+	{
+	    "user": "Recillia",
+	    "link": "https://www.youtube.com/watch?v=bOdqY4vVhwI",
+	    "percent": 100
+	},
+	{
+	    "user": "Koreaqwer",
+	    "link": "https://youtu.be/8rp0bkJUsrk",
+	    "percent": 100
+	}
+    ]
+}

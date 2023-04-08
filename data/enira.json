@@ -1,0 +1,22 @@
+{
+    "id": 69990515,
+    "name": "Enira",
+    "author": "Exen",
+    "creators": ["Exen", "Electro543", "Greenevsky", "Inex"],
+    "verifier": "SpirteX",
+    "verification": "https://youtu.be/A67U4oAdkko",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "khrizmass",
+            "link": "https://youtu.be/O5ewCHbfh2k",
+            "percent": 100
+        },
+        {
+            "user": "Улыбочку",
+            "link": "https://youtu.be/jfPpaaTocLs",
+            "percent": 100
+        }
+    ],
+    "tags": ["NoNG Song"]
+}

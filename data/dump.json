@@ -1,0 +1,27 @@
+{
+    "id": 89513590,
+    "name": "Dump",
+    "author": "GiggsRH",
+    "creators": ["GiggsRH", "Koopazu", "Darite", "Lagan"],
+    "verifier": "Zeus [GD]",
+    "verification": "https://youtu.be/UDrCb0rzuQo",
+    "percentToQualify": 55,
+    "records": [
+        {
+            "user": "hstorm",
+            "link": "https://youtu.be/h4S9xT-j3Vo",
+            "percent": 100
+        },
+        {
+            "user": "ShadowGao",
+            "link": "https://youtu.be/65XfWDHHqvU",
+            "percent": 100
+        },
+        {
+            "user": "Ree eee",
+            "link": "https://youtu.be/hBx91UasIec",
+            "percent": 100
+        }
+    ],
+    "tags": ["NoNG Song"]
+}

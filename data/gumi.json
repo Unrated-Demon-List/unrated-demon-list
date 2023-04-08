@@ -1,0 +1,22 @@
+{
+    "id": 76857114,
+    "name": "Gumi",
+    "author": "btLisp",
+    "creators": ["btLisp", "Gablor"],
+    "verifier": "Swooker",
+    "verification": "https://youtu.be/JPZsQGaocQM",
+    "percentToQualify": 56,
+    "records": [
+        {
+            "user": "Lukasta",
+            "link": "https://www.youtube.com/watch?v=y8gDuxBrpLM",
+            "percent": 100
+        },
+        {
+            "user": "Rydon",
+            "link": "https://youtu.be/kZHQT3iGp-0",
+            "percent": 58
+        }
+    ],
+    "tags": ["Remake", "NoNG Song", "Short"]
+}

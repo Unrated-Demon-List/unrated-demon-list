@@ -1,0 +1,17 @@
+{
+    "id": 78610277,
+    "name": "Den Gyldne",
+    "author": "Dorvict",
+    "creators": [],
+    "verifier": "Dorvict",
+    "verification": "https://youtu.be/EgEQ1JVPtz4",
+    "percentToQualify": 100,
+    "records": [
+	{
+	    "user": "Cersia",
+	    "link": "https://www.youtube.com/watch?v=UIMeVeqlob4",
+	    "percent": 100
+	}
+    ],
+    "tags": ["GDPS Level", "Short"]
+}

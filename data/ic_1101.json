@@ -1,0 +1,16 @@
+{
+    "id": 33590031,
+    "name": "IC 1101",
+    "author": "GGbuild",
+    "creators": ["Tompp"],
+    "verifier": "Tompp",
+    "verification": "https://youtu.be/zWChH7qh-Cc",
+    "percentToQualify": 100,
+    "records": [
+	{
+	    "user": "Miro",
+	    "link": "https://youtu.be/d8b1skOwUq0",
+	    "percent": 100
+	}
+    ]
+}

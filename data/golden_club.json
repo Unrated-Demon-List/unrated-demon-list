@@ -1,0 +1,16 @@
+{
+    "id": 89490128,
+    "name": "Golden Club",
+    "author": "Zenmuron",
+    "creators": ["Zenmuron"],
+    "verifier": "Skycrab",
+    "verification": "https://youtu.be/YBs04o1ZVQY",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "CrispyKey",
+            "link": "https://youtu.be/4inhJC9ryMQ",
+            "percent": 100
+        }
+    ],
+}

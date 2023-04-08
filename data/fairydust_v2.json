@@ -1,0 +1,22 @@
+{
+    "id": 11899695,
+    "name": "Fairydust v2",
+    "author": "ItzMika",
+    "creators": ["ItzMika", "Zynvire"],
+    "verifier": "JakeSJ",
+    "verification": "https://youtu.be/aQvVJRlKF4I",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "VoTcHi",
+            "link": "https://youtu.be/nFH4MfDYQZU",
+            "percent": 100
+        },
+        {
+            "user": "PlasmaLust",
+            "link": "https://youtu.be/B_annODABDE",
+            "percent": 100
+        }
+    ],
+    "tags": ["Formerly Rated", "Nine Circles"]
+}

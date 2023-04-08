@@ -1,0 +1,16 @@
+{
+    "id": 36818945,
+    "name": "GoodGame",
+    "author": "Metalface221",
+    "creators": ["Polarbeahr"],
+    "verifier": "Metalface221",
+    "verification": "https://youtu.be/LDpjnLcQwG8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "MeatiusGaming",
+            "link": "https://youtu.be/twt2VLu-eIE",
+            "percent": 100
+        }
+    ]
+}

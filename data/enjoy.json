@@ -1,0 +1,22 @@
+{
+    "id": 78004719,
+    "name": "Enjoy",
+    "author": "SeptaGon7",
+    "creators": [],
+    "verifier": "Hipo",
+    "verification": "https://www.youtube.com/watch?v=OFgPvdvMc2g&t=0s",
+    "percentToQualify": 54,
+    "records": [
+        {
+            "user": "MoriartyTheCat",
+            "link": "https://streamable.com/tlsaee",
+            "percent": 86
+        },
+        {
+            "user": "Bobssy",
+            "link": "https://youtu.be/NTFUHjW4xaM",
+            "percent": 61
+        }
+    ],
+    "tags": ["Short"]
+}

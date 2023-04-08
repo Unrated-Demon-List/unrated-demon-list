@@ -1,0 +1,18 @@
+{
+    "id": 70946973,
+    "name": "Elysium Universe",
+    "author": "LkWavs",
+    "creators": ["Lunnaria"],
+    "verifier": "LkWavs",
+    "verification": "https://youtu.be/gqM8EYAevLs",
+    "percentToQualify": 55,
+    "password": "125896",
+    "records": [
+        {
+            "user": "vRidge",
+            "link": "https://youtu.be/K4mvMaqbGbA",
+            "percent": 67
+        }
+    ],
+    "tags": ["Old Impossible Level", "Limited Vision"]
+}

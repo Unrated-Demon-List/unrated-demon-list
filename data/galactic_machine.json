@@ -1,0 +1,57 @@
+{
+    "id": 39521035,
+    "name": "Galactic Machine",
+    "author": "komp",
+    "creators": [],
+    "verifier": "Riot",
+    "verification": "https://youtu.be/Aq3NU1VhBHY",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Wooshi",
+            "link": "https://youtu.be/rK7pnCwN0LU",
+            "percent": 100
+        },
+        {
+            "user": "SkyJax",
+            "link": "https://www.youtube.com/watch?v=i5qQpFTexao",
+            "percent": 100
+        },
+        {
+            "user": "Cinci",
+            "link": "https://youtu.be/EOpAE-xfuVk",
+            "percent": 100
+        },
+        {
+            "user": "Gian",
+            "link": "https://youtu.be/tLLxYmKQ0Ts",
+            "percent": 100
+        },
+        {
+            "user": "ThePuffGD",
+            "link": "https://youtu.be/qX09GxQPZ74",
+            "percent": 100
+        },
+        {
+            "user": "KrmaL",
+            "link": "https://youtu.be/t8xIbCAQzXU",
+            "percent": 100
+        },
+        {
+            "user": "Kevelia",
+            "link": "https://youtu.be/5FFOogcPMdM",
+            "percent": 100
+        },
+        {
+            "user": "dual",
+            "link": "https://youtu.be/QXke0WSYg80",
+            "percent": 100
+        },
+        {
+            "user": "PleadingPluto64",
+            "link": "https://youtu.be/wIWWyE6UCLI",
+            "percent": 100
+        }
+    ],
+    "tags": ["Memory"]
+}
