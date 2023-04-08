@@ -1,0 +1,67 @@
+[
+    {
+        "role": "owner",
+        "name": "DaMeister",
+        "link": "https://www.youtube.com/channel/UCHFwGVNPDLvtp440RZ5_oEQ"
+    },
+    {
+        "role": "owner",
+        "name": "LegoYoshi3",
+        "link": "https://www.youtube.com/channel/UCUWOGjjpqgI8s7-Y416PMMw"
+    },
+    {
+        "role": "admin",
+        "name": "MythicalTG",
+        "link": "https://www.youtube.com/c/MythicalTG"
+    },
+    {
+        "role": "admin",
+        "name": "Sevant",
+        "link": "https://www.youtube.com/c/Sevant"
+    },
+    {
+        "role": "admin",
+        "name": "KirbyX152",
+        "link": "https://www.youtube.com/channel/UC3bT08NPMRLhqc8msXU7uzQ"
+    },
+    {
+        "role": "helper",
+        "name": "Marcy",
+        "link": "https://www.youtube.com/channel/UCQ0ECKRUthunZFC1BpYWPNQ"
+    },
+    {
+        "role": "helper",
+        "name": "BreadDemon",
+        "link": "https://www.youtube.com/channel/UCD0L0hUXv07mrkNoOacfSDg"
+    },
+    {
+        "role": "helper",
+        "name": "iiLogan",
+        "link": "https://www.youtube.com/channel/UCPyzU-PttFOyup6UYQ-rQMQ"
+    },
+    {
+        "role": "helper",
+        "name": "Pearlescent",
+        "link": "https://www.youtube.com/channel/UCZV0hygw7GpgTYG5OeDyDqQ"
+    },
+    {
+        "role": "helper",
+        "name": "Remy",
+        "link": "https://www.youtube.com/c/Remyy"
+    },
+    {
+        "role": "helper",
+        "name": "Butterfish",
+        "link": "https://www.youtube.com/c/ButterFish"
+    },
+    {
+        "role": "helper",
+        "name": "ShindaYoshi",
+        "link": "https://www.youtube.com/@shindayoshi620"
+    },
+    {
+        "role": "dev",
+        "name": "Prometheus",
+        "link": "https://www.youtube.com/c/PrometheusAlt"
+    }
+]
