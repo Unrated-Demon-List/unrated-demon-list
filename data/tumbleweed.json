@@ -1,0 +1,26 @@
+{
+    "id": 72500973,
+    "name": "Tumbleweed",
+    "author": "zYuko",
+    "creators": ["Lime0037", "Dtmdtn3", "Jhemyson", "Isane", "UnDeRpiPse", "Artsi", "Tsunami", "Masu", "Wespdx", "DeepaVII", "Dfordie", "Hypno74", "Zanna83", "SaturN", "hkOo", "UltraCharge", "Levin", "Augi", "Z4pp", "Doggo GD", "SuRge", "Akira", "Tragikly", "Omni", "Gren", "Telion04", "Cryo", "XLSpiral", "Menthe", "Elveel"],
+    "verifier": "Scotchtape",
+    "verification": "https://youtu.be/ltg-8uPLAG8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "orizu",
+            "link": "https://youtu.be/S86XU-fw958",
+            "percent": 100
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/KazUR_Xu5wU",
+            "percent": 100
+        },
+        {
+            "user": "bug",
+            "link": "https://youtu.be/LBs9deuF2Gc",
+            "percent": 100
+        }
+    ]
+}

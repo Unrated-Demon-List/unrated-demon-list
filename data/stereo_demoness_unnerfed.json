@@ -1,0 +1,22 @@
+{
+    "id": 26751523,
+    "name": "Stereo Demoness (Unnerfed)",
+    "author": "compendium",
+    "creators": ["MaJacko"],
+    "verifier": "KPGDylan",
+    "verification": "https://www.youtube.com/watch?v=LTlaqz13LQA",
+    "percentToQualify": 49,
+    "records": [
+        {
+            "user": "exsii",
+            "link": "https://youtu.be/18YqCjtWFi8",
+            "percent": 76
+        },
+        {
+            "user": "Stormfly",
+            "link": "https://youtu.be/WSLo6Q5Y78k?t=474",
+            "percent": 67
+        }
+    ],
+    "tags": ["Formerly Rated", "Old Impossible Level"]
+}

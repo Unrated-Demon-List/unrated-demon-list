@@ -1,0 +1,81 @@
+{
+    "id": 69510926,
+    "name": "Trapazoid Happiness",
+    "author": "Kitsuarg",
+    "creators": ["wshedd"],
+    "verifier": "wshedd",
+    "verification": "https://youtu.be/FcsVe6yatTk",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Exorsus",
+            "link": "https://youtu.be/tBPvSUUWaKE",
+            "percent": 100
+        },
+        {
+            "user": "lSunix",
+            "link": "https://youtu.be/IICX4UcElao",
+            "percent": 100
+        },
+        {
+            "user": "hotball1",
+            "link": "https://youtu.be/5Fc0fqStzOE",
+            "percent": 100
+        },
+        {
+            "user": "SrGuillester",
+            "link": "https://youtu.be/kSvamov4doQ",
+            "percent": 100
+        },
+        {
+            "user": "Evan",
+            "link": "https://youtu.be/K3Eumz3x0p0",
+            "percent": 100
+        },
+        {
+            "user": "EVILSEPH83",
+            "link": "https://youtu.be/78ba4HoQLdo",
+            "percent": 100
+        },
+        {
+            "user": "Benfamir",
+            "link": "https://youtu.be/L1cEG7pnSfU",
+            "percent": 100
+        },
+        {
+            "user": "D3m0nDash3r",
+            "link": "https://www.youtube.com/watch?v=z4x_mffaQzw",
+            "percent": 100
+        },
+        {
+            "user": "Nexus",
+            "link": "https://youtu.be/mVPmWHtaHc8",
+            "percent": 100
+        },
+        {
+            "user": "Zohan",
+            "link": "https://youtu.be/ESJm6EOa5yU",
+            "percent": 100
+        },
+        {
+            "user": "Kevelia",
+            "link": "https://youtu.be/q-xa3B4ozCw",
+            "percent": 100
+        },
+        {
+            "user": "DagYT",
+            "link": "https://youtu.be/tWq3PeDGxT0",
+            "percent": 100
+        },
+        {
+            "user": "Abilx",
+            "link": "https://youtu.be/CeJPef3ucX0",
+            "percent": 100
+        },
+        {
+            "user": "GleamEyes02",
+            "link": "https://youtu.be/jF4LQFi4eHg",
+            "percent": 100
+        }
+    ]
+}

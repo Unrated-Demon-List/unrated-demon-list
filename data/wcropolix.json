@@ -1,0 +1,82 @@
+{
+    "id": 22183448,
+    "name": "WcropoliX",
+    "author": "BlassCFB",
+    "creators": ["Marpha", "Mero", "Nifecap", "BlassCFB"],
+    "verifier": "BlassCFB",
+    "verification": "https://youtu.be/pQ2PsY1BymE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Mullsy",
+            "link": "https://youtu.be/KsZt_NhD1i0",
+            "percent": 100
+        },
+        {
+            "user": "SrGuillester",
+            "link": "https://youtu.be/2b8vXe7W8SM",
+            "percent": 100
+        },
+        {
+            "user": "combi",
+            "link": "https://youtu.be/4ffsUZ4JHKA",
+            "percent": 100
+        },
+        {
+            "user": "Sinon",
+            "link": "https://youtu.be/oLCSaSUCnTc",
+            "percent": 100
+        },
+        {
+            "user": "Metalface221",
+            "link": "https://youtu.be/SYKWFfikV1Y",
+            "percent": 100
+        },
+        {
+            "user": "Sevant",
+            "link": "https://youtu.be/GdxelDO6Ae8",
+            "percent": 100
+        },
+        {
+            "user": "EVILSEPH83",
+            "link": "https://youtu.be/LOiGto2xH6A",
+            "percent": 100
+        },
+        {
+            "user": "reoode",
+            "link": "https://youtu.be/1kff46kyyz8",
+            "percent": 100
+        },
+        {
+            "user": "Yossarian",
+            "link": "https://youtu.be/d6Kui5t7YTA",
+            "percent": 100
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/N9DeoNtEcwI",
+            "percent": 100
+        },
+        {
+            "user": "Technical",
+            "link": "https://www.twitch.tv/videos/1531672436",
+            "percent": 100
+        },
+        {
+            "user": "Fenix",
+            "link": "https://youtu.be/hE-cnwPSAQk",
+            "percent": 100
+        },
+        {
+            "user": "samtaylor",
+            "link": "https://youtu.be/S0FCjtnKuJs",
+            "percent": 100
+        },
+        {
+            "user": "TrusTa",
+            "link": "https://youtu.be/eoZSnofWw04",
+            "percent": 73
+        }
+    ],
+    "tags": ["Former Top 1","NoNG Song","Remake"]
+}

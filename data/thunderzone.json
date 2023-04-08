@@ -1,0 +1,31 @@
+{
+    "id": 63858842,
+    "name": "Thunderzone",
+    "author": "Cersia",
+    "creators": ["Fruitsalad", "Lasaga", "henry500", "Awesdsy", "Inside"],
+    "verifier": "Slithium",
+    "verification": "https://youtu.be/bfo2atUb5aY",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "TGM05",
+            "link": "https://youtu.be/FbcD5E8ATVU",
+            "percent": 100
+        },
+        {
+            "user": "Realiosteelio",
+            "link": "https://youtu.be/uRCRODlFLDA",
+            "percent": 100
+        },
+        {
+            "user": "Cersia",
+            "link": "https://youtu.be/aMAMsNyPFfM",
+            "percent": 100
+        },
+        {
+            "user": "coakmuffer",
+            "link": "https://youtu.be/q0WSWQ_rpWI",
+            "percent": 100
+        }
+    ]
+}

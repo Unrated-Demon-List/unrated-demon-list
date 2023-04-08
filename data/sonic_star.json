@@ -1,0 +1,21 @@
+{
+    "id": 43192679,
+    "name": "Sonic Star",
+    "author": "IlIPeepIlI",
+    "creators": ["Cyclic", "Blue", "Stan", "G3am3tryBass", "NorghetXgmd"],
+    "verifier": "IlIPeepIlI",
+    "verification": "https://youtu.be/H-3zWN6Itak",
+    "percentToQualify": 100,
+    "records": [
+	{
+	    "user": "wapon77",
+	    "link": "https://youtu.be/wARPOSl-0-8",
+	    "percent": 100
+	},
+	{
+	    "user": "reoode",
+	    "link": "https://youtu.be/fiygMWow150",
+	    "percent": 100
+	}
+    ]
+}

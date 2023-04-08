@@ -1,0 +1,34 @@
+{
+    "id": 43214204,
+    "name": "Vertigo",
+    "author": "notLevo",
+    "creators": [],
+    "verifier": "Lucid",
+    "verification": "https://youtu.be/p38ktt8maEA",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "BoBoBoBoBoBoBo",
+            "link": "https://youtu.be/clPjUsAW5dA",
+            "percent": 100
+        },
+        {
+            "user": "kiseta",
+            "link": "https://www.youtube.com/watch?v=HHlGOOgZWNo",
+            "percent": 100
+        },
+        {
+            "user": "Varium",
+            "link": "https://youtu.be/iVuVkkNzBXc",
+            "percent": 100
+        },
+        {
+            "user": "Moosh",
+            "link": "https://youtu.be/m0VIao2MV2Q",
+            "percent": 100
+        }
+    ],
+    "tags": ["Short"]
+}    
+        
+    

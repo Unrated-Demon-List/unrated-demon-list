@@ -1,0 +1,27 @@
+{
+    "id": 54622433,
+    "name": "Veraci Lucidum",
+    "author": "Visionari",
+    "creators": [],
+    "verifier": "Zagros",
+    "verification": "https://youtu.be/MBtuEw7hiBc",
+    "percentToQualify": 100,
+    "records": [
+        {
+           "user": "GDVenom",
+           "link": "https://youtu.be/Tqs2RWvxtAU",
+           "percent": 100
+        },
+	{
+	   "user": "BoBoBoBoBoBoBo",
+	   "link": "https://youtu.be/36jHUJW_ig8",
+	   "percent": 100
+	},
+	{
+	   "user": "reoode",
+	   "link": "https://youtu.be/FbKuUznRVNc",
+	   "percent": 100
+	}
+    ],
+    "tags": ["Short"]
+}

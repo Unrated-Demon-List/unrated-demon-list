@@ -1,0 +1,27 @@
+{
+    "id": 40693278,
+    "name": "Spectrum Blaze",
+    "author": "lTemp",
+    "creators": [],
+    "verifier": "lTemp",
+    "verification": "https://youtu.be/Y-jlr_N2GmE",
+    "percentToQualify": 100,
+    "password": "123654",
+    "records": [
+        {
+            "user": "JakeSJ",
+            "link": "https://youtu.be/N-9Ag5VGg-4",
+            "percent": 100
+        },
+        {
+            "user": "Qynx",
+            "link": "https://youtu.be/L_tkSoaxyiQ",
+            "percent": 100
+        },
+        {
+            "user": "reoode",
+            "link": "https://youtu.be/25VGXARxSaY",
+            "percent": 100
+        }
+    ]
+}

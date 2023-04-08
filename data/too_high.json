@@ -1,0 +1,22 @@
+{
+    "id": 75733053,
+    "name": "too high",
+    "author": "RatQuesadilla",
+    "creators": [],
+    "verifier": "Floofle",
+    "verification": "https://youtu.be/obS6Yq-d0Pw",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Fusion425",
+            "link": "https://youtu.be/7ntDSaJnEFk",
+            "percent": 100
+        },
+        {
+            "user": "BrowarKedawar",
+            "link": "https://youtu.be/mA6RST7GJFE",
+            "percent": 64
+        }
+    ],
+    "tags": ["NoNG Song"]
+}

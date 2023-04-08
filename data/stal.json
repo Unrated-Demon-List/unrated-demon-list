@@ -1,0 +1,22 @@
+{
+    "id": 63407003,
+    "name": "stal",
+    "author": "sprei",
+    "creators": ["sprei", "Narwhal", "xeox", "Noze", "Tenzk", "Fastninjazz"],
+    "verifier": "MiniShoey",
+    "verification": "https://youtu.be/dl4L_dMKQu8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "mestupid",
+            "link": "https://youtu.be/IFXezgmr7Nc",
+            "percent": 100
+        },
+        {
+            "user": "Th13teen",
+            "link": "https://youtu.be/x1Wwc37qrJ0",
+            "percent": 100
+        }
+    ],
+    "tags": ["NoNG Song"]
+}

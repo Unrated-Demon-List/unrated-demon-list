@@ -1,0 +1,16 @@
+{
+    "id": 42349020,
+    "name": "Throwback Machine",
+    "author": "Kazeshini",
+    "creators": ["Orion", "Turtlebro", "OlliKuu", "Aquatias", "Eclipsed", "Onnikonna", "SirHadoken", "Skidel", "YakobNugget"],
+    "verifier": "Zynvire",
+    "verification": "https://youtu.be/zvMFPkGQS7I",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "WormFodder",
+            "link": "https://www.youtube.com/watch?v=LqppWO7KC9k",
+            "percent": 100
+        }
+    ]
+}

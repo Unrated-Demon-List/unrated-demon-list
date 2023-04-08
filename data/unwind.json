@@ -1,0 +1,17 @@
+{
+    "id": 79494970,
+    "name": "Unwind",
+    "author": "InkZie",
+    "creators": ["qtr-chan"],
+    "verifier": "InkZie",
+    "verification": "https://youtu.be/368aEqXKnYU",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "conski",
+            "link": "https://youtu.be/-F2mEQcwJjg",
+            "percent": 100
+        }
+    ]
+}

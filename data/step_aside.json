@@ -1,0 +1,16 @@
+{
+    "id": 47415969,
+    "name": "Step Aside",
+    "author": "SrGuillester",
+    "creators": ["XGen 26", "D3monD4sh3r", "Isanegfw", "Pringles", "Morin", "XEC", "BlastBlock", "Nih3y", "StarkyTheSalad", "4non", "RoiMousti"],
+    "verifier": "SrGuillester",
+    "verification": "https://youtu.be/J7_xxoqZ070",
+    "percentToQualify": 100,
+    "records": [
+	{
+            "user": "kiseta",
+            "link": "https://www.youtube.com/watch?v=35r4XysbEzU",
+            "percent": 100
+        }
+    ]
+}

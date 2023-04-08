@@ -1,0 +1,27 @@
+{
+    "id": 78475713,
+    "name": "Super Probably Dash",
+    "author": "Laranjoo",
+    "creators": [],
+    "verifier": "Dr4QuiTo",
+    "verification": "https://youtu.be/HkZfeA0Z5Fw",
+    "percentToQualify": 100,
+    "records": [
+        {
+           "user": "juanluisgg_07",
+           "link": "https://youtu.be/qvVnAV2d-BI",
+           "percent": 100
+        },
+        {
+            "user": "Nandoju2002",
+            "link": "https://youtu.be/5hQ7x4VnYJU",
+            "percent": 100
+        },
+        {
+            "user": "xanii",
+            "link": "https://youtu.be/sJETsWGka8E",
+            "percent": 100
+        }
+    ],
+    "tag": ["Memory"]
+}    

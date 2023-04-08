@@ -1,0 +1,26 @@
+{
+    "id": 67387461,
+    "name": "Vertigo II",
+    "author": "notLevo",
+    "creators": [],
+    "verifier": "Varium",
+    "verification": "https://youtu.be/34Xmjg35GQ4",
+    "percentToQualify": 53,
+    "records": [
+        {
+            "user": "Keir",
+            "link": "https://youtu.be/hNjenlcYAv8",
+            "percent": 100
+        },
+        {
+            "user": "Luqualizer",
+            "link": "https://youtu.be/0z6bGOpgCrk",
+            "percent": 100
+        },
+        {
+            "user": "njacked",
+            "link": "https://youtu.be/JK0oEeQgTDA",
+            "percent": 53
+        }
+    ]
+}

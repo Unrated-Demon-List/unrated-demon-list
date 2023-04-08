@@ -1,0 +1,26 @@
+{
+    "id": 65986727,
+    "name": "Talicron",
+    "author": "Exen",
+    "creators": ["Exen", "Kentakiman", "Dimonkyky", "Zabronex", "Bird", "Electro543", "Pineapple Cat", "Ettery", "Haru", "Kotori"],
+    "verifier": "Kotamon",
+    "verification": "https://youtu.be/e7mK0YAGsKU",
+    "percentToQualify": 54,
+    "records": [
+        {
+            "user": "Улыбочку",
+            "link": "https://youtu.be/A8ikg5QVzB8",
+            "percent": 100
+        },
+        {
+            "user": "khrizmass",
+            "link": "https://youtube.com/watch?v=feh37MGCAnY",
+            "percent": 100
+        },
+        {
+            "user": "RoinT",
+            "link": "https://youtu.be/XscRhdk9QMQ",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": 25301436,
+    "name": "The Chaos Machine",
+    "author": "IShadeI",
+    "creators": ["xLiran"],
+    "verifier": "TerraeMC",
+    "verification": "https://youtu.be/Ew5Dugkgrn0",
+    "percentToQualify": 100,
+    "records": [
+	{
+	    "user": "SnowBallerr",
+	    "link": "https://www.youtube.com/watch?v=Ij_Q2t1mU_w",
+            "percent": 100
+	},
+	{
+	    "user": "Chuck",
+	    "link": "https://youtube.com/watch?v=jzden0f88V0",
+            "percent": 100
+	},
+        {
+	    "user": "reoode",
+	    "link": "https://youtu.be/MCADx2BruPs",
+            "percent": 100
+	}
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": 83323792,
+    "name": "Stolas",
+    "author": "WakySky",
+    "creators": ["WakySky", "HR1ZN"],
+    "verifier": "conski",
+    "verification": "https://youtu.be/NebxEpERu7E",
+    "percentToQualify": 66,
+    "records": [
+        {
+            "user": "Th13teen",
+            "link": "https://youtu.be/SJ6C1FprTeY",
+            "percent": 100
+        },
+        {
+            "user": "Gamerdude",
+            "link": "https://youtu.be/_c43NpGxvzM",
+            "percent": 100
+        }
+    ],
+    "tags": ["NoNG Song"]
+}

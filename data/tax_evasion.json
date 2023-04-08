@@ -1,0 +1,17 @@
+{
+    "id": 85399502,
+    "name": "Tax Evasion",
+    "author": "KeqingMyWaifu",
+    "creators": ["skub", "xNiko"],
+    "verifier": "Xane",
+    "verification": "https://youtu.be/XtbdzVC3Y0g",
+    "percentToQualify": 55,
+    "password": "696969",
+    "records": [
+        {
+            "user": "Hipo",
+            "link": "https://youtu.be/XtbdzVC3Y0g",
+            "percent": 56
+        }
+    ]
+}

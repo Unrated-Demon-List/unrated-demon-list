@@ -1,0 +1,38 @@
+{
+    "id": 6296691,
+    "name": "The Big Black",
+    "author": "Nautilus2K",
+    "creators": [],
+    "verifier": "GeoDasher36",
+    "verification": "https://youtu.be/QCUXQDrScps",
+    "percentToQualify": 53,
+    "password": "123456",
+    "records": [
+        {
+            "user": "WSCKR",
+            "link": "https://youtu.be/TLq-0Cy7Q_Y",
+            "percent": 100
+        },
+        {
+            "user": "Karllao",
+            "link": "https://youtu.be/BMncRBjTuks",
+            "percent": 100
+        },
+        {
+            "user": "Sealio",
+            "link": "https://youtu.be/3JpyPqgkq5s",
+            "percent": 70
+        },
+        {
+            "user": "WatchPiggy",
+            "link": "https://youtu.be/iTVD34Ugy9Y",
+            "percent": 57
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/aF_jjf1znuM",
+            "percent": 54
+        }
+    ],
+    "tags": ["Old Impossible Level"]
+}

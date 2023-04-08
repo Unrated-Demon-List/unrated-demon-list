@@ -1,0 +1,16 @@
+{
+    "id": 20272208,
+    "name": "The Pestilence",
+    "author": "Stormfly",
+    "creators": ["Neelke", "Shadowlands"],
+    "verifier": "Stormfly",
+    "verification": "https://youtu.be/VAhqv87bwLo",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Luqualizer",
+            "link": "https://youtu.be/WUUPnZ5mfjE",
+            "percent": 100
+        }
+    ]
+}

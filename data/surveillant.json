@@ -1,0 +1,22 @@
+{
+    "id": 56594760,
+    "name": "Surveillant",
+    "author": "SyQual",
+    "creators": [],
+    "verifier": "jbmoon",
+    "verification": "https://youtu.be/uA7o-9BMK0g",
+    "percentToQualify": 100,
+    "password": "190720",
+    "records": [
+        {
+            "user": "Xylitol",
+            "link": "https://youtu.be/FgYkwcMPQvQ",
+            "percent": 100
+        },
+        {
+            "user": "reoode",
+            "link": "https://youtu.be/Fa0BixiH6xk",
+            "percent": 100
+        }
+    ]
+}
