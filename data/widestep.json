@@ -6,5 +6,11 @@
     "verifier": "Demishio",
     "verification": "https://youtu.be/TN8fHN_XV3o",
     "percentToQualify": 42,
-    "records": []
+    "records": [
+        {
+            "user": "TNNG",
+            "link": "https://youtu.be/pmnpc01MNxc",
+            "percent": 43
+        }
+    ]
 }
