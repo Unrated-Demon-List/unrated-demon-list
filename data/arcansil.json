@@ -8,6 +8,16 @@
     "percentToQualify": 100,
     "records": [
         {
+            "user": "lolwut",
+            "link": "https://youtu.be/H7BhS5mH11o",
+            "percent": 100
+        },
+        {
+            "user": "aynrith",
+            "link": "https://youtu.be/t3Oqu0nKtbk",
+            "percent": 100
+        },
+        {
             "user": "Pearlescent",
             "link": "https://youtu.be/FcpnTTZc6JE",
             "percent": 52
