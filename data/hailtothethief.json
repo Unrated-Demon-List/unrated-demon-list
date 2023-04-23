@@ -6,6 +6,12 @@
     "verifier": "Teno",
     "verification": "https://youtu.be/34ia4ESgoJA",
     "percentToQualify": 73,
-    "records": [],
+    "records": [
+        {
+            "user": "Dark Angel",
+            "link": "https://youtu.be/ffCqQvfAKmQ",
+            "percent": 100
+        }
+    ],
     "tags": ["Remake", "NoNG Song"]
 }
