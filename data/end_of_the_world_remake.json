@@ -1,0 +1,32 @@
+{
+    "id": 48558423,
+    "name": "End of the World (Remake)",
+    "author": "SrGuillester",
+    "creators": ["Zylenox", "DemonClown"],
+    "verifier": "SrGuillester",
+    "verification": "https://youtu.be/VD899m_qc80",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "EroGamer",
+            "link": "https://youtu.be/KEhw8YmuDjM",
+            "percent": 100
+        },
+        {
+            "user": "EVILSEPH83",
+            "link": "https://youtu.be/ZX5tINiFAww",
+            "percent": 100
+        },
+        {
+            "user": "Nikokun_",
+            "link": "https://youtu.be/RgLECL8c8gI",
+            "percent": 100
+        },
+        {
+            "user": "reoode",
+            "link": "https://youtu.be/LFzPVy0HGZA",
+            "percent": 100
+        }
+    ],
+    "tags": ["Remake"]
+}
