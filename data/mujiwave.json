@@ -1,0 +1,22 @@
+{
+    "id": 67304077,
+    "name": "MujiWave",
+    "author": "StepX",
+    "creators": ["StepX", "Nacho", "ssolsta", "Zephlin", "Soulax", "Prototype", "Xohn", "Zest", "Vennok", "Enderlink", "Shedd", "Parallax", "Kyuuti", "Cyclic"],
+    "verifier": "xanii",
+    "verification": "https://youtu.be/hKdcvTtMOHU",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Hipo",
+            "link": "https://youtu.be/lFngDki6ouM",
+            "percent": 100
+        },
+        {
+            "user": "reoode",
+            "link": "https://youtu.be/tncm7Q6IAU4",
+            "percent": 100
+        }
+    ],
+    "tags": ["Nine Circles Level", "Remake"]
+}
