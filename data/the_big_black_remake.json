@@ -1,0 +1,37 @@
+{
+    "id": 43761151,
+    "name": "The Big Black (Remake)",
+    "author": "Zylenox",
+    "creators": ["Zylenox", "Nautilus2K"],
+    "verifier": "Zylenox",
+    "verification": "https://youtu.be/i9R-FWAgkuE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "SrGuillester",
+            "link": "https://youtu.be/8uI5hew59Vg",
+            "percent": 100
+        },
+        {
+            "user": "RaziSevens",
+            "link": "https://youtu.be/OUOJE6dDXU8",
+            "percent": 100
+        },
+        {
+            "user": "HugeDoge",
+            "link": "https://youtu.be/dkrHX8DymGc",
+            "percent": 100
+        },
+        {
+            "user": "Fn Liner",
+            "link": "https://youtu.be/o2KP2OdKUBU",
+            "percent": 100
+        },
+        {
+            "user": "moogers",
+            "link": "https://youtu.be/DqJ8CoZicU8",
+            "percent": 100
+        }
+    ],
+    "tags": ["NoNG Song", "Remake"]
+}
