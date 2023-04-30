@@ -60,7 +60,7 @@ export default {
                     </ul>
                     <h2>Records</h2>
                     <p v-if="level.rank !== null && level.rank <= 150"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
-                    <p v-else>This level does not accept new records.</p>
+                    <p v-else>This level does not award points.</p>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
@@ -114,10 +114,10 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Do not use superbuffed/easy/changed gp version of a level, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Once a level falls onto the Legacy List, we accept records for it still, but they won't award any kind of points for the leaderboard
                     </p>
                 </div>
             </div>
