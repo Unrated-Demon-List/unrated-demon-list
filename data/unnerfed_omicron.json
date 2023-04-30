@@ -1,0 +1,36 @@
+{
+    "id": 68539494,
+    "name": "Unnerfed Omicron",
+    "author": "CobraBlitz",
+    "creators": ["Splash", "Genericqueso", "Wesp", "Sequex", "Zipi", "Surv", "Nexus", "Peton", "Cosmicsabre", "Parallax", "Goose", "BlasterRobotz", "Polli", "Elvii", "Vyu", "Escencia", "Toasted", "Sparksomega", "Cirtrax", "EyeOfTheStorm", "HugoLa", "Dominus", "HelpegasuS", "Belonzik", "Azasuh", "NVATIUM", "Kakemancool", "Zipixbox", "Kadex", "Zafkiel", "GDSkele", "Nashiiii", "Osiris GD", "Joojmiguel", "Pocke"],
+    "verifier": "Dorami",
+    "verification": "https://youtu.be/f2LHF8YMXlk",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Striked",
+            "link": "https://youtu.be/_tfZxjpLKCo",
+            "percent": 100
+        },
+        {
+            "user": "Mix991",
+            "link": "https://youtu.be/pOAvg2I8htM",
+            "percent": 100
+        },
+        {
+            "user": "Luqualizer",
+            "link": "https://youtu.be/VWOVKdBmXVc",
+            "percent": 100
+        },
+        {
+            "user": "dotComfey",
+            "link": "https://youtu.be/7_9M7aP3qlM",
+            "percent": 100
+        },
+        {
+           "user": "AlejandroGD",
+            "link": "https://youtu.be/jjeloji8xIQ",
+            "percent": 100 
+        }  
+    ]
+}
