@@ -3,9 +3,15 @@
     "name": "Aesthetic Abyss",
     "author": "Eridani",
     "creators": ["Eridani", "GrayRain", "Vismuth", "Toasted", "Ryns", "GrandOmega", "SiRaPhiM", "Leify", "Bo", "RainSpade", "Maku", "Grax", "GDVuLCaNuS", "Convie", "Byselling", "Rockwizzard5", "Syndrome", "Studt", "Darko Exonium", "Enixy", "Zeptoz", "Geog", "Isane", "MarkoCR", "Konsi", "lolwut", "YoonsrDynamix"],
-    "verifier": "Doggie",
-    "verification": "https://youtu.be/9HVBkpyRubE",
+    "verifier": "xFinleyGD",
+    "verification": "https://youtu.be/ROnZ-jJLT9Q",
     "percentToQualify": 100,
     "password": "Free to Copy",
-    "records": []
+    "records": [
+        {
+            "user": "Doggie",
+            "link": "https://youtu.be/9HVBkpyRubE",
+            "percent": 100
+        }
+    ]
 }
