@@ -6,11 +6,5 @@
     "verifier": "breaddemon",
     "verification": "https://youtu.be/76PYrR3JUMI",
     "percentToQualify": 100,
-    "records": [
-        {
-            "user": "HeyImCreo",
-            "link": "https://youtu.be/9_BXyIVyN2k",
-            "percent": 100
-        }
-    ]
+    "records": []
 }
