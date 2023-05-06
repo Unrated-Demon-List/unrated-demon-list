@@ -1,17 +1,11 @@
 {
-    "id": ,
-    "name": "",
-    "author": "",
-    "creators": [],
-    "verifier": "",
-    "verification": "",
+    "id": 51838099,
+    "name": "SwapBath",
+    "author": "XGen 26",
+    "creators": ["XGen 26", ],
+    "verifier": "XGen 26",
+    "verification": "https://youtu.be/hNsJ59LZjUw",
     "percentToQualify": 100,
-    "password": "",
-    "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": 100
-        }
-    ]
+    "records": [],
+    "tags": ["Copy but with Changed GP"]
 }
