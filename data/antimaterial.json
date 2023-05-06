@@ -1,17 +1,10 @@
 {
-    "id": ,
-    "name": "",
-    "author": "",
-    "creators": [],
-    "verifier": "",
-    "verification": "",
+    "id": 58716045,
+    "name": "AntiMaterial",
+    "author": "SeptaGon7",
+    "creators": ["CamRa", "KoolBoom", "Splenetic"],
+    "verifier": "SeptaGon7",
+    "verification": "https://youtu.be/5rFXsd9UeqM",
     "percentToQualify": 100,
-    "password": "",
-    "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": 100
-        }
-    ]
+    "records": []
 }
