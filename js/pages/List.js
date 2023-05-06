@@ -43,7 +43,15 @@ export default {
                     <div style="display:flex">
                         <div v-for="tag in level.tags" class="tag">{{tag}}</div>
                     </div>
-                    <iframe class="video" :src="embed(level.verification)" frameborder="0"></iframe>
+                    <div v-if="level.showcase" class="tabs">
+                        <button class="tab type-label-lg" :class="{selected: !toggledShowcase}" @click="toggledShowcase = false">
+                            <span class="type-label-lg">Verification</span>
+                        </button>
+                        <button class="tab" :class="{selected: toggledShowcase}" @click="toggledShowcase = true">
+                            <span class="type-label-lg">Showcase</span>
+                        </button>
+                    </div>
+                    <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Points when completed</div>
@@ -132,11 +140,23 @@ export default {
         listlevels: 0,
         roleIconMap,
         store,
+        toggledShowcase: false,
     }),
     computed: {
         level() {
             return this.list && this.list[this.selected] && this.list[this.selected][2];
-        }
+        },
+        video() {
+            if (!this.level.showcase) {
+                return embed(this.level.verification);
+            }
+
+            return embed(
+                this.toggledShowcase
+                    ? this.level.showcase
+                    : this.level.verification
+            );
+        },
     },
     async mounted() {
         // Hide loading spinner
