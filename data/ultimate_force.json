@@ -1,17 +1,10 @@
 {
-    "id": ,
-    "name": "",
-    "author": "",
+    "id": 8351425,
+    "name": "Ultimate Force",
+    "author": "TheMorgan",
     "creators": [],
-    "verifier": "",
-    "verification": "",
+    "verifier": "GeometryJosh",
+    "verification": "https://youtu.be/8TzTZ_K9H_k",
     "percentToQualify": 100,
-    "password": "",
-    "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": 100
-        }
-    ]
+    "records": []
 }
