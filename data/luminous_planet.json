@@ -1,16 +1,41 @@
 {
-    "id": ,
-    "name": "",
-    "author": "",
+    "id": 39228675,
+    "name": "Luminous Planet",
+    "author": "Jindotgae",
     "creators": [],
-    "verifier": "",
-    "verification": "",
+    "verifier": "Koreaqwer",
+    "verification": "https://youtu.be/lsiyka204eY",
     "percentToQualify": 100,
     "password": "21117",
     "records": [
         {
-            "user": "",
-            "link": "",
+            "user": "hytklfsq",
+            "link": "https://youtu.be/hgZpE5Az_28",
+            "percent": 100
+        },
+        {
+            "user": "exerity",
+            "link": "https://youtu.be/Ok5MdJod3ac",
+            "percent": 100
+        },
+        {
+            "user": "Tsukinple",
+            "link": "https://youtu.be/XmleIu4f5F4",
+            "percent": 100
+        },
+        {
+            "user": "Laniakea",
+            "link": "https://youtu.be/Y2poS1G7CvU",
+            "percent": 100
+        },
+        {
+            "user": "goobrey",
+            "link": "https://youtu.be/x4K5IrPzKmM",
+            "percent": 100
+        },
+        {
+            "user": "Blue",
+            "link": "https://youtu.be/Ezog1sF0tTA",
             "percent": 100
         }
     ]
