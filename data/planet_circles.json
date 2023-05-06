@@ -1,6 +1,6 @@
 {
     "id": 19072131,
-    "name": "Planet Circles (Unnerfed)",
+    "name": "Planet Circles (Verifier Version)",
     "author": "Atomic",
     "creators": ["xSolar"],
     "verifier": "Atomic",
@@ -9,7 +9,7 @@
     "password": "903648",
     "records": [
         {
-            "user": "JakeSJ",
+            "user": "JakeEP",
             "link": "https://youtu.be/had4PjN_Ydo",
             "percent": 100
         },
@@ -173,6 +173,11 @@
             "percent": 100
         },
         {
+            "user": "Bleamer",
+            "link": "https://youtu.be/o-hxP3Q-bTs",
+            "percent": 100
+        },
+        {
             "user": "VLLH",
             "link": "https://youtu.be/0DCfbpluSZM",
             "percent": 100
@@ -183,9 +188,20 @@
             "percent": 100
         },
         {
+            "user": "Storm957",
+            "link": "https://youtu.be/le4J6grIg3A",
+            "percent": 100
+        },
+        {
             "user": "veshel",
             "link": "https://youtu.be/vCUma8XQBO8",
             "percent": 100
+        },
+        {
+            "user": "MarcYy",
+            "link": "https://youtu.be/Vx_ZJK4QtNo",
+            "percent": 100
         }
-    ]
+    ],
+    "tags": ["Verifier Version", "Nine Circles Level"]
 }
