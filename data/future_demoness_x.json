@@ -1,16 +1,46 @@
 {
-    "id": ,
-    "name": "",
-    "author": "",
-    "creators": [],
-    "verifier": "",
-    "verification": "",
+    "id": 25781053,
+    "name": "Future Demoness X",
+    "author": "Atomic",
+    "creators": ["MaJackO", "S1l3nce"],
+    "verifier": "Atomic",
+    "verification": "https://youtu.be/notd2ocIU2M",
     "percentToQualify": 100,
-    "password": "",
+    "password": "235236",
     "records": [
         {
-            "user": "",
-            "link": "",
+            "user": "JakeEP",
+            "link": "https://youtu.be/0ltf7ejzAaA",
+            "percent": 100
+        },
+        {
+            "user": "Gabs",
+            "link": "https://youtu.be/JEIxO40Mzrc",
+            "percent": 100
+        },
+        {
+            "user": "Koreaqwer",
+            "link": "https://youtu.be/rvpaCKQjWLA",
+            "percent": 100
+        },
+        {
+            "user": "Chazkon15",
+            "link": "https://youtu.be/I2ejkF2jUl0",
+            "percent": 100
+        },
+        {
+            "user": "Arcturus97",
+            "link": "https://youtu.be/2XQR5ShSfdA",
+            "percent": 100
+        },
+        {
+            "user": "KenosSongReal",
+            "link": "https://youtu.be/j8tnaVD9O6U",
+            "percent": 100
+        },
+        {
+            "user": "Ranly",
+            "link": "https://youtu.be/ChAlWoCrkuA",
             "percent": 100
         }
     ],
