@@ -1,17 +1,12 @@
 {
-    "id": ,
-    "name": "",
-    "author": "",
-    "creators": [],
-    "verifier": "",
-    "verification": "",
+    "id": 51023409,
+    "name": "Equatorial Street",
+    "author": "MetaManz",
+    "creators": ["MetaManz"],
+    "verifier": "MacChunky",
+    "verification": "https://youtu.be/W4rAiQW93u4",
     "percentToQualify": 100,
-    "password": "",
-    "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": 100
-        }
-    ]
+    "password": "696969",
+    "records": [],
+    "tags": ["Nerfed Impossible Level"]
 }
