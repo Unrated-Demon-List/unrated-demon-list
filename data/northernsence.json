@@ -1,17 +1,18 @@
 {
-    "id": ,
-    "name": "",
-    "author": "",
-    "creators": [],
-    "verifier": "",
-    "verification": "",
+    "id": 38301470,
+    "name": "Northernsence",
+    "author": "Electro2001",
+    "creators": ["RobTop", "Electro2001"],
+    "verifier": "Luqualizer",
+    "verification": "https://youtu.be/dJuwyw1Pvpg",
     "percentToQualify": 100,
-    "password": "",
+    "password": "235236",
     "records": [
         {
-            "user": "",
-            "link": "",
+            "user": "Atomic",
+            "link": "https://youtu.be/98VWgJyXT-0",
             "percent": 100
         }
-    ]
+    ],
+    "tags": ["Superbuff"]
 }
