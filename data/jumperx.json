@@ -1,17 +1,18 @@
 {
-    "id": ,
-    "name": "",
-    "author": "",
-    "creators": [],
-    "verifier": "",
-    "verification": "",
+    "id": 40423097,
+    "name": "JumperX",
+    "author": "datchet",
+    "creators": ["datchet", "Josh", "Vlacc", "Krmal"],
+    "verifier": "MeatiusGaming",
+    "verification": "https://youtu.be/kWmi6BpX2fI",
     "percentToQualify": 100,
-    "password": "",
+    "password": "281217",
     "records": [
         {
-            "user": "",
-            "link": "",
+            "user": "ShindaYoshi",
+            "link": "https://youtu.be/AtaNWJVcARQ",
             "percent": 100
         }
-    ]
+    ],
+    "tags": ["Superbuff"]
 }
