@@ -6,5 +6,11 @@
     "verifier": "Baeru",
     "verification": "https://youtu.be/2CIpEYs4cGE",
     "percentToQualify": 57,
-    "records": []
+    "records": [
+        {
+            "user": "lmining",
+            "link": "https://youtu.be/FazJz9qGAB8",
+            "percent": 63
+        }
+    ]
 }
