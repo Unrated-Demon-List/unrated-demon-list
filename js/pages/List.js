@@ -68,7 +68,7 @@ export default {
                     </ul>
                     <h2>Records</h2>
                     <p v-if="level.rank !== null && level.rank <= 150"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
-                    <p v-else>This level does not award points.</p>
+                    <p v-else>This level does not award points, but it accepts records.</p>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
