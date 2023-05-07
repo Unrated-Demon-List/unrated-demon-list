@@ -6,6 +6,12 @@
     "verifier": "SeptaGon7",
     "verification": "https://youtu.be/EzoX4SpQNr0",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+        {
+            "user": "HequinoX",
+            "link": "https://youtu.be/ssNTj2YhPe4",
+            "percent": 100
+        }
+    ],
     "tags": ["Old Impossible Level"]
 }
