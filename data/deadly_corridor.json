@@ -1,95 +1,25 @@
 {
-    "id": 25641682,
+    "id": 19788120,
     "name": "Deadly Corridor",
-    "author": "Metalface221",
-    "creators": ["KaotikJumper"],
-    "verifier": "Metalface221",
-    "verification": "https://youtu.be/hioONgv6BuI",
+    "author": "KaotikJumper",
+    "creators": [],
+    "verifier": "CrokyTheKiwi",
+    "verification": "https://youtu.be/yIkLRhVMNYk",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Juzeph",
-            "link": "https://youtu.be/ywPRbUwg9-w",
+            "user": "SoulX",
+            "link": "https://youtu.be/W3VyEdKhKA4",
             "percent": 100
         },
         {
-            "user": "Cold",
-            "link": "https://youtu.be/fRdopqTVWlI",
+            "user": "EVILSEPH83",
+            "link": "https://youtu.be/fVppWiYT3KM",
             "percent": 100
         },
         {
-            "user": "SrGuillester",
-            "link": "https://youtu.be/Fkamkm5pBCo",
-            "percent": 100
-        },
-        {
-            "user": "Napero",
-            "link": "https://youtu.be/U0D-uJjGU3Y",
-            "percent": 100
-        },
-        {
-            "user": "WhiteDwarf",
-            "link": "https://youtu.be/8yP1Y-Qr06M",
-            "percent": 100
-        },
-        {
-            "user": "Zalgaryth",
-            "link": "https://youtu.be/qQ6TW6auykw",
-            "percent": 100
-        },
-        {
-            "user": "Zylenox",
-            "link": "https://youtu.be/Ya0dD5DvPoQ",
-            "percent": 100
-        },
-        {
-            "user": "Nessid",
-            "link": "https://youtu.be/gRAnERrtvZ0",
-            "percent": 100
-        },
-        {
-            "user": "nSterky",
-            "link": "https://youtu.be/U6DXsNQyr1o",
-            "percent": 100
-        },
-        {
-            "user": "Isiah",
-            "link": "https://youtu.be/Izj4YRCopM8",
-            "percent": 100
-        },
-        {
-            "user": "SamTheFman",
-            "link": "https://youtu.be/ny54mQnRqHM",
-            "percent": 100
-        },
-        {
-            "user": "JakeEP",
-            "link": "https://youtu.be/-kkVbf8AKkk",
-            "percent": 100
-        },
-        {
-            "user": "SuPPerBBoy",
-            "link": "https://youtu.be/u0kcuAF94gs",
-            "percent": 100
-        },
-        {
-            "user": "Mentrillum",
-            "link": "https://youtu.be/ppSTE1CuhoU",
-            "percent": 100
-        },
-        {
-            "user": "Slayer",
-            "link": "https://youtu.be/hhSAbZtivME",
-            "percent": 100
-        },
-        {
-            "user": "HequinoX",
-            "link": "https://youtu.be/rf8-bvTK-p0",
-            "percent": 100
-        },
-        {
-            "user": "reoode",
-            "link": "https://youtu.be/dRX6yQeCSkU",
+            "user": "Bleamer",
+            "link": "https://youtu.be/a4s3q2I1mU4",
             "percent": 100
         }
     ]
