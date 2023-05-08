@@ -1,8 +1,8 @@
 {
     "id": 57692445,
-    "name": "Theory of Silent X",
+    "name": "Theory Of Silent x",
     "author": "DrumBreak",
-    "creators": [],
+    "creators": ["DrumBreak", "TheChaoticNeko"],
     "verifier": "Koozoo2000",
     "verification": "https://youtu.be/U51pk0Rd8s0",
     "percentToQualify": 100,
@@ -17,5 +17,6 @@
             "link": "https://youtu.be/J91aaQZlblQ",
             "percent": 100
         }
-    ]
+    ],
+    "tags": ["Remake"]
 }
