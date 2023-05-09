@@ -1,0 +1,22 @@
+{
+    "id": 25158046,
+    "name": "SilentFunk (Remake)",
+    "author": "EternaswipVMAX",
+    "creators": ["EternaswipVMAX", "Nautilus2K", "Optagonus"],
+    "verifier": "SrGuillester",
+    "verification": "https://youtu.be/DppmWzD3Xt8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "lSunix",
+            "link": "https://youtu.be/sVYrUDohpgA",
+            "percent": 100
+        },
+        {
+            "user": "Atomic",
+            "link": "https://youtu.be/exegtly1E3w",
+            "percent": 100
+        }
+    ],
+    "tags": ["Remake"]
+}
