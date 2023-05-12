@@ -18,8 +18,23 @@
             "percent": 100
         },
         {
+            "user": "twister",
+            "link": "https://youtu.be/WbyamDrU_jI",
+            "percent": 100
+        },
+        {
+            "user": "cianmcco",
+            "link": "https://youtu.be/4TKy6moDc10",
+            "percent": 100
+        },
+        {
             "user": "ShindaYoshi",
             "link": "https://youtu.be/u17IkFNnC54",
+            "percent": 100
+        },
+        {
+            "user": "jitt3r",
+            "link": "https://youtu.be/tzsiRhgSa_E",
             "percent": 100
         },
         {
@@ -28,9 +43,25 @@
             "percent": 100
         },
         {
+            "user": "AndreeTheFurry",
+            "link": "https://youtu.be/EdVD_YcYHvs",
+            "percent": 100
+        },
+        {
             "user": "ExoticCreep2",
             "link": "https://youtu.be/xh1zuVBzOiY",
             "percent": 100
+        },
+        {
+            "user": "IcEDCave",
+            "link": "https://youtu.be/lsW0_LrZ1cI",
+            "percent": 100
+        },
+        {
+            "user": "Griffin128",
+            "link": "https://youtu.be/hlczFpacKSM",
+            "percent": 100
         }
-    ]
+    ],
+    "tags": ["Old Impossible Level", "Short"]
 }
