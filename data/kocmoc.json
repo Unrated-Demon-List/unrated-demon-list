@@ -3,8 +3,14 @@
     "name": "KOCMOC",
     "author": "cherryteam",
     "creators": ["SPK","Synd","Vinty","Sauzzeth","Bli","Xatz","Konsi","Deadlox","Cuaer","Hantein"],
-    "verifier": "Trick",
-    "verification": "https://youtu.be/RsOVrVlcE2g",
-    "percentToQualify": 48,
-    "records": []
+    "verifier": "Zoink",
+    "verification": "https://www.youtube.com/watch?v=2CxE-UWCIG4&pp=ygUGS09DTU9D",
+    "percentToQualify": 56,
+    "records": [
+        {
+	    "user": "Trick",
+	    "link": "https://youtu.be/RsOVrVlcE2g",
+	    "percent": 100
+	    }
+    ]
 }
