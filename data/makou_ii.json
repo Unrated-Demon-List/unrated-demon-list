@@ -41,6 +41,17 @@
 	    "user": "exomix",
 	    "link": "https://www.youtube.com/watch?v=u-UADSndm_Q",
 	    "percent": 100
-	}
-    ]
+	},
+        {
+	        "user": "Kurumi",
+	        "link": "https://youtu.be/lotsloDG9-w",
+	        "percent": 100
+	    },
+        {
+	        "user": "luna!",
+	        "link": "https://youtu.be/vm4BxJ-pvFU",
+	        "percent": 100
+	    }
+    ],
+    "tags": ["GDPS Level"]
 }
