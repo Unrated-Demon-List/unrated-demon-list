@@ -8,11 +8,21 @@
     "percentToQualify": 100,
     "password": "4240",
     "records": [
-	{
-	    "user": "Cersia",
-	    "link": "https://www.youtube.com/watch?v=UIMeVeqlob4",
-	    "percent": 100
-	}
+	    {
+	        "user": "Cersia",
+	        "link": "https://www.youtube.com/watch?v=UIMeVeqlob4",
+	        "percent": 100
+	    },
+        {
+	        "user": "Realiosteelio",
+	        "link": "https://youtu.be/B1-6tM2N-oQ",
+	        "percent": 100
+	    },
+        {
+	        "user": "Slithium",
+	        "link": "https://youtu.be/cM6r0GZ8vxk",
+	        "percent": 100
+	    }
     ],
     "tags": ["GDPS Level", "Short"]
 }
