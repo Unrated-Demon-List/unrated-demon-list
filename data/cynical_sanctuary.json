@@ -6,10 +6,16 @@
     "verifier": "JakeEP",
     "verification": "https://www.youtube.com/watch?v=Wh5-_4JiMak",
     "percentToQualify": 100,
+    "password": "227595",
     "records": [
         {
             "user": "mike; rain22",
             "link": "https://youtu.be/iKOcTQafPJA",
+            "percent": 100
+        },
+        {
+            "user": "iIiViRuZiIi",
+            "link": "https://youtu.be/TIPTlOTQO_U",
             "percent": 100
         },
         {
