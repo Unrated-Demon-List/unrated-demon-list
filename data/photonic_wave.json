@@ -6,11 +6,13 @@
     "verifier": "nSwish",
     "verification": "https://youtu.be/wqKt4pDlCy8",
     "percentToQualify": 100,
+    "password": "6667",
     "records": [
         {
             "user": "PoweredByPie",
             "link": "https://youtu.be/a5R5VzxOeQU",
             "percent": 100
         }
-    ]
+    ],
+    "tags": ["Nine Circles Level"]
 }
