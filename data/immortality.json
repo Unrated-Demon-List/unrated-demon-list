@@ -2,10 +2,16 @@
     "id": 78528414,
     "name": "Immortality",
     "author": "RedWire",
-    "creators": ["IceBoxOG", "Javasla"],
-    "verifier": "RedWire",
-    "verification": "https://youtu.be/jMkvwyj6-3I",
+    "creators": ["RedWire", "IceBoxOG", "Javasla"],
+    "verifier": "emerald",
+    "verification": "https://youtu.be/xMf5zGodpOE",
     "percentToQualify": 100,
     "password": "101010",
-    "records": []
+    "records": [
+        {
+            "user": "RedWire",
+            "link": "https://youtu.be/jMkvwyj6-3I",
+            "percent": 100
+        }
+    ]
 }
