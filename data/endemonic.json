@@ -7,6 +7,17 @@
     "verification": "https://youtu.be/vQj8ZyDo1Go",
     "percentToQualify": 100,
     "password": "789123",
-    "records": [],
+    "records": [
+        {
+            "user": "Gamerdude",
+            "link": "https://youtu.be/xWztrLHfCTY",
+            "percent": 100
+        },
+        {
+            "user": "ArtsiBurn",
+            "link": "https://youtu.be/t5LaU5vDhCo?t=294",
+            "percent": 100
+        }
+    ],
     "tags": ["Remake"]
 }
