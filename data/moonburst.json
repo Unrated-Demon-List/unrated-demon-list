@@ -2,7 +2,7 @@
     "id": 70945986,
     "name": "Moonburst",
     "author": "btLisp",
-    "creators": ["Rumi", "Samati", "Reshi"],
+    "creators": ["btLisp", "Rumi", "Samati", "Reshi"],
     "verifier": "Hover",
     "verification": "https://youtu.be/s8GNjOlv_Q4",
     "percentToQualify": 100,
@@ -13,5 +13,6 @@
             "link": "https://youtu.be/JzbuWyJ55WQ",
             "percent": 100
         }
-    ]
+    ],
+    "tags": ["Short", "Nine Circles Level"]
 }
