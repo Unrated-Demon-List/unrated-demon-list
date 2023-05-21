@@ -1,12 +1,22 @@
 {
-    "id": 60699289,
+    "id": 90910028,
     "name": "SilentCircleKnockOff",
-    "author": "TheJohniX",
+    "author": "legoyoshi3",
     "creators": ["Xinim"],
-    "verifier": "SeptaGon7",
-    "verification": "https://www.youtube.com/watch?v=dcuo4uvDShw",
+    "verifier": "xanii",
+    "verification": "https://youtu.be/kWva_ot8dsE",
     "percentToQualify": 100,
-    "password": "652143",
-    "records": [],
+    "records": [
+        {
+            "user": "SeptaGon7",
+            "link": "https://www.youtube.com/watch?v=dcuo4uvDShw",
+            "percent": 100
+        },
+        {
+            "user": "reoode",
+            "link": "https://youtu.be/BOvj8vhpHH4",
+            "percent": 100
+        }
+    ],
     "tags": ["Nine Circles Level", "Remake"]
 }
