@@ -6,6 +6,7 @@
     "verifier": "MeatiusGaming",
     "verification": "https://youtu.be/EWtATqnhzNg",
     "percentToQualify": 100,
+    "password": "314159",
     "records": [
         {
             "user": "dotComfey",
@@ -17,5 +18,6 @@
             "link": "https://youtu.be/L6jgbtekcDE",
             "percent": 100
         }
-    ]
+    ],
+    "tags": ["NoNG Song"]
 }
