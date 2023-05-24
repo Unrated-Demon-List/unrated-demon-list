@@ -5,6 +5,7 @@
     "creators": [],
     "verifier": "Zylenox",
     "verification": "https://youtu.be/TtZznh8RgIw",
+    "password": "666666",
     "percentToQualify": 100,
     "records": [
         {
@@ -32,5 +33,6 @@
             "link": "https://youtu.be/HeEaAJE2ekE",
             "percent": 100
         }
-    ]
+    ],
+    "tags": ["NoNG Song"]
 }
