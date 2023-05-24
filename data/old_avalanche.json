@@ -5,6 +5,7 @@
     "creators": ["Filqh"],
     "verifier": "MeatiusGaming",
     "verification": "https://youtu.be/wH0HsbLdN8g",
+    "showcase": "https://www.youtube.com/watch?v=4cjJQieT26Q&t=1s",
     "percentToQualify": 100,
     "records": [
         {
@@ -18,5 +19,5 @@
             "percent": 100
         }
     ],
-    "tags": ["Limited Vision"]
+    "tags": ["Limited Vision", "Old"]
 }
