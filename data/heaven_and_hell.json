@@ -5,6 +5,7 @@
     "creators": ["RoadBose"],
     "verifier": "Tuggy75",
     "verification": "https://youtu.be/kBatLhgBJ6Y",
+    "showcase": "https://www.youtube.com/watch?v=eECHiKPe_54&t=2s",
     "percentToQualify": 39,
     "records": [
         {
@@ -13,5 +14,5 @@
             "percent": 100
         }
     ],
-    "tags": ["Formerly Rated", "Old Impossible Level"]
+    "tags": ["Formerly Rated", "Old Impossible Level", "XL"]
 }
