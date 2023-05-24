@@ -5,6 +5,7 @@
     "creators": ["PinchPeak5203"],
     "verifier": "enzbro",
     "verification": "https://youtu.be/WadNMBgt4CA",
+    "showcase": "https://www.youtube.com/watch?v=pNy6KUfnKso",
     "percentToQualify": 83,
     "password": "696969",
     "records": [
@@ -24,5 +25,5 @@
             "percent": 85
         }
     ],
-    "tags": ["Old Impossible Level"]
+    "tags": ["Old Impossible Level", "Short"]
 }
