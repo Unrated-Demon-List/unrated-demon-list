@@ -5,6 +5,7 @@
     "creators": ["Antares", "Endlevel", "Deadlox"],
     "verifier": "Jobalho",
     "verification": "https://youtu.be/9uPz5nUeFbk",
+    "showcase": "https://www.youtube.com/watch?v=b8G9b0WZ9WQ",
     "percentToQualify": 53,
     "records": [
         {
@@ -13,5 +14,5 @@
             "percent": 100
         }
     ],
-    "tags": ["Nine Circles", "NoNG Song"]
+    "tags": ["Nine Circles", "NoNG Song", "Old"]
 }
