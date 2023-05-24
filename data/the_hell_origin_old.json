@@ -5,6 +5,7 @@
     "creators": ["Sohn0924"],
     "verifier": "Stormfly",
     "verification": "https://youtu.be/G8UWhD4UDCQ",
+    "showcase": "https://www.youtube.com/watch?v=AExiKtSwctw",
     "percentToQualify": 100,
     "records": [
         {
@@ -12,5 +13,6 @@
             "link": "https://youtu.be/4s6-0JzmSjU",
             "percent": 62
         }
-    ]
+    ],
+    "tags": ["Old Impossible Level", "Old"]
 }
