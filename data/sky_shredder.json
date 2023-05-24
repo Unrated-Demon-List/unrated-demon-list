@@ -5,6 +5,7 @@
     "creators": [],
     "verifier": "Dorvict",
     "verification": "https://youtu.be/Z-69-4RKRgk",
+    "showcase": "https://www.youtube.com/watch?v=V1LRavaBbOs",
     "percentToQualify": 62,
     "records": [
         {
@@ -12,5 +13,6 @@
             "link": "https://youtu.be/kr5KLuR6JG0",
             "percent": 100
         }
-    ]
+    ],
+    "tags": ["GDPS Level"]
 }
