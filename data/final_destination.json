@@ -5,6 +5,7 @@
     "creators": [],
     "verifier": "telepracity",
     "verification": "https://youtu.be/q3wiYEyhQQY",
+    "showcase": "https://www.youtube.com/watch?v=DN3tRC_fuHc&t=1s",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
@@ -34,5 +35,5 @@
             "percent": 47
         }
     ],
-    "tags": ["NoNG Song", "Memory"]
+    "tags": ["NoNG Song", "Memory", "XL"]
 }
