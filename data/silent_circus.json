@@ -5,6 +5,7 @@
     "creators": ["Endermodzking"],
     "verifier": "Tuggy75",
     "verification": "https://youtu.be/5KX0YMMjOmo",
+    "showcase": "https://www.youtube.com/watch?v=XqpdPVkGlVg",
     "percentToQualify": 42,
     "password": "Not copyable",
     "records": [
@@ -13,5 +14,6 @@
             "link": "https://youtu.be/e_X3rVfaAs0",
             "percent": 100
         }
-    ]
+    ],
+    "tags": ["Old Impossible Level", "Spam"]
 }
