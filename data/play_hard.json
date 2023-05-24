@@ -9,11 +9,6 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Donei GD",
-            "link": "https://youtu.be/RMDiGojsPg4",
-            "percent": 100
-        },
-        {
             "user": "Mcrawford001",
             "link": "https://youtu.be/4IXCtORpnaQ",
             "percent": 100
@@ -22,7 +17,22 @@
             "user": "Dylinator",
             "link": "https://youtu.be/0STty02UvXo",
             "percent": 100
+        },
+        {
+            "user": "Klauss Alex ML",
+            "link": "https://youtu.be/uIhcJyjR_L0",
+            "percent": 100
+        },
+        {
+            "user": "Freikz",
+            "link": "https://youtu.be/jQyFW8CvGRs",
+            "percent": 100
+        },
+        {
+            "user": "Rinon",
+            "link": "https://www.youtube.com/watch?v=mI592cBKMgw",
+            "percent": 100
         }
     ],
-    "tags": ["XL"]
+    "tags": ["XL", "NoNG Song"]
 }
