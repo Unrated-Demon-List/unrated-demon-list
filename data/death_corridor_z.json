@@ -5,6 +5,7 @@
     "creators": ["Airswipe", "KaotikJumper"],
     "verifier": "lSunix",
     "verification": "https://youtu.be/9799msdH394",
+    "showcase": "https://www.youtube.com/watch?v=_C2OMhWW4yM",
     "percentToQualify": 54,
     "password": "555888",
     "records": [
@@ -49,5 +50,5 @@
             "percent": 54
         }
     ],
-    "tags": ["Remake"]
+    "tags": ["Remake", "XL"]
 }
