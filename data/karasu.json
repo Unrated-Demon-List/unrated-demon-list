@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/Uw5P8SwFGsk",
     "percentToQualify": 100,
     "password": "524444",
-    "records": []
+    "records": [
+        {
+            "user": "twister",
+            "link": "https://youtu.be/bWeYoIvYHD4",
+            "percent": 100
+        }
+    ]
 }
