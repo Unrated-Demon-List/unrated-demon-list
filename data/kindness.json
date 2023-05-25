@@ -1,17 +1,27 @@
 {
     "id": 81544421,
-    "name": "KINDNESS (Unnerfed)",
+    "name": "kindness",
     "author": "yoMone",
     "creators": [],
-    "verifier": "Amza",
-    "verification": "https://youtu.be/wYMXs2uUwbk",
+    "verifier": "njacked",
+    "verification": "https://youtu.be/xZEWUHly-Lk",
     "percentToQualify": 100,
     "records": [
-	{
-	    "user": "TFIBB",
-	    "link": "https://youtu.be/IywQ9S9Z9_Y",
-	    "percent": 100
-	}
+	    {
+	        "user": "Amza",
+	        "link": "https://youtu.be/wYMXs2uUwbk",
+	        "percent": 100
+	    },
+        {
+	        "user": "TFIBB",
+	        "link": "https://youtu.be/IywQ9S9Z9_Y",
+	        "percent": 100
+	    },
+        {
+	        "user": "zMrMummy",
+	        "link": "https://youtu.be/Gxm--GRHmtk",
+	        "percent": 100
+	    }
     ],
     "tags": ["Short", "NoNG Song", "GDPS Level"]
 }
