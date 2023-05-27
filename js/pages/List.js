@@ -66,6 +66,12 @@ export default {
                             <p>{{ level.password || 'Free to copy' }}</p>
                         </li>
                     </ul>
+                    <ul stats="stats" v-if="level.song">
+                        <li>
+                            <div class="type-title-sm">Song</div>
+                            <p><a :href="(level.song===undefined)?'#':level.song" :style="{'text-decoration':(level.song===undefined)?'none':'underline'}">Link to song</a></p>
+                        </li>
+                    </ul>
                     <h2>Records</h2>
                     <p v-if="level.rank !== null && level.rank <= 150"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
                     <p v-else>This level does not award points, but it accepts records.</p>
