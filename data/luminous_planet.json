@@ -2,12 +2,17 @@
     "id": 39228675,
     "name": "Luminous Planet",
     "author": "Jindotgae",
-    "creators": [],
+    "creators": ["Koreaqwer", "ThorMode"],
     "verifier": "Koreaqwer",
     "verification": "https://youtu.be/lsiyka204eY",
     "percentToQualify": 100,
     "password": "21117",
     "records": [
+        {
+            "user": "SONIC80",
+            "link": "https://youtu.be/NnhHBJ9bQtg",
+            "percent": 100
+        },
         {
             "user": "hytklfsq",
             "link": "https://youtu.be/hgZpE5Az_28",
