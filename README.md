@@ -46,43 +46,10 @@ Can I submit Multiple levels on 1 video?
 
 ---
 
-# List Staff Team
-
 ## List Leaders/Owners:
 
 - DaMeister
 - legoyoshi
-
----
-
-## List Moderators:
-
-- MythicalTG
-- Sevant
-
----
-
-## List Helpers:
-
-- KylashTheKiller
-- ZakkOfAllTrades
-- Remy
-- Sneze
-- ButterFish
-- GDMeric
-- knali
-- opy
-
----
-
-## Server Moderators:
-
-- ZakkOfAllTrades
-- Flakjacket
-- Kirby
-- Wailmore
-
----
 
 ## Repo Maintainers:
 
