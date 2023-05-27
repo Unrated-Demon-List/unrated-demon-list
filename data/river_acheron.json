@@ -1,6 +1,6 @@
 {
     "id": 68408765,
-    "name": "River Acheron",
+    "name": "River Acheron (Remake)",
     "author": "CSTeam",
     "creators": ["Cylyrii", "vLunar", "Melo", "sseongho", "Tomeito", "Goes by J", "Jolly", "Croni", "Ruler", "FancyEX", "Doki", "TriangulaR", "Brittank88", "Noyen", "max", "Delax", "Naggings GD", "Yl0", "knali", "kkg", "Raspoza", "Evnos", "Luna"],
     "verifier": "nac",
@@ -12,5 +12,6 @@
 	    "link": "https://youtu.be/EL_XP5dA2qA",
 	    "percent": 100
 	}
-    ]
+    ],
+    "tags": ["GDPS Level", "Remake"]
 }
