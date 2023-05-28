@@ -6,6 +6,7 @@
     "verifier": "vaen",
     "verification": "https://youtu.be/V949cNuvwXw",
     "percentToQualify": 100,
+    "password": "1418",
     "records": [
         {
             "user": "xanii",
@@ -107,5 +108,7 @@
             "link": "https://youtu.be/5Axu1cTKiWo",
             "percent": 100
         }
-    ]
+    ],
+    "tags": ["Short", "NoNG Song"],
+    "song": "https://cdn.discordapp.com/attachments/1112151604070719699/1112423502654480394/507946.mp3"
 }
