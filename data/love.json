@@ -9,6 +9,11 @@
     "percentToQualify": 100,
     "records": [
         {
+            "user": "damian",
+            "link": "https://youtu.be/Q0Q7VBbcuXg",
+            "percent": 100
+        },
+        {
             "user": "ShindaYoshi",
             "link": "https://youtu.be/hWAxdw6JTEc",
             "percent": 100
