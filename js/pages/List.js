@@ -69,7 +69,10 @@ export default {
                     <ul stats="stats" v-if="level.song">
                         <li>
                             <div class="type-title-sm">Song</div>
-                            <p><a :href="(level.song===undefined)?'#':level.song" :style="{'text-decoration':(level.song===undefined)?'none':'underline'}">Link to song</a></p>
+                                <p class="type-body">
+                                    <span><a :href="(level.song===undefined)?'#':level.song" :style="{'text-decoration':(level.song===undefined)?'none':'underline'}">Link to song</a></span>
+                                </p>
+                            </div>
                         </li>
                     </ul>
                     <h2>Records</h2>
