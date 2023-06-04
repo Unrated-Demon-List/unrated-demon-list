@@ -9,14 +9,14 @@
     "percentToQualify": 44,
     "records": [
         {
+            "user": "DenseCabbage",
+            "link": "https://youtu.be/7_Zcv1AsxEo",
+            "percent": 100
+        },
+        {
             "user": "declan",
             "link": "https://youtu.be/-1tUn5nyK3M",
             "percent": 74
-        },
-        {
-            "user": "DenseCabbage",
-            "link": "https://youtu.be/Ro2rrUBij4w",
-            "percent": 73
         },
         {
             "user": "damian",
