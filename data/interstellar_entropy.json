@@ -7,6 +7,21 @@
     "verification": "https://youtu.be/2ZEgYrj253o",
     "percentToQualify": 100,
     "records": [
+        {
+	        "user": "AlejandroGD",
+	        "link": "https://youtu.be/TgifChAFA9k",
+	        "percent": 100
+	    },
+        {
+	        "user": "idiotdash",
+	        "link": "https://youtu.be/o5tG4UD-2zs",
+	        "percent": 100
+	    },
+        {
+	        "user": "TheLuigiParody03",
+	        "link": "https://youtu.be/Jwjbu5fk0DY",
+	        "percent": 100
+	    },
     {
 	    "user": "SawnnibalLecter",
 	    "link": "https://youtu.be/kn0v3UJv5Dk",
@@ -36,6 +51,12 @@
 	    "user": "stevensitos999",
 	    "link": "https://youtu.be/j9oNPtSQ5c0",
 	    "percent": 100
-	}
-    ]
+	},
+        {
+	        "user": "Skellyton Guard",
+	        "link": "https://youtu.be/NOqWyoQEdOI",
+	        "percent": 100
+	    }
+    ],
+    "tags": ["XL"]
 }
