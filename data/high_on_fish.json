@@ -6,6 +6,12 @@
     "verifier": "xFinleyGD",
     "verification": "https://youtu.be/49ghFRZoxaI",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+        {
+            "user": "CaptainCat08",
+            "link": "https://youtu.be/sLzgabKvMrk",
+            "percent": 100
+        }
+    ],
     "tags": ["Short", "Memory", "Limited Vision"]
 }
