@@ -16,21 +16,16 @@
     },
     {
         "role": "admin",
-        "name": "Sevant",
-        "link": "https://www.youtube.com/c/Sevant"
-    },
-    {
-        "role": "admin",
         "name": "KirbyX152",
         "link": "https://www.youtube.com/channel/UC3bT08NPMRLhqc8msXU7uzQ"
     },
     {
-        "role": "helper",
+        "role": "admin",
         "name": "Marcy",
         "link": "https://www.youtube.com/channel/UCQ0ECKRUthunZFC1BpYWPNQ"
     },
     {
-        "role": "helper",
+        "role": "admin",
         "name": "BreadDemon",
         "link": "https://www.youtube.com/channel/UCD0L0hUXv07mrkNoOacfSDg"
     },
@@ -43,11 +38,6 @@
         "role": "helper",
         "name": "Pearlescent",
         "link": "https://www.youtube.com/channel/UCZV0hygw7GpgTYG5OeDyDqQ"
-    },
-    {
-        "role": "helper",
-        "name": "Remy",
-        "link": "https://www.youtube.com/c/Remyy"
     },
     {
         "role": "helper",
