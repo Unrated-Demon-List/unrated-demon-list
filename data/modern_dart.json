@@ -5,6 +5,7 @@
     "creators": ["magicstuff"],
     "verifier": "Gokill",
     "verification": "https://youtu.be/KAr3fiiBRGg",
+    "showcase": "https://www.youtube.com/watch?v=eYuwmTEZTeU",
     "percentToQualify": 100,
     "records": [
         {
@@ -13,5 +14,5 @@
             "percent": 100
         }
     ],
-    "tags": ["Remake", "Nine Circles"]
+    "tags": ["Remake", "Nine Circles Level", "XL"]
 }
