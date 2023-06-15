@@ -1,17 +1,11 @@
 {
-    "id": ,
-    "name": "",
-    "author": "",
-    "creators": [],
-    "verifier": "",
-    "verification": "",
+    "id": 78287135,
+    "name": "sakupen world",
+    "author": "GDMeric",
+    "creators": ["VlandasGD"],
+    "verifier": "GDMeric",
+    "verification": "https://youtu.be/NyOMwwq4h2Y",
     "percentToQualify": 100,
-    "password": "",
-    "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": 100
-        }
-    ]
+    "records": [],
+    "tags": ["Short"]
 }
