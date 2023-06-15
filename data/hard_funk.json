@@ -1,17 +1,10 @@
 {
-    "id": ,
-    "name": "",
-    "author": "",
-    "creators": [],
-    "verifier": "",
-    "verification": "",
+    "id": 80061016,
+    "name": "Hard Funk",
+    "author": "Furore",
+    "creators": ["Furore", "Celcious"],
+    "verifier": "GDMeric",
+    "verification": "https://youtu.be/_BbChqBXr0Q",
     "percentToQualify": 100,
-    "password": "",
-    "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": 100
-        }
-    ]
+    "records": []
 }
