@@ -6,5 +6,16 @@
     "verifier": "Zeronium",
     "verification": "https://youtu.be/4-lOnZsfhNQ",
     "percentToQualify": 58,
-    "records": []
+    "records": [
+        {
+            "user": "DJ1482",
+            "link": "https://youtu.be/R4L_c8qy_v4",
+            "percent": 100
+        },
+        {
+            "user": "unek",
+            "link": "https://youtu.be/V561fefHQqo",
+            "percent": 100
+        }
+    ]
 }
