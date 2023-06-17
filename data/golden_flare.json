@@ -1,17 +1,11 @@
 {
-    "id": ,
-    "name": "",
-    "author": "",
+    "id": 91071815,
+    "name": "Golden Flare",
+    "author": "krakow1918",
     "creators": [],
-    "verifier": "",
-    "verification": "",
+    "verifier": "krakow",
+    "verification": "https://youtu.be/fwytjLtpgdI",
     "percentToQualify": 100,
-    "password": "",
-    "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": 100
-        }
-    ]
+    "records": [],
+    "tags": ["XL", "Nine Circles Level"]
 }
