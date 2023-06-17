@@ -1,26 +1,26 @@
 {
     "id": 25785308,
     "name": "DeathsGate",
-    "author": "FANBOYPHOBIC",
+    "author": "Auro999",
     "creators": [],
-    "verifier": "Gablor",
-    "verification": "https://youtu.be/Ke0QhB0wyBk",
+    "verifier": "JakeEP",
+    "verification": "https://youtu.be/AaMuqDeoAa8",
     "percentToQualify": 100,
     "records": [
-	{
-	    "user": "JakeEP",
-	    "link": "https://youtu.be/AaMuqDeoAa8",
+        {
+	        "user": "SrGuillester",
+	        "link": "https://youtu.be/R2T7c0nhRyM",
             "percent": 100
-	},
-	{
-	    "user": "SrGuillester",
-	    "link": "https://youtu.be/R2T7c0nhRyM",
+	    },
+	    {
+	        "user": "reoode",
+	        "link": "https://youtu.be/W3KF1envK7g",
             "percent": 100
-	},
-	{
-	    "user": "reoode",
-	    "link": "https://youtu.be/W3KF1envK7g",
+	    },
+        {
+	        "user": "LkWavs",
+	        "link": "https://youtu.be/VHDsTSFDQW8",
             "percent": 100
-	}
+	    }
     ]
 }
