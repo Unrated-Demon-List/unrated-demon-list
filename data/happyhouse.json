@@ -3,15 +3,10 @@
     "name": "HappyHouse",
     "author": "IrrelevantRusso",
     "creators": ["Bukkk"],
-    "verifier": "IrrelevantRusso",
+    "verifier": "russo!",
     "verification": "https://youtu.be/7-tnAepLMfM",
     "percentToQualify": 100,
     "password": "",
-    "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": 100
-        }
-    ]
+    "records": [],
+    "tags": ["Short"]
 }
