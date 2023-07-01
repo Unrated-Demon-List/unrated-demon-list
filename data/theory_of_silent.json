@@ -5,6 +5,7 @@
     "creators": ["Kylra"],
     "verifier": "WatchPiggy",
     "verification": "https://youtu.be/zD0693F38QY",
+    "showcase": "https://www.youtube.com/watch?v=1TlWj75yFFk",
     "percentToQualify": 73,
     "password": "",
     "records": [
@@ -14,5 +15,5 @@
             "percent": 86
         }
     ],
-    "tags": ["Old Impossible Level"]
+    "tags": ["Old Impossible Level", "Short"]
 }
