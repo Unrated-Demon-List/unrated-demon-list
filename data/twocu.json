@@ -9,6 +9,11 @@
     "percentToQualify": 100,
     "records": [
         {
+            "user": "stavington16",
+            "link": "https://youtu.be/q0GYaN8TmEs",
+            "percent": 100
+        },
+        {
             "user": "lmining",
             "link": "https://youtu.be/FazJz9qGAB8",
             "percent": 63
