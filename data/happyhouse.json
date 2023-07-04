@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/7-tnAepLMfM",
     "percentToQualify": 100,
     "password": "",
-    "records": [],
-    "tags": ["Short"]
+    "records": [
+        {
+            "user": "PoCle",
+            "link": "https://youtu.be/nz_WSNCZ618",
+            "percent": 100
+        }
+    ],
+    "tags": ["Short", "Nerfed Impossible Level"]
 }
