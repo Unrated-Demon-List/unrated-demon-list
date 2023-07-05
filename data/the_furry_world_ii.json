@@ -1,17 +1,19 @@
 {
     "id": ,
-    "name": "",
-    "author": "",
-    "creators": [],
-    "verifier": "",
-    "verification": "",
+    "name": "The Furry World II",
+    "author": "legoyoshi3",
+    "creators": ["njacked", "TFIBB"],
+    "verifier": "njacked",
+    "verification": "https://youtu.be/4n0Ewk9-nfU",
     "percentToQualify": 100,
     "password": "",
     "records": [
         {
-            "user": "",
-            "link": "",
+            "user": "Jamar",
+            "link": "https://youtu.be/G3n3KNZFjLo",
             "percent": 100
         }
-    ]
+    ],
+    "tags": ["GDPS Level", "NoNG Song"],
+    "song": ""
 }
