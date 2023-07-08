@@ -6,6 +6,12 @@
     "verifier": "VoltreN",
     "verification": "https://youtu.be/AG4OgfIGpdU",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+        {
+	        "user": "Realiosteelio",
+	        "link": "https://www.youtube.com/watch?v=25jMfqNdErQ",
+	        "percent": 100
+	    }
+    ],
     "tags": ["GDPS Level","NoNG Song"]
 }
