@@ -1,8 +1,8 @@
 {
     "id": 82127532,
     "name": "Autumn",
-    "author": "Fusion425",
-    "creators": ["Fusion425", "Quantum"],
+    "author": "fusion425",
+    "creators": ["fusion425", "Quantum"],
     "verifier": "Tinushi",
     "verification": "https://youtu.be/IVbbbSgG7BA",
     "percentToQualify": 100,
@@ -18,7 +18,7 @@
             "percent": 100
         },
         {
-            "user": "Fusion425",
+            "user": "fusion425",
             "link": "https://youtu.be/A-5RHMkNhCA",
             "percent": 100
         },
