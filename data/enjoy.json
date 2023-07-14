@@ -9,6 +9,11 @@
     "percentToQualify": 54,
     "records": [
         {
+            "user": "Cookie",
+            "link": "https://www.youtube.com/watch?v=6a9fznJ5EOc&lc=Ugxwm4AapafPrcKVgBJ4AaABAg",
+            "percent": 100
+        },
+        {
             "user": "MoriartyTheCat",
             "link": "https://streamable.com/tlsaee",
             "percent": 86
