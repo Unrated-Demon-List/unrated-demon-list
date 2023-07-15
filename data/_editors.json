@@ -50,8 +50,38 @@
         "link": "https://www.youtube.com/@shindayoshi620"
     },
     {
+        "role": "helper",
+        "name": "Hipo",
+        "link": "https://www.youtube.com/@hiposmokeweed"
+    },
+    {
+        "role": "helper",
+        "name": "sarcasticmuch",
+        "link": "https://www.youtube.com/@sarcastic_much"
+    },
+    {
+        "role": "helper",
+        "name": "fusion425",
+        "link": "https://www.youtube.com/@fusion425"
+    },
+    {
+        "role": "helper",
+        "name": "Cookie",
+        "link": "https://www.youtube.com/@VerifyLowDeath"
+    },
+    {
+        "role": "helper",
+        "name": "veshel",
+        "link": "https://www.youtube.com/@VirulentMacrocosm"
+    },
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/c/PrometheusAlt"
+    },
+    {
+        "role": "dev",
+        "name": "KrisGra",
+        "link": "https://www.youtube.com/@krisgra"
     }
 ]
