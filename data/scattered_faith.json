@@ -17,7 +17,13 @@
             "user": "reoode",
             "link": "https://youtu.be/L6jgbtekcDE",
             "percent": 100
+        },
+        {
+            "user": "ButterFish",
+            "link": "https://youtu.be/6_qiGbLP9-U",
+            "percent": 100
         }
     ],
-    "tags": ["NoNG Song"]
+    "tags": ["NoNG Song", "XL"],
+    "song": "https://cdn.discordapp.com/attachments/948424727456788541/1130287736704729148/1218140.mp3"
 }
