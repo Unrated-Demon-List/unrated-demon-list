@@ -1,13 +1,11 @@
 {
-    "id": 76483916,
-    "name": "Natural Disaster",
+    "id": 92539829,
+    "name": "Stormy Earthscape",
     "author": "GammaReXx",
-    "creators": ["GammaReXx", "Cantis"],
-    "verifier": "Helix",
-    "verification": "https://youtu.be/Soc-JeRJtqM",
-    "showcase": "https://www.youtube.com/watch?v=-qDrFlqmMr0",
-    "percentToQualify": 54,
-    "password": "069420",
+    "creators": ["GammaReXx"],
+    "verifier": "Draxit III",
+    "verification": "https://youtu.be/IKOJS6r1L9U",
+    "percentToQualify": 100,
     "records": [],
     "tags": ["Formerly Rated", "Nerfed Impossible Level"]
 }
