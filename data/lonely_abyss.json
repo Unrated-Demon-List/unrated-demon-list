@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/sPSVjRgEOIg",
     "percentToQualify": 100,
     "password": "001921",
-    "records": []
+    "records": [
+        {
+            "user": "reoode",
+            "link": "https://youtu.be/kbdYHNvMtQ0",
+            "percent": 100
+        }
+    ],
+    "tags": ["XL"]
 }
