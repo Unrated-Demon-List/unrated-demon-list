@@ -1,1 +1,83 @@
-
+{
+    "id": ,
+    "name": "Figaro",
+    "author": "legoyoshi3",
+    "creators": ["Tomcat"],
+    "verifier": "Spamdrew128",
+    "verification": "https://youtu.be/CKmwzr7YWN0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Slithium",
+            "link": "https://youtu.be/IEEAjMuBefQ",
+            "percent": 100
+        },
+        {
+            "user": "DiLeMa",
+            "link": "https://www.youtube.com/watch?v=6F2k4_gBlC8",
+            "percent": 100
+        },
+        {
+            "user": "Zeronium",
+            "link": "https://youtu.be/vpEPsHefzWA",
+            "percent": 100
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://www.youtube.com/watch?v=PgyWAuszoFY",
+            "percent": 100
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://youtu.be/DcHZd8BVg6Q",
+            "percent": 100
+        },
+        {
+            "user": "C0mical",
+            "link": "https://youtu.be/PE1ibDrKd6U",
+            "percent": 100
+        },
+        {
+            "user": "unnn",
+            "link": "https://youtu.be/D-m1oDbIS_Y",
+            "percent": 100
+        },
+        {
+            "user": "Hyru1e",
+            "link": "https://youtu.be/rfu-uhSrmKE",
+            "percent": 100
+        },
+        {
+            "user": "Realiosteelio",
+            "link": "https://youtu.be/bgF2ZuvZNTs",
+            "percent": 100
+        },
+        {
+            "user": "TGM05",
+            "link": "https://youtu.be/PCoUqfstxYM",
+            "percent": 100
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/swqMzLrgCXw",
+            "percent": 100
+        },
+        {
+            "user": "LJosh",
+            "link": "https://www.youtube.com/watch?v=FTznu97qIko",
+            "percent": 100
+        },
+        {
+            "user": "Cersia",
+            "link": "https://youtu.be/win2A_mymLI",
+            "percent": 100
+        },
+        {
+            "user": "BazingaGD",
+            "link": "https://youtu.be/6rU5EBNcCp4",
+            "percent": 100
+        }
+    ]
+    "tags": ["GDPS Level", "NoNG Song"],
+    "song": ""
+}
