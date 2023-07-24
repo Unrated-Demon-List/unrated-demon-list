@@ -7,7 +7,13 @@
     "verification": "https://youtu.be/FLO06PEsxTM",
     "showcase": "https://www.youtube.com/watch?v=-tdMks74VSE",
     "percentToQualify": 100,
-    "records": [],
-    "tags": ["Short", "NoNG Song"],
+    "records": [
+        {
+            "user": "ShindaYoshi",
+            "link": "https://youtu.be/1O1Lf-rtg4I",
+            "percent": 100
+        }
+    ],
+    "tags": ["Short", "NoNG Song", "Nerfed Impossible Level"],
     "song": "https://cdn.discordapp.com/attachments/1112151604070719699/1112421771929468928/919191.mp3"
 }
