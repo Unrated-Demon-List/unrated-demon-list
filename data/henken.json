@@ -8,5 +8,11 @@
     "showcase": "https://www.youtube.com/watch?v=xsn6CZxTdPo",
     "percentToQualify": 54,
     "password": "002115",
-    "records": []
+    "records": [
+        {
+            "user": "ItzGabrix",
+            "link": "https://youtu.be/ksPzVteRzow",
+            "percent": 100
+        }
+    ]
 }
