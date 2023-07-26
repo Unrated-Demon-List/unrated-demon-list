@@ -9,6 +9,11 @@
     "percentToQualify": 56,
     "records": [
         {
+            "user": "zSquidKnight",
+            "link": "https://youtu.be/7lDUjZsWtdM",
+            "percent": 82
+        },
+        {
             "user": "P0wdered",
             "link": "https://youtu.be/kgWXMMFbKEw",
             "percent": 76
@@ -17,11 +22,6 @@
             "user": "Baeru",
             "link": "https://youtu.be/hQi7f8Qaafc",
             "percent": 63
-        },
-        {
-            "user": "zSquidKnight",
-            "link": "https://youtu.be/It5quq3F8YU",
-            "percent": 62
         }
     ],
     "tags": ["NoNG Song"],
