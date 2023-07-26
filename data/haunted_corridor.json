@@ -3,11 +3,16 @@
     "name": "Haunted Corridor",
     "author": "Farva",
     "creators": ["Farva", "EndLevel", "Lime", "Deadlox", "SnapNK", "Goob", "Silver"],
-    "verifier": "Axinity",
-    "verification": "https://youtu.be/sfbxSiOWZQI",
+    "verifier": "fusion425",
+    "verification": "https://youtu.be/mvroqJQBvCo",
     "showcase": "https://www.youtube.com/watch?v=veZVah2yrX0&t=4s",
     "percentToQualify": 51,
-    "records": [],
+    "records": [
+        {
+            "user": "Axinity",
+            "link": "https://youtu.be/sfbxSiOWZQI",
+            "percent": 100
+        }],
     "tags": ["NoNG Song"],
     "song": "https://cdn.discordapp.com/attachments/1112151604070719699/1112421496200118272/798889.mp3"
 }
