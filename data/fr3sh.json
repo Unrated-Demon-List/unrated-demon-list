@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/F1OK3rjVuPE",
     "percentToQualify": 100,
     "password": "345647",
-    "records": []
+    "records": [
+        {
+            "user": "Hipo",
+            "link": "https://youtu.be/hnUX2xFFD5w",
+            "percent": 100
+        }
+    ]
 }
