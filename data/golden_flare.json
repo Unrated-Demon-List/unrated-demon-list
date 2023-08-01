@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/fwytjLtpgdI",
     "showcase": "https://www.youtube.com/watch?v=oU7ERA46jWY",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+        {
+            "user": "Kyasshukodo",
+            "link": "https://youtu.be/nCpoCR6kevc",
+            "percent": 100
+        }
+    ],
     "tags": ["XL", "Nine Circles Level"]
 }
