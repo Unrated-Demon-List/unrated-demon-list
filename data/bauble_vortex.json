@@ -5,6 +5,7 @@
     "creators": [],
     "verifier": "cianmcco",
     "verification": "https://youtu.be/swjxweE4m3s",
+    "showcase": "https://www.youtube.com/watch?v=Z-2uFOT2M_c",
     "percentToQualify": 100,
     "records": [
         {
@@ -13,5 +14,5 @@
             "percent": 100
         }
     ],
-    "tags": ["Remake", "Nine Circles"]
+    "tags": ["Remake", "Nine Circles Level"]
 }
