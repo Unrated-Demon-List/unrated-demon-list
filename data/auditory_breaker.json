@@ -3,8 +3,8 @@
     "name": "Auditory Breaker",
     "author": "LazerBlitz",
     "creators": ["LazerBlitz", "Manix648", "Cyclic"],
-    "verifier": "https://www.youtube.com/watch?v=ZcQ5NrKmpT0",
-    "verification": "Gabs",
+    "verifier": "Gabs",
+    "verification": "https://www.youtube.com/watch?v=ZcQ5NrKmpT0",
     "percentToQualify": 100,
     "records": [],
     "tags": ["Benchmark", "Remake", "Nine Circles"]
