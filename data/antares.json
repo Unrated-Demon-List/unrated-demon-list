@@ -6,5 +6,11 @@
     "verifier": "aquiver",
     "verification": "https://youtu.be/mYV_WnzEFPE",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "DuoFresh",
+            "link": "https://youtu.be/7arwDEB8-2M",
+            "percent": 100
+        }
+    ]
 }
