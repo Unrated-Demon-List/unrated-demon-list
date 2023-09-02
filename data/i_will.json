@@ -7,7 +7,13 @@
     "verification": "https://youtu.be/O2879gsKoEY",
     "showcase": "https://www.youtube.com/watch?v=Mh9GyioD1fY",
     "percentToQualify": 57,
-    "records": [],
+    "records": [
+        {
+            "user": "Sawa",
+            "link": "https://youtu.be/Dga-zkedda4",
+            "percent": 87
+        }
+    ],
     "tags": ["NoNG Song"],
     "song": "https://cdn.discordapp.com/attachments/1112151604070719699/1136056465996652565/598349.mp3"
 }
