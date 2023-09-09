@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/c2VeokBtius",
     "showcase": "https://www.youtube.com/watch?v=HRpY0XKkTAc",
     "percentToQualify": 49,
-    "records": [],
+    "records": [
+        {
+            "user": "Hipo",
+            "link": "https://youtu.be/dhwDc-i5icI?si=xABKAQUpzcfOdPc1",
+            "percent": 70
+        }
+    ],
     "tags": ["Old Impossible Level"]
 }
