@@ -1,0 +1,18 @@
+{
+    "id": 88694981,
+    "name": "SILLY WORLD",
+    "author": "iIPrototypeIi",
+    "creators": ["Prototype"],
+    "verifier": "Setna",
+    "verification": "https://www.youtube.com/watch?v=-7opVgUOXuA",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Prototype",
+            "link": "https://www.youtube.com/watch?v=vxmLEUoIe_w&t=33s",
+            "percent": 100
+        }
+    ],
+    "tags": ["NoNG Song"],
+    "song": "https://cdn.discordapp.com/attachments/1112151604070719699/1150172929242443796/254424.mp3"
+}
