@@ -1,0 +1,22 @@
+{
+    "id": 93424837,
+    "name": "Snow Drift",
+    "author": "Fabricorn",
+    "creators": ["Azure3000"],
+    "verifier": "Fabricorn",
+    "verification": "https://www.youtube.com/watch?v=w6zjOcL2R4I&ab_channel=Fabricorn",
+    "percentToQualify": 54,
+    "records": [
+        {
+            "user": "Myles",
+            "link": "https://youtu.be/18utQamqUtk",
+            "percent": 100
+        },
+         {
+            "user": "icedcave",
+            "link": "https://youtu.be/CZWdkjQ8rzQ",
+            "percent": 54
+        }
+    ],
+    "tags": ["Old Impossible Level","Nine Circles Level","Short"]
+}
