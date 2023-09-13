@@ -1,10 +1,21 @@
 {
-    "id": 83244159,
-    "name": "Stellar Night",
-    "author": "IcEDCave",
-    "creators": [],
-    "verifier": "Tuggy75",
-    "verification": "https://youtu.be/XpBY-eMYZTE",
-    "showcase": "https://youtu.be/_wozpbdDoCM",
-    "percentToQualify": 56,
+    "id": 93340783,
+    "name": "Cimmerian Shade",
+    "author": "spcreat",
+    "creators": ["SrGuillester", "AZuLer4"],
+    "verifier": "spcreat",
+    "verification": "https://youtu.be/lUNvV1k19HA?si=Z6GzZ6FKAloxgXQq",
+    "showcase": "https://youtu.be/W_G5KS1bX7k?si=G2pnYka3Gbq5E7Wp",
+    "percentToQualify": 57,
     "records": [
+        {
+            "user": "Hipo",
+            "link": "https://youtu.be/OCXRfqX5ITI",
+            "percent": 100
+        },
+        {
+            "user": "swiborg",
+            "link": "https://youtu.be/us5o0s6fTTI",
+            "percent": 57
+        }
+    ]
