@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/KZksoQVGmKw",
     "showcase": "https://www.youtube.com/watch?v=xdtIhgCOx_4",
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+        {
+            "user": "Sydno",
+            "link": "https://youtu.be/4pF0iKpIuvM?si=NufmH6AwT-Kyxs2Y",
+            "percent": 67
+        }
+    ],
     "tags": ["Short", "Spam", "Nine Circles Level", "Remake"]
 }
