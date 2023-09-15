@@ -5,6 +5,7 @@
     "creators": [],
     "verifier": "CrokyTheKiwi",
     "verification": "https://youtu.be/xNbSnAo82Is",
+    "showcase": "https://www.youtube.com/watch?v=GcKAqLzfmGI",
     "percentToQualify": 100,
     "records": [
         {
@@ -22,5 +23,6 @@
             "link": "https://youtu.be/a4s3q2I1mU4",
             "percent": 100
         }
-    ]
+    ],
+    "tags": ["DO NOT BEAT METALFACES VERSION"]
 }
