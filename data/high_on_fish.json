@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/49ghFRZoxaI",
     "showcase": "https://youtu.be/KHoZfDNXRQE",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+        {
+            "user": "ache",
+            "link": "https://youtu.be/FM2J680_ArE?si=ewxbxxcQWNTrdk0o",
+            "percent": 100
+        }
+    ],
     "tags": ["Short", "Memory", "Limited Vision"]
 }
