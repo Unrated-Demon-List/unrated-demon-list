@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/nq3i1qJQeEk",
     "showcase": "https://www.youtube.com/watch?v=BJXtrhFu3AA",
     "percentToQualify": 48,
-    "records": [],
+    "records": [
+        {
+            "user": "Gelforce",
+            "link": "https://youtu.be/CvCtqB6IUM4?si=I2klGveywbZoTY7i",
+            "percent": 100
+        }
+    ],
     "tags": ["Remake"]
 }
