@@ -5,7 +5,7 @@
     "creators": ["NineDice", "Taika"],
     "verifier": "Cursed",
     "verification": "https://youtu.be/iEznd6B-uig",
-    "percentToQualify": 52,
+    "percentToQualify": 60,
     "records": [
         {
             "user": "Thnnder",
@@ -53,6 +53,11 @@
             "percent": 100
         },
         {
+            "user": "wogyt",
+            "link": "https://youtu.be/cnQa3q3lpqU?si=7UKSoBZL__FakyPk",
+            "percent": 100
+        },
+        {
             "user": "Wynder_ex",
             "link": "https://youtu.be/A8x0KOh-Un0",
             "percent": 100
@@ -86,11 +91,6 @@
             "user": "Dentoxxx",
             "link": "https://youtu.be/AmVwOgbj2z0",
             "percent": 60
-        },
-        {
-            "user": "loliklee",
-            "link": "https://youtu.be/rDBZlGnk8ng",
-            "percent": 57
         }
     ],
     "tags": ["Short", "NoNG Song"],
