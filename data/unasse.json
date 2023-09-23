@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/UhC4IpC03U0?si=huCYOHTOw0ur-VrP",
     "showcase": "https://www.youtube.com/watch?v=NysQIST9Nbg",
     "percentToQualify": 80,
-    "records": []
+    "records": [
+        {
+            "user": "Cookie",
+            "link": "https://youtu.be/5GXJm_P8FTA?si=IWmnFnK-m-XCodUa",
+            "percent": 81
+        }
+    ]
 }
