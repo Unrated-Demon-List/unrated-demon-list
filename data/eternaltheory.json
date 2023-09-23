@@ -7,7 +7,12 @@
     "verification": "https://youtu.be/3LfjQWk9Hyg",
     "showcase": "https://youtu.be/a3xBOH7RsrU?si=_TxgoY2lYrz36LaZ",
     "percentToQualify": 51,
-    "password": "",
-    "records": [],
+    "records": [
+        {
+            "user": "brite",
+            "link": "https://youtu.be/74FV-n0Ryr8?si=XTvGLsnSD2tSotan",
+            "percent": 54
+        }
+    ],
     "tags": ["Remake"]
 }
