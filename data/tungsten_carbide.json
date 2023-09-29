@@ -1,12 +1,11 @@
 {
-    "id": ,
-    "name": "",
-    "author": "",
-    "creators": [],
-    "verifier": "",
-    "verification": "",
+    "id": 92733463,
+    "name": "Tungsten Carbide",
+    "author": "zNotNinja",
+    "creators": ["zNotNinja"],
+    "verifier": "zilucy",
+    "verification": "https://www.youtube.com/watch?v=5l2ARUbLcEs",
     "percentToQualify": 100,
-    "password": "",
     "records": [
         {
             "user": "",
