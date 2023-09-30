@@ -10,24 +10,41 @@ const scale = 3;
  * @param {Number} minPercent Minimum percentage required
  * @returns {Number}
  */
-export function score(rank, percent, minPercent) {
-    if (rank === null || rank > 150) {
+export async function score(rank, percent, minPercent) {
+    if (rank === null) {
         return 0;
     }
-    let maximum_points = 250; //change this to change points of top 1
-    let score = ((140 * maximum_points + 7000) / Math.sqrt(3157 * (rank - 1) + 19600) - 50) *
-        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
+    else if (rank <= 150){
+        if (rank>75){
+            minPercent = 100;
+        }
+        let maximum_points = 250; //change this to change points of top 1
+        let score = ((140 * maximum_points + 7000) / Math.sqrt(3157 * (rank - 1) + 19600) - 50) *
+            ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
-    score = Math.max(0, score);
-    if (isNaN(score)) {
-        score = 0;
+        score = Math.max(0, score);
+        if (isNaN(score)) {
+            score = 0;
+        }
+
+        if (percent != 100) {
+            return round(score - score / 3);
+        }
+
+        return round(score);
     }
-
-    if (percent != 100) {
-        return round(score - score / 3);
+    else{
+        const listResult = await fetch(`${dir}/_list.json`);
+            try {
+                const list = await listResult.json();
+                let filterlist = list.filter((name)=>name[0]!="_");
+                let score = 4 * rank / (151 - list.length) + 5;
+                return round(score);
+            } catch {
+                console.error(`Failed to load list.`);
+                return null;
+            }
     }
-
-    return round(score);
 }
 
 export function round(num) {
