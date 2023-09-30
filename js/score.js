@@ -34,13 +34,13 @@ export function score(rank, percent, minPercent) {
         return round(score);
     }
     else{
-        return typeof (async() => {
+        return (async() => {
             let response = await fetch(`${dir}/_list.json`);
             let list = response.json();
             let filterlist = list.filter((name)=>name[0]!="_");
             let score = 4 * rank / (151 - list.length) + 5;
             return round(score);
-        })
+        })();
     }
 }
 
