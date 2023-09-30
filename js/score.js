@@ -54,7 +54,7 @@ export function score(rank, percent, minPercent) {
     }
     else{
         // Load json file;
-        var json = loadTextFileAjaxSync(`${dir}/_list.json`, "application/json");
+        var json = loadTextFileAjaxSync(`/data/_list.json`, "application/json");
         // Parse json
         let list = JSON.parse(json);
         let filterlist = list.filter((name)=>name[0]!="_");
