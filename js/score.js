@@ -38,9 +38,10 @@ export function score(rank, percent, minPercent) {
         var xmlhttp=new XMLHttpRequest();
         xmlhttp.open("GET", `/data/_list.json` , false);
         xmlhttp.send();
+        let reponse = null;
         if (xmlhttp.status==200 && xmlhttp.readyState == 4 )
         {
-            let response = xmlhttp.responseText;
+            response = xmlhttp.responseText;
         }
         else {
             // TODO Throw exception
