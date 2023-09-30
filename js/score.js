@@ -34,7 +34,7 @@ export function score(rank, percent, minPercent) {
         return round(score);
     }
     else{
-        return fetch(`${dir}/_list.json`).then((response) => response.json()).then((list)=>{
+        return fetch(`/data/_list.json`).then((response) => response.json()).then((list)=>{
             let filterlist = list.filter((name)=>name[0]!="_");
             let score = 4 * rank / (151 - list.length) + 5;
             return round(score);
