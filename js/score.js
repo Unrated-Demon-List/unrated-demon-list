@@ -10,7 +10,7 @@ const scale = 3;
  * @param {Number} minPercent Minimum percentage required
  * @returns {Number}
  */
-export async function score(rank, percent, minPercent) {
+export function score(rank, percent, minPercent) {
     if (rank === null) {
         return 0;
     }
@@ -34,16 +34,11 @@ export async function score(rank, percent, minPercent) {
         return round(score);
     }
     else{
-        const listResult = await fetch(`${dir}/_list.json`);
-            try {
-                const list = await listResult.json();
-                let filterlist = list.filter((name)=>name[0]!="_");
-                let score = 4 * rank / (151 - list.length) + 5;
-                return round(score);
-            } catch {
-                console.error(`Failed to load list.`);
-                return null;
-            }
+        return fetch(`${dir}/_list.json`).then((response) => response.json()).then((list)=>{
+            let filterlist = list.filter((name)=>name[0]!="_");
+            let score = 4 * rank / (151 - list.length) + 5;
+            return round(score);
+        });
     }
 }
 
