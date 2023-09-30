@@ -3,6 +3,25 @@
  */
 const scale = 3;
 
+// https://stackoverflow.com/questions/4116992/how-to-include-json-data-in-javascript-synchronously-without-parsing
+function loadTextFileAjaxSync(filePath, mimeType){
+    var xmlhttp=new XMLHttpRequest();
+    xmlhttp.open("GET",filePath,false);
+    if (mimeType != null) {
+        if (xmlhttp.overrideMimeType) {
+            xmlhttp.overrideMimeType(mimeType);
+        }
+    }
+    xmlhttp.send();
+    if (xmlhttp.status==200 && xmlhttp.readyState == 4 ){
+        return xmlhttp.responseText;
+    }
+    else {
+        // TODO Throw exception
+        return null;
+    }
+}
+
 /**
  * Calculate the score awarded when having a certain percentage on a list level
  * @param {Number} rank Position on the list
@@ -34,13 +53,13 @@ export function score(rank, percent, minPercent) {
         return round(score);
     }
     else{
-        return (async() => {
-            let response = await fetch(`${dir}/_list.json`);
-            let list = response.json();
-            let filterlist = list.filter((name)=>name[0]!="_");
-            let score = 4 * rank / (151 - list.length) + 5;
-            return round(score);
-        })();
+        // Load json file;
+        var json = loadTextFileAjaxSync(`${dir}/_list.json`, "application/json");
+        // Parse json
+        let list = JSON.parse(json);
+        let filterlist = list.filter((name)=>name[0]!="_");
+        let score = 4 * rank / (151 - list.length) + 5;
+        return round(score);
     }
 }
 
