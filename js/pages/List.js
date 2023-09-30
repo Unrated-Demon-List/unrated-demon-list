@@ -73,9 +73,9 @@ export default {
                         </li>
                     </ul>
                     <h2>Records</h2>
-                    <p v-if="level.rank <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
+                    <p v-if="level.rank === null">This level does not accept records.</p>
+                    <p v-else-if="level.rank <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
                     <p v-else-if="level.rank <= 150"><strong>100%</strong> or better to qualify</p>
-                    <p v-else-if="level.rank !== null">This level does not accept records.</p>
                     <p v-else>This level has fallen to legacy, but still accepts completion records.</p>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
