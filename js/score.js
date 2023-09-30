@@ -58,7 +58,7 @@ export function score(rank, percent, minPercent) {
         // Parse json
         let list = JSON.parse(json);
         let filterlist = list.filter((name)=>name[0]!="_");
-        let score = 4 * rank / (151 - list.length) + 5;
+        let score = 4 * (rank - 151) / (151 - list.length) + 5;
         return round(score);
     }
 }
