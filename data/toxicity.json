@@ -6,5 +6,11 @@
     "verifier": "ThePrimeEvil",
     "verification": "https://youtu.be/_IFi4EqGzRI",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "ButterFish",
+            "link": "https://youtu.be/ukY1iEBJJus?si=hpdfUiZbHr0O0UDl",
+            "percent": 100
+        }
+    ]
 }
