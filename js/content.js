@@ -97,12 +97,11 @@ export async function fetchLeaderboard() {
             progressed: [],
         };
         const { verified } = scoreMap[verifier];
-        
-        console.log(score);
+        let scoreFunc = score;
         verified.push({
             rank,
             level: level.name,
-            score: score(rank, 100, level.percentToQualify, lenlist),
+            score: scoreFunc(rank, 100, level.percentToQualify, lenlist),
             link: level.verification,
         });
 
@@ -121,7 +120,7 @@ export async function fetchLeaderboard() {
                 completed.push({
                     rank,
                     level: level.name,
-                    score: score(rank, 100, level.percentToQualify, lenlist),
+                    score: scoreFunc(rank, 100, level.percentToQualify, lenlist),
                     link: record.link,
                 });
                 return;
@@ -131,7 +130,7 @@ export async function fetchLeaderboard() {
                 rank,
                 level: level.name,
                 percent: record.percent,
-                score: score(rank, record.percent, level.percentToQualify, lenlist),
+                score: scoreFunc(rank, record.percent, level.percentToQualify, lenlist),
                 link: record.link,
             });
         });
