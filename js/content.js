@@ -74,7 +74,8 @@ export async function fetchLeaderboard() {
         return [null, ['Failed to load list.']];
     }
     
-    console.log(list[0])
+    console.log(list[1]);
+    console.log(score);
     let lenlist = list.filter((x)=>x[2][0]!='_').length;
 
     list.forEach(([err, rank, level]) => {
