@@ -8,6 +8,7 @@ const scale = 3;
  * @param {Number} rank Position on the list
  * @param {Number} percent Percentage of completion
  * @param {Number} minPercent Minimum percentage required
+ * @param {Number} listlen Length of the entire list
  * @returns {Number}
  */
 export function score(rank, percent, minPercent, listlen) {
