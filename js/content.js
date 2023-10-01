@@ -77,7 +77,7 @@ export async function fetchLeaderboard() {
     let lenlist = list.filter((x)=>x[2]["name"]!='_').length;
 
     list.forEach(([err, rank, level]) => {
-        console.log(level["name"]);
+        if (rank>150){console.log(level["name"]);}
         if (err) {
             errs.push(err);
             return;
