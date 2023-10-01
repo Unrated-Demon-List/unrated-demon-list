@@ -55,7 +55,7 @@ export default {
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Points when completed</div>
-                            <p>{{ score(level.rank, 100, level.percentToQualify, list.filter((x)=>x[2]["name"]=='_').length) }}</p>
+                            <p>{{ score(level.rank, 100, level.percentToQualify, list.filter((x)=>x[2]["rank"]!==null).length) }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
