@@ -13,7 +13,7 @@ const scale = 3;
  */
 export function score(rank, percent, minPercent, listlen) {
     let returnval = 0;
-    if (rank!==  && rank <= 150){
+    if (rank!== null && rank <= 150){
         if (rank > 75){
             minPercent = 100;
         }
