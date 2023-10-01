@@ -18,24 +18,24 @@ export function score(rank, percent, minPercent, listlen) {
             minPercent = 100;
         }
         let maximum_points = 250; //change this to change points of top 1
-        let score = ((140 * maximum_points + 7000) / Math.sqrt(3157 * (rank - 1) + 19600) - 50) *
+        let scoreCalc = ((140 * maximum_points + 7000) / Math.sqrt(3157 * (rank - 1) + 19600) - 50) *
             ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
-        score = Math.max(0, score);
-        if (isNaN(score)) {
-            score = 0;
+        scoreCalc = Math.max(0, scoreCalc);
+        if (isNaN(scoreCalc)) {
+            scoreCalc = 0;
         }
 
         if (percent != 100) {
-            returnval = round(score - score / 3);
+            returnval = round(scoreCalc - scoreCalc / 3);
         }
         else {
-            returnval = round(score);
+            returnval = round(scoreCalc);
         }
     }
     else {
-        score = 4 * (rank - 151) / (151 - listlen) + 5;
-        returnval = round(score);
+        scoreCalc = 4 * (rank - 151) / (151 - listlen) + 5;
+        returnval = round(scoreCalc);
     }
     return returnval;
 }
