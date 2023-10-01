@@ -119,7 +119,7 @@ export async function fetchLeaderboard() {
                 completed.push({
                     rank,
                     level: level.name,
-                    score: score(rank, 100, level.percentToQualify, lenlist),
+                    score: console.log(typeof score/*(rank, 100, level.percentToQualify, lenlist)*/),
                     link: record.link,
                 });
                 return;
