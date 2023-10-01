@@ -97,11 +97,10 @@ export async function fetchLeaderboard() {
             progressed: [],
         };
         const { verified } = scoreMap[verifier];
-        let scoring = score(rank, 100, level.percentToQualify, lenlist);
         verified.push({
             rank,
             level: level.name,
-            score: scoring,
+            score: score(rank, 100, level.percentToQualify, lenlist),
             link: level.verification,
         });
 
@@ -116,12 +115,11 @@ export async function fetchLeaderboard() {
                 progressed: [],
             };
             const { completed, progressed } = scoreMap[user];
-            let scoring = score(rank, 100, level.percentToQualify, lenlist);
             if (record.percent === 100) {
                 completed.push({
                     rank,
                     level: level.name,
-                    score: scoring,
+                    score: score(rank, 100, level.percentToQualify, lenlist),
                     link: record.link,
                 });
                 return;
@@ -131,7 +129,7 @@ export async function fetchLeaderboard() {
                 rank,
                 level: level.name,
                 percent: record.percent,
-                score: scoring,
+                score: score(rank, record.percent, level.percentToQualify, lenlist),
                 link: record.link,
             });
         });
