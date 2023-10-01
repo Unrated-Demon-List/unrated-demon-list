@@ -77,6 +77,7 @@ export async function fetchLeaderboard() {
     let lenlist = list.filter((x)=>x[2]["name"]!='_').length;
 
     list.forEach(([err, rank, level]) => {
+        console.log(level["name"]);
         if (err) {
             errs.push(err);
             return;
@@ -99,7 +100,7 @@ export async function fetchLeaderboard() {
         verified.push({
             rank,
             level: level.name,
-            score: score(rank, 100, level.percentToQualify),
+            score: score(rank, 100, level.percentToQualify, lenlist),
             link: level.verification,
         });
 
@@ -118,7 +119,7 @@ export async function fetchLeaderboard() {
                 completed.push({
                     rank,
                     level: level.name,
-                    score: console.log(typeof score(rank, 100, level.percentToQualify, lenlist)),
+                    score: score(rank, 100, level.percentToQualify, lenlist),
                     link: record.link,
                 });
                 return;
