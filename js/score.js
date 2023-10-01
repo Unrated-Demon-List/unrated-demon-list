@@ -12,10 +12,8 @@ const scale = 3;
  * @returns {Number}
  */
 export function score(rank, percent, minPercent, listlen) {
-    if (rank === null) {
-        return 0;
-    }
-    else if (rank <= 150){
+    let returnval = 0;
+    if (rank!== null && rank <= 150){
         if (rank > 75){
             minPercent = 100;
         }
@@ -29,14 +27,17 @@ export function score(rank, percent, minPercent, listlen) {
         }
 
         if (percent != 100) {
-            return round(score - score / 3);
+            returnval = round(score - score / 3);
         }
-        return round(score);
+        else {
+            returnval = round(score);
+        }
     }
     else {
         score = 4 * (rank - 151) / (151 - listlen) + 5;
-        return round(score);
+        returnval = round(score);
     }
+    return returnval;
 }
 
 export function round(num) {
