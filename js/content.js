@@ -84,6 +84,8 @@ export async function fetchLeaderboard() {
             return;
         }
 
+        let lenlist = list.filter((x)=>x[2][0]!='_').length
+
         // Verification
         const verifier = Object.keys(scoreMap).find(
             (u) => u.toLowerCase() === level.verifier.toLowerCase(),
@@ -97,7 +99,7 @@ export async function fetchLeaderboard() {
         verified.push({
             rank,
             level: level.name,
-            score: score(rank, 100, level.percentToQualify, list.filter((x)=>x[0]!='_').length),
+            score: score(rank, 100, level.percentToQualify, lenlist),
             link: level.verification,
         });
 
@@ -116,7 +118,7 @@ export async function fetchLeaderboard() {
                 completed.push({
                     rank,
                     level: level.name,
-                    score: score(rank, 100, level.percentToQualify, list.filter((x)=>x[0]!='_').length),
+                    score: score(rank, 100, level.percentToQualify, lenlist),
                     link: record.link,
                 });
                 return;
@@ -126,7 +128,7 @@ export async function fetchLeaderboard() {
                 rank,
                 level: level.name,
                 percent: record.percent,
-                score: score(rank, record.percent, level.percentToQualify, list.filter((x)=>x[0]!='_').length),
+                score: score(rank, record.percent, level.percentToQualify, lenlist),
                 link: record.link,
             });
         });
