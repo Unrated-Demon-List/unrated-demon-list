@@ -34,7 +34,7 @@ export function score(rank, percent, minPercent, listlen) {
     }
     else {
         score = 4 * (rank - 151) / (151 - listlen) + 5;
-        return score;
+        return round(score);
     }
 }
 
