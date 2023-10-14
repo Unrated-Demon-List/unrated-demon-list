@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/lnTOh4vmJqo",
     "showcase": "https://www.youtube.com/watch?v=GSUhIKz5W8w",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+        {
+            "user": "veshel",
+            "link": "https://youtu.be/c6p8wZc__Xo",
+            "percent": 100
+        }
+    ],
     "tags": ["Short"]
 }
