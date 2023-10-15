@@ -7,7 +7,13 @@
     "verification": "https://youtu.be/5RD2QRoPkeU",
     "showcase": "https://www.youtube.com/watch?v=HMKF6Wnl1u8",
     "percentToQualify": 60,
-    "records": [],
+    "records": [
+        {
+            "user": "Hipo",
+            "link": "https://youtube.com/watch?v=bqCZPqPPE4o&si=mbabRXfYOwWTCUzl",
+            "percent": 88
+        }
+    ],
     "tags": ["Remake", "NoNG Song", "Nerfed Impossible Level"],
     "song": "https://cdn.discordapp.com/attachments/1112151604070719699/1115787906540392488/66666.mp3"
 }
