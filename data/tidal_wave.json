@@ -8,6 +8,12 @@
     "showcase": "https://www.youtube.com/watch?v=XR_KLcOQd_c",
     "percentToQualify": 52,
     "password": "Free To Copy",
-    "records": [],
+    "records": [
+        {
+            "user": "Trick",
+            "link": "https://youtu.be/gFGEhZncf5w?si=MHWXVwOOOn-E9E1g",
+            "percent": 62
+        }
+],
     "tags": ["XL"]
 }
