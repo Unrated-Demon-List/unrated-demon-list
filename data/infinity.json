@@ -6,5 +6,11 @@
     "verifier": "Blazer",
     "verification": "https://youtu.be/7JDbxiToZek",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "reruchoupie",
+            "link": "https://www.youtube.com/watch?v=DSGGun7jVxE",
+            "percent": 100
+        }
+    ]
 }
