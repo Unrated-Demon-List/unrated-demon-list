@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/h7fhCpCqHI4",
     "showcase": "https://www.youtube.com/watch?v=7GmU-_b7s7Q",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+        {
+            "user": "noxell",
+            "link": "https://www.youtube.com/watch?v=CyP1s4MZgC4",
+            "percent": 100
+        }
+    ],
     "tags": ["Short", "Nine Circles Level"]
 }
