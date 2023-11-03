@@ -16,7 +16,12 @@
 	        "user": "ashulo",
 	        "link": "https://youtu.be/cPN3kl4ZfOw",
 	        "percent": 100
-	    }
+	},
+        {
+            "user": "Fluff GD",
+            "link": "https://www.youtube.com/watch?v=Kn3NsQlPPes",
+            "percent": 100
+        }
     ],
     "tags": ["Nine Circles Level", "Short"]
 }
