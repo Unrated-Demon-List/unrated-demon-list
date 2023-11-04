@@ -7,7 +7,13 @@
     "verification": "https://youtu.be/RYhytCdOl-U",
     "showcase": "https://www.youtube.com/watch?v=9C_8hv9drOQ&t=4s",
     "percentToQualify": 59,
-    "records": [],
+    "records": [
+        {
+            "user": "Tawer",
+            "link": "https://youtu.be/0TOcv1acFe0?si=npLRwSQkSPUZ_5I9",
+            "percent": 100
+        }
+    ],
     "tags": ["NoNG Song", "Nine Circles"],
     "song": "https://cdn.discordapp.com/attachments/855795125397880865/855795425730887720/62885.mp3"
 }
