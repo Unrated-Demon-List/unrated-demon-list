@@ -5,6 +5,12 @@
     "creators": ["SaturMan", "Хомяк", "Dyrandelb", "Heygite"],
     "verifier": "ItzKintamick",
     "verification": "https://youtu.be/bWRPgipraBY?si=2M_gROcCPi-dS_FF",
-    "percentToQualify": 97,
-    "records": []
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "maxer",
+            "link": "https://youtu.be/M1ubDkKvxM4?si=3sh2ZSmlwPNRYkZz",
+            "percent": 100
+        }
+    ]
 }
