@@ -5,6 +5,12 @@
     "creators": ["Ytallo", "Neutrik", "Kesuco", "JhenysonGD"],
     "verifier": "SpirteX",
     "verification": "https://youtu.be/ZQsSRZpcWsY?si=3EX2vJ_z5liKn_xs",
-    "percentToQualify": 54,
-    "records": []
+    "percentToQualify": 52,
+    "records": [
+        {
+            "user": "volokn0",
+            "link": "https://youtu.be/QcAkrt9XpS8?si=K5W08FAbK7JEhVUQ",
+            "percent": 78
+        }
+    ]
 }
