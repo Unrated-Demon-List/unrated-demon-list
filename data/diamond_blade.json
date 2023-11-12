@@ -18,6 +18,11 @@
             "percent": 100
         },
         {
+            "user": "Hipo",
+            "link": "https://youtu.be/OqOddzt1D1o?si=k5FH14W8l3zwm8mH",
+            "percent": 100
+        },
+        {
             "user": "Amandus",
             "link": "https://youtu.be/03Q3wALkU8M",
             "percent": 95
@@ -31,6 +36,11 @@
             "user": "vy",
             "link": "https://youtu.be/sr5vfgusfEk",
             "percent": 57
+        },
+        {
+            "user": "n1ckxd",
+            "link": "https://youtu.be/ynURrhmTR3M?si=ofbatg4v2Co4L3Hb",
+            "percent": 56
         }
     ],
     "tags": ["Layout"]
