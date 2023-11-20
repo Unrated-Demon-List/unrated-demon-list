@@ -1,0 +1,19 @@
+{
+    "id": 49072489,
+    "name": "Through The Gates",
+    "author": "TeamTheDashers",
+    "creators": ["TeamTheDashers"],
+    "verifier": "Zoink",
+    "verification": "https://youtu.be/4yHA6jux5UI?si=y-A6ZHiJY90Ai7yV",
+    "showcase": "https://youtu.be/YpTgrNkRid0?si=smcogSA6Lv8axxhs",
+    "percentToQualify": 81,
+    "password": "",
+    "records": [
+        {
+            "user": "SrGuillester",
+            "link": "https://youtu.be/xrXit2RPlKM",
+            "percent": 86
+        }
+    ],
+    "tags": ["Old Impossible Level"]
+}
