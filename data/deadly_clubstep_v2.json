@@ -8,6 +8,12 @@
     "showcase": "https://www.youtube.com/watch?v=bB7Q8Z_LPpg",
     "percentToQualify": 100,
     "password": "82471",
-    "records": [],
+    "records": [
+        {
+            "user": "Xplode",
+            "link": "https://youtu.be/JU_2NFsEcVI",
+            "percent": 100
+        }
+    ],
     "tags": ["Unnerfed", "Old Impossible Level"]
 }
