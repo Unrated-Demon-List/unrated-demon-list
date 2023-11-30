@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/C1RTKyS6Uow",
     "showcase": "https://www.youtube.com/watch?v=T6_WVfd1tIM",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+        {
+            "user": "Rub1d1um",
+            "link": "https://youtu.be/wWH6vT7ANNU",
+            "percent": 100
+        }
+    ],
     "tags": ["Epilepsy Warning", "Nine Circles"]
 }
