@@ -1,18 +1,8 @@
 [
     {
         "role": "owner",
-        "name": "DaMeister",
-        "link": "https://www.youtube.com/channel/UCHFwGVNPDLvtp440RZ5_oEQ"
-    },
-    {
-        "role": "owner",
         "name": "LegoYoshi3",
         "link": "https://www.youtube.com/channel/UCUWOGjjpqgI8s7-Y416PMMw"
-    },
-    {
-        "role": "owner",
-        "name": "MythicalTG",
-        "link": "https://www.youtube.com/c/MythicalTG"
     },
     {
         "role": "admin",
@@ -33,11 +23,6 @@
         "role": "helper",
         "name": "Pearlescent",
         "link": "https://www.youtube.com/channel/UCZV0hygw7GpgTYG5OeDyDqQ"
-    },
-    {
-        "role": "helper",
-        "name": "iiLogan",
-        "link": "https://www.youtube.com/channel/UCPyzU-PttFOyup6UYQ-rQMQ"
     },
     {
         "role": "helper",
