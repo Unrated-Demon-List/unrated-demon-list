@@ -7,7 +7,13 @@
     "verification": "https://youtu.be/I0zP1TZSiW0?si=j0JwJIh-lNvcDxFU",
     "showcase": "https://www.youtube.com/watch?v=kzWVxl_0YV0",
     "percentToQualify": 50,
-    "records": [],
+    "records": [
+        {
+            "user": "Whizkid05",
+            "link": "https://youtu.be/ydVmZpWMriI",
+            "percent": 100
+        }
+    ],
     "tags": ["NoNG Song", "Short"],
     "song": "https://cdn.discordapp.com/attachments/1112151604070719699/1155971115391406090/689316.mp3"
 }
