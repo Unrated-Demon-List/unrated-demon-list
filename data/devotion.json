@@ -3,10 +3,15 @@
     "name": "Devotion",
     "author": "Domi77",
     "creators": ["kingcy2", "shochare", "Domi", "Blaze", "zYuko", "Avrg", "Prototype", "Etvil"],
-    "verifier": "GMDomy",
-    "verification": "https://youtu.be/YX9RfSfyAWs?si=XQ5y5JlAkAYg_aG-",
+    "verifier": "EtVil Games",
+    "verification": "https://youtu.be/kmlPKp2yZBE?si=gAfxj9hm65ETOT1S",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "GMDomy",
+            "link": "https://youtu.be/YX9RfSfyAWs?si=XQ5y5JlAkAYg_aG-",
+            "percent": 100
+        },
         {
             "user": "That one cat",
             "link": "https://youtu.be/e-s-TxWKqPM",
