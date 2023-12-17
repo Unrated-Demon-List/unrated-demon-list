@@ -21,11 +21,6 @@
     },
     {
         "role": "helper",
-        "name": "Pearlescent",
-        "link": "https://www.youtube.com/channel/UCZV0hygw7GpgTYG5OeDyDqQ"
-    },
-    {
-        "role": "helper",
         "name": "Butterfish",
         "link": "https://www.youtube.com/c/ButterFish"
     },
@@ -46,11 +41,6 @@
     },
     {
         "role": "helper",
-        "name": "Cookie",
-        "link": "https://www.youtube.com/@VerifyLowDeath"
-    },
-    {
-        "role": "helper",
         "name": "veshel",
         "link": "https://www.youtube.com/@VirulentMacrocosm"
     },
@@ -58,10 +48,5 @@
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/c/PrometheusAlt"
-    },
-    {
-        "role": "dev",
-        "name": "KrisGra",
-        "link": "https://www.youtube.com/@krisgra"
     }
 ]
