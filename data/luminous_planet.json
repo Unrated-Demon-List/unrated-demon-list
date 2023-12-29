@@ -70,13 +70,23 @@
             "percent": 100
         },
         {
+            "user": "Zajdo3",
+            "link": "https://www.youtu.be/Rqyy4qhdfwA",
+            "percent": 100
+        },
+        {
             "user": "ashes",
-            "link": "https://youtu.be/0M2DB-1un-4?si=JkfUPqI-CPg8RnD0",
+            "link": "https://youtu.be/0M2DB-1un-4",
+            "percent": 100
+        },
+        {
+            "user": "Travioli",
+            "link": "https://youtu.be/6DUlOBeoug0&t=595",
             "percent": 100
         },
         {
             "user": "Sadisyourlife",
-            "link": "https://youtu.be/GoJIDk_vZr8?si=VT4Qco7nrFmuoMRB",
+            "link": "https://youtu.be/GoJIDk_vZr8",
             "percent": 100
         }
     ]
