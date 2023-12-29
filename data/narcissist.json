@@ -14,7 +14,12 @@
     },
     {
 	    "user": "GJosh2",
-	    "link": "https://youtu.be/ZyNMc-epxM0?si=FNWbZ7GPCPs4GYda",
+	    "link": "https://youtu.be/ZyNMc-epxM0",
+	    "percent": 100
+	},
+    {
+	    "user": "digi",
+	    "link": "https://youtu.be/LZq64QYQGFA",
 	    "percent": 100
 	}
     ],
