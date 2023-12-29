@@ -11,18 +11,8 @@
     },
     {
         "role": "admin",
-        "name": "Marcy",
-        "link": "https://www.youtube.com/channel/UCQ0ECKRUthunZFC1BpYWPNQ"
-    },
-    {
-        "role": "admin",
-        "name": "BreadDemon",
-        "link": "https://www.youtube.com/channel/UCD0L0hUXv07mrkNoOacfSDg"
-    },
-    {
-        "role": "helper",
-        "name": "Butterfish",
-        "link": "https://www.youtube.com/c/ButterFish"
+        "name": "veshel",
+        "link": "https://www.youtube.com/@VirulentMacrocosm"
     },
     {
         "role": "helper",
@@ -41,8 +31,23 @@
     },
     {
         "role": "helper",
-        "name": "veshel",
-        "link": "https://www.youtube.com/@VirulentMacrocosm"
+        "name": "Padahk",
+        "link": "https://www.youtube.com/channel/UCab6v0QABvh4ca5EJrlgH9A"
+    },
+    {
+        "role": "helper",
+        "name": "TravelChimp",
+        "link": "https://www.youtube.com/channel/UC_iEmvCmkuJWqoRbGM49GOA"
+    },
+    {
+        "role": "helper",
+        "name": "FrostSpark",
+        "link": "https://www.youtube.com/channel/UCY9pRLcGO-s2HuA4cfMB-Lw"
+    },
+    {
+        "role": "helper",
+        "name": "ItzMira",
+        "link": "https://www.youtube.com/channel/UCej93ylSBJHsfR97blkHZxg"
     },
     {
         "role": "dev",
