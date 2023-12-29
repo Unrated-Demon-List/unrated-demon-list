@@ -5,7 +5,7 @@
     "creators": [],
     "verifier": "Matixdg",
     "verification": "https://youtu.be/pQMsBKGFa9E",
-    "showcase": "https://youtu.be/ef5hY_Kfgos?si=Ehbbd_3xnFF3nLZt",
+    "showcase": "https://youtu.be/ef5hY_Kfgos",
     "percentToQualify": 100,
     "password": "382296",
     "records": [
@@ -111,17 +111,22 @@
         },
         {
             "user": "Exorsus",
-            "link": "https://youtu.be/HUciWGRFebI?si=1ThLLtmFX6nd-bJ4",
+            "link": "https://youtu.be/HUciWGRFebI",
             "percent": 100
         },
         {
             "user": "Trehoeje",
-            "link": "https://youtu.be/h3FoJ7gLyYc?si=1tz0zD8XvmOXsXdM",
+            "link": "https://youtu.be/h3FoJ7gLyYc",
+            "percent": 100
+        },
+        {
+            "user": "digi",
+            "link": "https://youtu.be/kD7TCPwsK0M",
             "percent": 100
         },
          {
             "user": "Sadisyourlife",
-            "link": "https://www.youtube.com/watch?v=7GTAULZS3XU&t=3s",
+            "link": "https://www.youtu.be/7GTAULZS3XU&t=3s",
             "percent": 100
         }
     ],
