@@ -37,9 +37,14 @@
 	        "user": "Sealio",
 	        "link": "https://youtu.be/vN7xk2ayTHQ",
 	        "percent": 100
+        },
+        {
+            "user": "ZildexGD",
+	        "link": "https://www.youtube.com/watch?v=WSTmK_w0Rpw",
+	        "percent": 100
 	    },
         {
-	        "user": "zGabriel",
+            "user": "zGabriel",
 	        "link": "https://youtu.be/6RAaU_Osu_Y?si=lZ6rNV1DBlVGMA4m",
 	        "percent": 100
 	    }
