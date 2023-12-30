@@ -10,16 +10,16 @@
     "password": "Free to copy",
     "records": [
     {
+        "user": " Microzz", 
+        "link": "https://youtu.be/0owaOSglSzE?si=MwsaaETwhnrdOSE9", 
+        "percent": 87
+    }, 
+    {
             "user": "nSwish",
             "link": "https://youtu.be/Q7eFrm1l6-Y",
             "percent": 82
-        },
-        {
-            "user": "Microzz",
-            "link": "https://youtu.be/qqliE2_ijnM",
-            "percent": 82
-        },
-        {
+    }, 
+    {
             "user": "SpeedyMuffin",
             "link": "https://www.twitch.tv/speedymuffin/clip/FragileVibrantGoldfishThunBeast-E3bporLGMnHDnETC?filter=clips&range=30d&sort=time",
             "percent": 64
