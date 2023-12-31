@@ -1,17 +1,11 @@
 {
-    "id": ,
-    "name": "",
-    "author": "",
+    "id": 82408026,
+    "name": "Crimson Dagger",
+    "author": "culobdj",
     "creators": [],
-    "verifier": "",
-    "verification": "",
-    "percentToQualify": 100,
-    "password": "",
-    "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": 100
-        }
-    ]
+    "verifier": "UFokinWotM8",
+    "verification": "https://youtu.be/dTMh1UDQeRI",
+    "percentToQualify": 61,
+    "records": [],
+    "tags": ["Layout"]
 }
