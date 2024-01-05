@@ -6,6 +6,12 @@
     "verifier": "syrcx",
     "verification": "https://youtu.be/fEfqbd4As5c?si=e7aRdZeZTB3Fkbrg",
     "percentToQualify": 51,
-    "records": [],
-    "tags": ["Layout"]
+    "records": [
+            {
+            "user": "ItzMira",
+            "link": "https://youtu.be/nuxO0msQJpY",
+            "percent": 100
+        }
+    ],
+    "tags": ["Layout", "NoNG Song"]
 }
