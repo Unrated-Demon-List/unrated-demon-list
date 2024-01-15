@@ -8,10 +8,10 @@
     "percentToQualify": 58,
     "password": "Free To Copy",
     "records": [
-      {
-        "user": "ItzMira",
-        "link": "https://youtu.be/iA4ZAZSmDZw?si=WxPfYXm8L_gsIhD4",
-        "percent": 96
-      }
+        {
+            "user": "ItzMira",
+            "link": "https://youtu.be/iA4ZAZSmDZw?si=WxPfYXm8L_gsIhD4",
+            "percent": 96
+        }
     ]
 }
