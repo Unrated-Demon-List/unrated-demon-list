@@ -14,14 +14,14 @@
             "percent": 100
         },
         {
+            "user": "damian",
+            "link": "https://www.youtube.com/watch?v=jGLiUW5FTJY",
+            "percent": 100
+        ),
+        {
             "user": "declan",
             "link": "https://youtu.be/-1tUn5nyK3M",
             "percent": 74
-        },
-        {
-            "user": "damian",
-            "link": "https://cdn.discordapp.com/attachments/577917375005982730/1113971516816756736/2023-06-01_18-56-14_Trim.mp4",
-            "percent": 72
         }
     ],
     "tags": ["Old Impossible Level", "Nine Circles Level", "Short"]
