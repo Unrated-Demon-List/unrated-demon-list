@@ -1,0 +1,17 @@
+{
+    "id": 99362506,
+    "name": "Starlight Starfall",
+    "author": "truebino",
+    "creators": ["truebino"],
+    "verifier": "Washed",
+    "verification": "https://www.youtube.com/watch?v=jNipo0D7tVY&t=37s",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+     "records": [
+        {
+            "user": "Luned",
+            "link": "https://youtu.be/9EYyLGHsoXs",
+            "percent": 100
+        }
+    ],
+}
