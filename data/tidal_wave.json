@@ -5,21 +5,7 @@
     "creators": [],
     "verifier": "Zoink",
     "verification": "https://youtu.be/9fsZ014qB3s?si=K4ZWV7LFKEyOIbsV",
-    "showcase": "https://www.youtube.com/watch?v=XR_KLcOQd_c",
-    "percentToQualify": 42,
-    "password": "Free To Copy",
-    "records": [
-        {
-            "user": "Trick",
-            "link": "https://youtu.be/gFGEhZncf5w?si=MHWXVwOOOn-E9E1g",
-            "percent": 62
-        },
-        {
-            "user": "wPopoff",
-            "link": "https://youtu.be/n3RdjA3lStc?si=VoGUd6SQYDrTnJWf",
-            "percent": 48
-        }
-    ],
-    "tags": ["XL", "NoNG Song"],
-    "song": "https://cdn.discordapp.com/attachments/938772924943458334/1177285209767559188/Shiawase_VIPMP3_320K.mp3?ex=6571f34a&is=655f7e4a&hm=3a3e4b3f29a2240071d29eb6a9fc7d10fb90545b97f75f3709a0f79e868c77c7&"
+    "percentToQualify": 100,
+    "records": [],
+    "tags": ["Benchmark"],
 }
