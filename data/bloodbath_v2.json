@@ -6,6 +6,12 @@
     "verifier": "mewtwo557",
     "verification": "https://youtu.be/BRC5wC9rwxs?si=4-p4N2pSsdI8devE",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+        {
+            "user": "Glow",
+            "link": "https://youtu.be/xfwWEjXbHyY",
+            "percent": 100
+        }
+    ],
     "tags": ["Old Impossible Level"]
 }
