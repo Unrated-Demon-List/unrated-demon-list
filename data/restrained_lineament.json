@@ -6,6 +6,12 @@
     "verifier": "Mentrillum",
     "verification": "https://youtu.be/md4NW9Zwg48",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+    {
+        "user": "krakow1918", 
+        "link": "https://www.youtube.com/watch?v=wCqt0eAxl_w", 
+        "percent": 100
+    }        
+    ],
     "tags": ["Nine Circles"]
 }
