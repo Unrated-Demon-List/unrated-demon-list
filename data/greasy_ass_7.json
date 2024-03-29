@@ -7,6 +7,11 @@
     "verification": "https://youtu.be/eZNGoEnANf4?si=Ke5OCbeB92vuKext",
     "percentToQualify": 73,
     "password": "Free Copy",
-    "records": [],
+    "records": [
+         {
+            "user": "Cookie",
+            "link": "https://youtu.be/9qsFNzI4CYI?si=UqUIL7NMhw2aHrT3",
+            "percent": 100
+        }],
     "tags": ["Remake"]
 }   
