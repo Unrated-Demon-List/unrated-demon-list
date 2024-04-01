@@ -9,30 +9,11 @@
     "percentToQualify": 66,
     "records": [
         {
-            "user": "fusion425",
+            "user": "ItzDoviI",
             "link": "https://youtu.be/skbCrS4C_U4",
             "percent": 100
         },
-        {
-            "user": "Cookie",
-            "link": "https://youtu.be/KNLpdEk7yaU",
-            "percent": 100
-        },
-        {
-            "user": "Hipo",
-            "link": "https://youtu.be/JN-_nh49Euw",
-            "percent": 100
-        },
-        {
-            "user": "Tawer",
-            "link": "https://youtu.be/tWmsAHvEdos?si=NkFfUU5RI5wkWs0U",
-            "percent": 100
-        }, 
-        {
-            "user": "Falaet", 
-            "link": "https://youtu.be/ZnRwLlHv5mc?si=rNYKKcEIvi-hDmfT", 
-            "percent": 69
-        }
+            
     ],
     "tags": ["Short", "NoNG Song"],
     "song": "https://cdn.discordapp.com/attachments/1112151604070719699/1112163121637904554/1145233.mp3"
