@@ -9,10 +9,30 @@
     "percentToQualify": 66,
     "records": [
         {
-            "user": "ItzDoviI",
-            "link": "https://youtu.be/skbCrS4C_U4",
+            "user": "fusion425",
+            "link": "https://youtu.be/skbCrS4C_U4?si=nZeLsrL4Jb5m4iGq",
             "percent": 100
         },
+          {
+            "user": "Fraud",
+            "link": "https://youtu.be/KNLpdEk7yaU?si=t9VRDi__ez6MwQaD",
+            "percent": 100
+        },
+        {
+            "user": "Hipo",
+            "link": "https://youtu.be/JN-_nh49Euw?si=kDfKt5_G7MVbPf_z",
+            "percent": 100
+        },
+        {
+            "user": "Tawer",
+            "link": "https://youtu.be/tWmsAHvEdos?si=tDT-hxWgeAfytoie",
+            "percent": 100
+        },
+         {
+            "user": "Falaet",
+            "link": "https://youtu.be/ZnRwLlHv5mc?si=iGZR5s71-kEaN0va",
+            "percent": 69
+        }
             
     ],
     "tags": ["Short", "NoNG Song"],
