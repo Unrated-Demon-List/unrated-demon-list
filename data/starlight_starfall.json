@@ -4,13 +4,18 @@
     "author": "truebino",
     "creators": ["truebino"],
     "verifier": "Washed",
-    "verification": "https://youtu.be/_yBAhjyXQtA?si=cU-uA_L32-wshdPy",
+    "verification": "https://youtu.be/Jhte3G8SoVI?si=E2UFApRX1g_ggtAi",
     "percentToQualify": 100,
     "password": "Free to copy",
      "records": [
         {
             "user": "Luned",
             "link": "https://youtu.be/9EYyLGHsoXs",
+            "percent": 100
+        },
+         {
+            "user": "theworldofme",
+            "link": "https://youtu.be/6nzGuLdDLH4?si=qsR5zh8gYiYsSSp6",
             "percent": 100
         }
     ]
