@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/tGByRzGLtT4",
     "showcase": "https://www.youtube.com/watch?v=LYpd0TXSDDc",
     "percentToQualify": 47,
-    "records": [],
+    "records": [
+         {
+            "user": "Breakcore", 
+            "link": "https://www.youtube.com/watch?v=ME0797UhubM", 
+            "percent": 100
+        }
+    ],
     "tags": ["Short"]
 }
