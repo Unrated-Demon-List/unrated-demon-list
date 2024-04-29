@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/6YVLBQ8xKyo?si=G_ITmajtsnTW9d5M",
     "showcase": "https://youtu.be/3WJX3exhm1c?si=KkcVHftdMqcMolPX",
     "percentToQualify": 56,
-    "records": []
+    "records": [
+         {
+            "user": "almohadaless", 
+            "link": "https://www.youtube.com/watch?v=L5TT2kEmbk0", 
+            "percent": 56
+        }
+    ]
 }
