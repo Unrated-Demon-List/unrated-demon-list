@@ -12,6 +12,12 @@
             "user": "Cookie",
             "link": "https://youtu.be/9qsFNzI4CYI?si=UqUIL7NMhw2aHrT3",
             "percent": 100
-        }],
+        },
+         {
+            "user": "Clara",
+            "link": "https://www.youtube.com/watch?v=wnGR5Fq2Gj0",
+            "percent": 100
+        }
+    ],
     "tags": ["Remake"]
 }   
