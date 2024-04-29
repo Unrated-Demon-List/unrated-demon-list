@@ -8,5 +8,11 @@
     "showcase": "https://youtu.be/BprumUMbiIg?si=27wSu-LMv29JT1fq",
     "percentToQualify": 48,
     "password": "Not Copyable",
-    "records": []
+    "records": [
+         {
+            "user": "splonk", 
+            "link": "https://www.youtube.com/watch?v=axPv628GZ-s", 
+            "percent": 54
+        }
+    ]
 }
