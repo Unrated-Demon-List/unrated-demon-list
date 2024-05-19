@@ -5,7 +5,7 @@
     "creators": ["IcEDCave", "EndLevel", "ryamu"],
     "verifier": "UFokinWotM8",
     "verification": "https://www.youtube.com/watch?v=MFNIDirFmNk",
-    "percentToQualify": 49,
+    "percentToQualify": 62,
     "records": [
         {
             "user": "gdbros",
@@ -21,11 +21,6 @@
             "user": "woosung", 
             "link": "https://youtu.be/rt2uJyejtrA?si=7nwzlEGMnozdN4ii", 
             "percent": 63
-        }, 
-        {
-            "user": "Reliable Chances", 
-            "link": "https://youtu.be/C_K_X_-vMnY?si=-dwzLiKkltqBThrz", 
-            "percent": 51
         }
     ],
     "tags": ["Layout"]
