@@ -15,6 +15,11 @@
         "link": "https://www.youtube.com/@VirulentMacrocosm"
     },
     {
+        "role": "admin",
+        "name": "Marcy",
+        "link": "https://www.youtube.com/channel/UCiJHQq5gF6t2yh4V59DU3jg"
+    },
+    {
         "role": "helper",
         "name": "sarcasticmuch",
         "link": "https://www.youtube.com/@sarcastic_much"
@@ -33,6 +38,11 @@
         "role": "helper",
         "name": "TravelChimp",
         "link": "https://www.youtube.com/channel/UC_iEmvCmkuJWqoRbGM49GOA"
+    },
+    {
+        "role": "helper",
+        "name": "Logan",
+        "link": "https://www.youtube.com/@iiLogan"
     },
     {
         "role": "dev",
