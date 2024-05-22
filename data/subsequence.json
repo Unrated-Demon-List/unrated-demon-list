@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/oRf9fRoP_6o",
     "showcase": "https://www.youtube.com/watch?v=qI5Zc1CMJ9Y",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "ShindaYoshi",
+            "link": "https://youtu.be/100_CzyL5ME?si=xMelqM10Sf60p8-l",
+            "percent": 100
+        }
+    ]
 }
