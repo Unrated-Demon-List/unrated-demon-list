@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/Soc-JeRJtqM?si=AJmFoBpE0ujqb1my",
     "showcase": "https://youtu.be/-qDrFlqmMr0",
     "percentToQualify": 54,
-    "records": [],
+    "records": [
+        {
+            "user": "swiborg", 
+            "link": "https://youtu.be/EFRC-qFXBYU?si=7ihs46M_bholkK-T", 
+            "percent": 71
+        }
+    ],
     "tags": ["Nerfed Impossible Level", "Old", "Formerly Rated"]
 }
