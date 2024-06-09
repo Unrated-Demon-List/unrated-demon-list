@@ -208,7 +208,18 @@
             "user": "Mewtwo557", 
             "link": "https://youtu.be/IKR6S_kcQVg", 
             "percent": 100
+        },
+        {
+             "user": "Glow", 
+            "link": "https://www.youtube.com/watch?v=U2NL0hwHbeI", 
+            "percent": 100
+        },
+        { 
+             "user": "AeonAir", 
+            "link": "https://youtu.be/PBa3vYh03pg?si=idSTp9ukxjF1NExo", 
+            "percent": 100
         }
-    ],
+            
+            ],
     "tags": ["Short"]
 }
