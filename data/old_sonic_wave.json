@@ -1,33 +1,12 @@
 {
-    "id": 39676903,
+    "id": 19451035,
     "name": "Old Sonic Wave",
-    "author": "lSunix",
+    "author": "814",
     "creators": ["Cyclic"],
-    "verifier": "lSunix",
-    "verification": "https://youtu.be/HPyTphv-9xM",
+    "verifier": "Hipo",
+    "verification": "https://youtu.be/7gSclHs4bMo?si=6krPNjcpbebtMoQY",
     "showcase": "https://youtu.be/xHTMj6W0tqg",
     "percentToQualify": 100,
-    "records": [
-        {
-            "user": "LkWavs",
-            "link": "https://youtu.be/zIOJdKqZQMM",
-            "percent": 100
-        },
-        {
-            "user": "xanii",
-            "link": "https://youtu.be/1Ne-uI_suys",
-            "percent": 100
-        },
-        {
-            "user": "KristoZed",
-            "link": "https://youtu.be/SaW80gbLyYE",
-            "percent": 100
-        },
-        {
-            "user": "Hipo",
-            "link": "https://youtu.be/PQpYGA1hMwE",
-            "percent": 100
-        }
-    ],
-    "tags": ["Old", "XL", "Nine Circles Level"]
+    "records": [],
+    "tags": ["Old", "XL", "Nine Circles Level", "DON'T BEAT SUNIX/METALFACE VER"]
 }
