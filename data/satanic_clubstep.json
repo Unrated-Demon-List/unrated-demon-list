@@ -4,9 +4,15 @@
     "author": "IIIspitfireIII",
     "creators": ["IIIspitfireIII"],
     "verifier": "kiseta",
-    "verification": "https://youtu.be/RVWBRBvLWug?si=BSTjxrABISCivkbY",
+    "verification": "https://youtu.be/RVWBRBvLWug?si=LVU78gcxEetM8tmb",
     "percentToQualify": 72,
     "password": "",
-    "records": [],
+    "records": [
+        {
+            "user": "Glow",
+            "link": "https://youtu.be/0vbQwp8jM2A",
+            "percent": 100
+        }
+    ],
     "tags": ["Old Impossible Level"]
 }
