@@ -7,7 +7,13 @@
     "verification": "https://youtu.be/pjTtw8s9LXE",
     "showcase": "https://www.youtube.com/watch?v=0dVRPWWPWlY",
     "percentToQualify": 67,
-    "records": [],
+    "records": [
+         {
+            "user": "CookieIsMine",
+            "link": "https://youtu.be/VBWQx4VCPac?si=b0ta__2kOZd1KZo2",
+            "percent": 100
+        }
+    ],
     "tags": ["GDPS Level", "Short", "NoNG Song"],
     "song": "https://cdn.discordapp.com/attachments/1112151604070719699/1133592600155279420/1218970.mp3"
 }
