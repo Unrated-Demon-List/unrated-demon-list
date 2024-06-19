@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/ERvtVOPyWgY?si=zp7L_LYFhXQct5NH",
     "showcase": "https://youtu.be/roZPXBvDMAg?si=crtj1KPSjdzAK0F1",
     "percentToQualify": 67,
-    "records": []
+    "records": [
+         {
+            "user": "amigo16",
+            "link": "https://www.youtube.com/watch?v=EAxrhhgCJ0E",
+            "percent": 91
+        }
+    ]
 }
