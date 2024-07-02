@@ -1,0 +1,21 @@
+{
+    "id": 96345801,
+    "name": "Violet Illusions",
+    "author": "Enfur",
+    "creators": [],
+    "verifier": "RG18",
+    "verification": "https://youtu.be/A73-pvewH5I?si=uflAhRYfw1v-SQsZ",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "TheMelonMan",
+            "link": "https://youtu.be/4bIZ9SOx9Qo?si=s8Q5jmLGWn2yVvpi",
+            "percent": 100
+        },
+        {
+            "user": "StrayW",
+            "link": "https://youtu.be/RhC7Nzr8uaY?si=e-8jmWd0RKesVFRe",
+            "percent": 100
+        }
+    ]
+}
