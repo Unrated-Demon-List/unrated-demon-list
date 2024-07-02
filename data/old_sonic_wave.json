@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/7gSclHs4bMo?si=6krPNjcpbebtMoQY",
     "showcase": "https://youtu.be/xHTMj6W0tqg",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+          {
+            "user": "Mewtwo557",
+            "link": "https://youtu.be/G6J_dsBKX7g",
+            "percent": 100
+        }
+    ],
     "tags": ["Old", "XL", "Nine Circles Level", "DON'T BEAT SUNIX/METALFACE VER"]
 }
