@@ -1,0 +1,22 @@
+{
+    "id": 105593215,
+    "name": "ORDINARY",
+    "author": "rNexel",
+    "creators": [],
+    "verifier": "wpopoff",
+    "verification": "https://youtu.be/4QiHP3jpGnk?si=Er6LpZDNEwPVWjFw",
+    "percentToQualify": 65,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Thnnder", 
+            "link": "https://youtu.be/UD91cce4iKE?si=EZsEPoBMc-caTtHH", 
+            "percent": 100
+        },
+        { 
+            "user": "moderns", 
+            "link": "https://youtu.be/A6fCuqqxL3w?si=zTstsbGWoQL8SxBH", 
+            "percent": 100
+        }
+    ]
+}
