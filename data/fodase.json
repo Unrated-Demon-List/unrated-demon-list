@@ -7,7 +7,14 @@
     "verification": "https://youtu.be/UvMTqNAPWcQ",
     "showcase": "https://www.youtube.com/watch?v=RR9eS4ml5TQ",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+        {
+            "user": "Sangalchi",
+            "link": "https://youtu.be/E5xgIFF9hds?si=5mClZENySfZnVIsJ",
+            "percent": 100
+        }
+    
+    ],
     "tags": ["Short", "NoNG Song"],
     "song": "https://cdn.discordapp.com/attachments/1120082027270639719/1120091285064257666/16281.mp3"
 }
