@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/UBXN6H4zck4",
     "showcase": "https://www.youtube.com/watch?v=t_f0hEpK6Fc",
     "percentToQualify": 55,
-    "records": [],
+    "records": [
+         {
+            "user": "oni",
+            "link": "https://youtu.be/GlzFSmu0MgY?si=5cey3NgsHCLmpWSP",
+            "percent": 100
+        }
+    ],
     "tags": ["Remake", "Nine Circles"]
 }
