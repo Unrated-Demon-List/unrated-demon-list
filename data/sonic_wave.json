@@ -6,5 +6,6 @@
     "verifier": "lSunix",
     "verification": "https://www.youtube.com/watch?v=GpXTwPgweAk",
     "percentToQualify": 100,
-    "records": []
+    "records": [],
+    "tags": ["Benchmark"]
 }
