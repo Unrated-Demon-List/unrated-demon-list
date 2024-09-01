@@ -7,7 +7,13 @@
     "verification": "https://youtu.be/wHhRNjO0X68",
     "showcase": "https://youtu.be/I1s6MYaNM9c",
     "percentToQualify": 57,
-    "records": [],
+    "records": [
+          {
+            "user": "stillsouless",
+            "link": "https://www.youtube.com/watch?v=g8LEpcYPe8U&lc=Ugy_aCHNIqQZuP0OsQZ4AaABAg",
+            "percent": 100
+        }
+    ],
     "tags": ["Old Impossible Level", "NoNG Song"],
     "song": "https://cdn.discordapp.com/attachments/1016056791274098718/1112499573819191426/746191.mp3"
 }
