@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/2OiS9mVDlmQ?si=8WVSGcmoxUrMMV2-",
     "percentToQualify": 100,
     "password": "Free to copy",
-    "records": []
+    "records": [
+         {
+            "user": "npesta",
+            "link": "https://youtu.be/IFURcBgFWa0?si=INr4Ib-KfTcBDGfB",
+            "percent": 100
+        }
+    ]
 }
