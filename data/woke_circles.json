@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/MKFeLVaBdoE",
     "showcase": "https://youtu.be/o626AFlYzoI",
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+          {
+            "user": "tricklength",
+            "link": "https://youtu.be/v4hNLg5-VYE?si=JfLyceLPQohqDIr8",
+            "percent": 67
+        }
+    ],
     "tags": ["GDPS Level", "Nine Circles Level", "Redeco"]
 }
