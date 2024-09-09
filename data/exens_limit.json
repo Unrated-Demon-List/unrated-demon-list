@@ -8,15 +8,21 @@
     "showcase": "https://www.youtube.com/watch?v=xdtIhgCOx_4",
     "percentToQualify": 66,
     "records": [
+        
+        {
+            "user": "Skylar", 
+            "link": "https://cdn.discordapp.com/attachments/1211172412196917310/1235013214404608101/688_exen.mp4?ex=6669896f&is=666837ef&hm=36bdd3e70d963e34483ebb24e5ad9b37e2fc3f45030c8d8c55476f3407955217&", 
+            "percent": 68
+        },
         {
             "user": "sydno",
             "link": "https://youtu.be/4pF0iKpIuvM?si=NufmH6AwT-Kyxs2Y",
             "percent": 67
         }, 
-        {
-            "user": "Skylar", 
-            "link": "https://cdn.discordapp.com/attachments/1211172412196917310/1235013214404608101/688_exen.mp4?ex=6669896f&is=666837ef&hm=36bdd3e70d963e34483ebb24e5ad9b37e2fc3f45030c8d8c55476f3407955217&", 
-            "percent": 68
+          {
+            "user": "Emp",
+            "link": "https://youtu.be/ay-6o3nDDbs?si=avT4HXyw35r7upYN",
+            "percent": 67
         }
     ],
     "tags": ["Short", "Spam", "Nine Circles Level", "Remake", "Old Impossible Level"]
