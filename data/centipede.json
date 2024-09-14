@@ -6,5 +6,11 @@
     "verifier": "LordVadercraft",
     "verification": "https://youtu.be/eLGr383CmyM?si=c3GanUzWposgeyT7",
     "percentToQualify": 46,
-    "records": []
+    "records": [
+        {
+            "user": "loliklee", 
+            "link": "https://youtu.be/wVzVV9y9pqg?si=M1sHY9pk2g7sLXN8", 
+            "percent": 100
+        }
+    ]
 }
