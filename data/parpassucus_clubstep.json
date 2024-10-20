@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/8rEaN9VRQPc?si=u6Gj_0DWf713rtMT",
     "percentToQualify": 100,
     "password": "Free to copy",
-    "records": [],
+    "records": [
+          {
+            "user": "seels",
+            "link": "https://youtu.be/En9_zypWYx4?si=NUhAXXP1OcnGLjRE",
+            "percent": 100
+        }
+    ],
     "tags": ["NONG"]
 }
