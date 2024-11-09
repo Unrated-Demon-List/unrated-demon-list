@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/ZcdiTGuIJ1k?si=LrHyHzTwDh9GWd1j",
     "percentToQualify": 100,
     "password": "Free to copy",
-    "records": [],
+    "records": [
+        {
+            "user": "Mike",
+            "link": "https://www.youtube.com/watch?v=TpNN1bkNsiw&t=24s",
+            "percent": 100
+        }
+    ],
     "tags": ["CBF"]
 }
