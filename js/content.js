@@ -73,9 +73,10 @@ export async function fetchLeaderboard() {
     if (list === null) {
         return [null, ['Failed to load list.']];
     }
+    let listbans = null;
     try {
         const listbanResults = await fetch(`${dir}/_lbfilter.json`);
-        const listbans = await listbanResults.json();
+        listbans = await listbanResults.json();
     } catch {
         return [null, ['Failed to load bans list.']];
     }
