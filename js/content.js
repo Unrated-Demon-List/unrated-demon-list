@@ -66,14 +66,19 @@ export async function fetchEditors() {
 
 export async function fetchLeaderboard() {
     const list = await fetchList();
-
+    
     const scoreMap = {};
     const errs = [];
 
     if (list === null) {
         return [null, ['Failed to load list.']];
     }
-    
+    try {
+        const listbanResults = await fetch(`${dir}/_lbfilter.json`);
+        const listbans = await listbanResults.json();
+    } catch {
+        return [null, ['Failed to load bans list.']];
+    }
     let lenlist = list.filter((x)=>x[2]["rank"]!==null).length;
 
     list.forEach(([err, rank, level]) => {
@@ -90,6 +95,9 @@ export async function fetchLeaderboard() {
         const verifier = Object.keys(scoreMap).find(
             (u) => u.toLowerCase() === level.verifier.toLowerCase(),
         ) || level.verifier;
+        if (verifier in listbans){
+            return;
+        }
         scoreMap[verifier] ??= {
             verified: [],
             completed: [],
@@ -108,6 +116,9 @@ export async function fetchLeaderboard() {
             const user = Object.keys(scoreMap).find(
                 (u) => u.toLowerCase() === record.user.toLowerCase(),
             ) || record.user;
+            if (user in listbans){
+                return;
+            }
             scoreMap[user] ??= {
                 verified: [],
                 completed: [],
