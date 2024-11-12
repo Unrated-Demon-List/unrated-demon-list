@@ -1,14 +1,14 @@
-import { round, score } from './score.js';
+import { round, score } from "./score.js";
 
 /**
  * Path to directory containing `_list.json` and all levels
  */
-const dir = '/data';
+const dir = "/data";
 
 /**
  * Symbol, that marks a level as not part of the list
  */
-const benchmarker = '_';
+const benchmarker = "_";
 
 export async function fetchList() {
     const listResult = await fetch(`${dir}/_list.json`);
@@ -16,10 +16,9 @@ export async function fetchList() {
         const list = await listResult.json();
 
         // Create a lookup dictionary for ranks
-        const ranksEntries = list.filter((path) => !path.startsWith(benchmarker)).map((
-            path,
-            index,
-        ) => [path, index + 1]);
+        const ranksEntries = list
+            .filter((path) => !path.startsWith(benchmarker))
+            .map((path, index) => [path, index + 1]);
         const ranks = Object.fromEntries(ranksEntries);
 
         return await Promise.all(
@@ -66,21 +65,21 @@ export async function fetchEditors() {
 
 export async function fetchLeaderboard() {
     const list = await fetchList();
-    
+
     const scoreMap = {};
     const errs = [];
 
     if (list === null) {
-        return [null, ['Failed to load list.']];
+        return [null, ["Failed to load list."]];
     }
     let listbans = null;
     try {
         const listbanResults = await fetch(`${dir}/_lbfilter.json`);
         listbans = await listbanResults.json();
     } catch {
-        return [null, ['Failed to load bans list.']];
+        return [null, ["Failed to load bans list."]];
     }
-    let lenlist = list.filter((x)=>x[2]["rank"]!==null).length;
+    let lenlist = list.filter((x) => x[2]["rank"] !== null).length;
 
     list.forEach(([err, rank, level]) => {
         if (err) {
@@ -93,31 +92,32 @@ export async function fetchLeaderboard() {
         }
 
         // Verification
-        const verifier = Object.keys(scoreMap).find(
-            (u) => u.toLowerCase() === level.verifier.toLowerCase(),
-        ) || level.verifier;
-        if (verifier in listbans){
-            return;
+        const verifier =
+            Object.keys(scoreMap).find(
+                (u) => u.toLowerCase() === level.verifier.toLowerCase(),
+            ) || level.verifier;
+        if (!listbans.includes(verifier)) {
+            scoreMap[verifier] ??= {
+                verified: [],
+                completed: [],
+                progressed: [],
+            };
+            const { verified } = scoreMap[verifier];
+            verified.push({
+                rank,
+                level: level.name,
+                score: score(rank, 100, level.percentToQualify, lenlist),
+                link: level.verification,
+            });
         }
-        scoreMap[verifier] ??= {
-            verified: [],
-            completed: [],
-            progressed: [],
-        };
-        const { verified } = scoreMap[verifier];
-        verified.push({
-            rank,
-            level: level.name,
-            score: score(rank, 100, level.percentToQualify, lenlist),
-            link: level.verification,
-        });
 
         // Records
         level.records.forEach((record) => {
-            const user = Object.keys(scoreMap).find(
-                (u) => u.toLowerCase() === record.user.toLowerCase(),
-            ) || record.user;
-            if (user in listbans){
+            const user =
+                Object.keys(scoreMap).find(
+                    (u) => u.toLowerCase() === record.user.toLowerCase(),
+                ) || record.user;
+            if (listbans.includes(user)) {
                 return;
             }
             scoreMap[user] ??= {
@@ -140,7 +140,12 @@ export async function fetchLeaderboard() {
                 rank,
                 level: level.name,
                 percent: record.percent,
-                score: score(rank, record.percent, level.percentToQualify, lenlist),
+                score: score(
+                    rank,
+                    record.percent,
+                    level.percentToQualify,
+                    lenlist,
+                ),
                 link: record.link,
             });
         });
