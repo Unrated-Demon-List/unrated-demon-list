@@ -2,8 +2,8 @@
   
     "id": 77331805,
     "name": "Aquamarine",
-    "author": ["sincos", "Cursed", "Taika", "Scorpion"],
-    "creators": [],
+    "author": "sincos",
+    "creators": ["sincos", "Cursed", "Taika", "Scorpion"],
     "verifier": "seels55",
     "verification": "https://youtu.be/Q__EnRojGt4?si=ZV8cU1ulPCtn-gXo",
     "percentToQualify": 61,
