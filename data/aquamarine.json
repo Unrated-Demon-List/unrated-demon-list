@@ -7,6 +7,12 @@
     "verifier": "seels55",
     "verification": "https://youtu.be/Q__EnRojGt4?si=ZV8cU1ulPCtn-gXo",
     "percentToQualify": 61,
-    "records": [],
+    "records": [
+        {
+            "user": "ROZE GD",
+            "link": "https://youtu.be/1ZSchXOBSXI?si=HowHOBxz2pzicZ_1",
+            "percent": 76
+        }
+    ],   
     "tags": ["Remake", "Short", "Spam", "Old Impossible Level", "Nine Circles Level"]
 }
