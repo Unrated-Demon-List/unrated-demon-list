@@ -1,0 +1,21 @@
+{
+    "id": 92220461,
+    "name": "LUMINA Old",
+    "author": "Bunny666",
+    "creators": ["hechie", "Splinter25", "R3xx3r", "Ultimxte", "Varse", "Zenith", "ThunderDarkness", "kubu"],
+    "verifier": "LunarSpark",
+    "verification": "https://youtu.be/cTevFsTeS-Y",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cacademarmota",
+            "link": "https://drive.google.com/file/d/1hO4ojvjACc7SYEI_2dWlRodA8_SwjUTV/view?usp=sharing",
+            "percent": 91
+        },
+        {
+            "user": "Joshua83 [GD]",
+            "link": "https://youtu.be/F6zO2dEnSCo",
+            "percent": 80
+        }
+    ]
+}
