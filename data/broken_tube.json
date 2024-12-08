@@ -6,5 +6,11 @@
     "verifier": "Goanga",
     "verification": "https://youtu.be/vbbNEGg5LeY?si=zhCdd1lIyG-d7jSL",
     "percentToQualify": 60,
-    "records": []
+    "records": [
+        {
+            "user": "MostDefinitelyAlbert",
+            "link": "https://youtu.be/B3zMK2veDL4?si=wDF6f56apW0Jy9aH",
+            "percent": 100
+        }
+    ]
 }
