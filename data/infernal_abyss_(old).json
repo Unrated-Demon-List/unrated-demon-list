@@ -6,5 +6,11 @@
     "verifier": "ButterFish",
     "verification": "https://youtu.be/WIfC1atATJI",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Cornishion",
+            "link": "https://youtu.be/s5fAuIO-6fw?si=OGS1KHPq4-oAxnR0",
+            "percent": 100
+        }
+    ]
 }
