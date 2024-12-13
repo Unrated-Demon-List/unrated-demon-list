@@ -6,5 +6,11 @@
     "verifier": "seels55",
     "verification": "https://youtu.be/Sm0UvvwOE08?si=iCjsaj019yhuEFWV",
     "percentToQualify": 38,
-    "records": []
+    "records": [
+        {
+            "user": "qsfax",
+            "link": "https://www.youtube.com/watch?v=ropjn3IyPBI",
+            "percent": 63
+        }
+    ]
 }
