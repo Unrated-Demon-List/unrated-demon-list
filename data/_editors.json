@@ -16,13 +16,23 @@
     },
     {
         "role": "helper",
-        "name": "sarcasticmuch",
-        "link": "https://www.youtube.com/@sarcastic_much"
+        "name": "fusion425",
+        "link": "https://www.youtube.com/@fusion425"
     },
     {
         "role": "helper",
-        "name": "fusion425",
-        "link": "https://www.youtube.com/@fusion425"
+        "name": "Glow",
+        "link": "https://www.youtube.com/@BinkBinkgmd"
+    },
+    {
+        "role": "helper",
+        "name": "ItzMira",
+        "link": "https://www.youtube.com/@ItzMiraGD"
+    },
+    {
+        "role": "helper",
+        "name": "Lucidium",
+        "link": "https://www.youtube.com/@LucidiumGD"
     },
     {
         "role": "helper",
@@ -31,8 +41,8 @@
     },
     {
         "role": "helper",
-        "name": "Lucidium",
-        "link": "https://www.youtube.com/@LucidiumGD"
+        "name": "sarcasticmuch",
+        "link": "https://www.youtube.com/@sarcastic_much"
     },
     {
         "role": "dev",
