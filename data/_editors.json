@@ -10,6 +10,11 @@
         "link": "https://www.youtube.com/channel/UC3bT08NPMRLhqc8msXU7uzQ"
     },
     {
+        "role": "helper",
+        "name": "Lucidium",
+        "link": "https://www.youtube.com/@LucidiumGD"
+    },
+    {
         "role": "admin",
         "name": "Marcy",
         "link": "https://www.youtube.com/channel/UCiJHQq5gF6t2yh4V59DU3jg"
@@ -28,11 +33,6 @@
         "role": "helper",
         "name": "ItzMira",
         "link": "https://www.youtube.com/@ItzMiraGD"
-    },
-    {
-        "role": "helper",
-        "name": "Lucidium",
-        "link": "https://www.youtube.com/@LucidiumGD"
     },
     {
         "role": "helper",
