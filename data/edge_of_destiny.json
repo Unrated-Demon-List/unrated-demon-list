@@ -5,12 +5,6 @@
     "creators": ["CDMusic","Viper Arctarus","Linear","Avati","Rynoxious","Helpegasus","RealVet","CuLuC","Nickalopogas","Firy","Unerve","Parallax","Salamander","Uriun","AppleCr","Mercury6778","GD Endy","Knobbelboy","Yoonsr"],
     "verifier": "Polterghast",
     "verification": "https://youtu.be/rUphe3H59yU",
-    "percentToQualify": 56,
-    "records": [
-        {
-            "user": "Trick",
-            "link": "https://www.youtube.com/live/CTFPphxei8A?feature=share",
-            "percent": 86
-        }
-    ]
+    "percentToQualify": 100,
+    "records": []
 }
