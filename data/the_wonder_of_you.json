@@ -22,7 +22,12 @@
             "user": "1ssky",
             "link": "https://youtu.be/APfatXPZ2Kc?si=ZVFJl9OE0JDmeJWc",
             "percent": 91
-        }, 
+        },   
+        {
+            "user": "Kopyedz",
+            "link": "https://youtu.be/59mG9iqCS_k?si=GcSVdounNbVzpbeP",
+            "percent": 100
+        },
         {
             "user": "oni",
             "link": "https://youtu.be/db_iX-SpXsI?si=vHRD4tUN-5_bkmtJ",
@@ -37,11 +42,6 @@
             "user": "Eternallunar", 
             "link": "https://b23.tv/8spx5OU", 
             "percent": 61
-        },
-        {
-            "user": "Kopyedz",
-            "link": "https://www.youtube.com/watch?v=GhKcbDD1vpg",
-            "percent": 57
         }
     ]
 }
