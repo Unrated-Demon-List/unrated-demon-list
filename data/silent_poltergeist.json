@@ -6,6 +6,12 @@
     "verifier": "Whizkid05",
     "verification": "https://youtu.be/XQ_TZc7cnPs?si=LwyBkqvF0qC_sHhy",
     "percentToQualify": 68,
-    "records": [],
+    "records": [
+        {
+            "user": "Hipo",
+            "link": "https://youtu.be/EOXMiBC5lbg",
+            "percent": 78
+        }
+    ],
     "tags": ["Nine Circles Level", "Old Impossible Level", "Spam"]
 }
