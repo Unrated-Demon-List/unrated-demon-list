@@ -3,9 +3,15 @@
     "name": "Xenolith",
     "author": "Zisthik",
     "creators": ["Zisthik", "HushLC", "Yonaka", "JISEOP", "TheLris", "Hotdog71"],
-    "verifier": "GDClutter",
-    "verification": "https://www.youtube.com/watch?v=tosL4RGAs_o",
+    "verifier": "IcaroX",
+    "verification": "https://youtu.be/n3cdX8Pr8Hc?si=t-FDFyMilHBOMdI2",
     "percentToQualify": 57,
     "password": "996655",
-    "records": []
+    "records": [
+        {
+            "user": "GDClutter",
+            "link": "https://www.youtube.com/watch?v=tosL4RGAs_o",
+            "percent": 100
+        }
+    ]
 }
