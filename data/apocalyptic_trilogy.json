@@ -6,5 +6,11 @@
     "verifier": "Polterghast",
     "verification": "https://youtu.be/RUBbpsTR5eU?si=7ye8F0DyPLYhG7YP",
     "percentToQualify": 45,
-    "records": []
+    "records": [
+        {
+            "user": "нонаме",
+            "link": "https://youtu.be/moKKLCnXu3w?si=jCaEJwzJL1Ue9-Rp",
+            "percent": 100
+        }
+    ]
 }
