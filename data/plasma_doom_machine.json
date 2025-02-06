@@ -6,7 +6,7 @@
     "verifier": "Hipo",
     "verification": "https://www.youtube.com/watch?v=N5fr6j0xJj0",
     "showcase": "https://www.youtube.com/watch?v=cG4EdbE-mdQ",
-    "percentToQualify": 44,
+    "percentToQualify": 100,
     "records": [
         {
             "user": "DenseCabbage",
@@ -21,6 +21,11 @@
         {
             "user": "seels55",
             "link": "https://youtu.be/QfDNSl_PPfg?si=qgakjmh6CNclOdz6",
+            "percent": 100
+        },
+        {
+            "user": "qsfax",
+            "link": "https://youtu.be/08-njfZVJZU?si=0Gjf3nQqtO1QVtHk",
             "percent": 100
         },
         {
