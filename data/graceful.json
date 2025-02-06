@@ -4,50 +4,15 @@
     "author": "DaGYT",
     "creators": ["DaGYT", "Knots", "Crescent", "Exomin", "GMDPandaKun", "Ardolf", "ItsAgileSilver", "Ragle", "Galaxxyss", "Robotchief", "FSS", "Reunomi"],
     "verifier": "DaGYT",
-    "verification": "https://youtu.be/aUEiQXEYncc",
+    "verification": "https://youtu.be/5kOD37vQHKE?si=Jk44xHB8FspPVatk",
     "showcase": "https://www.youtube.com/watch?v=a10EgeLGHgg",
     "percentToQualify": 50,
     "password": "001319",
     "records": [
         {
-            "user": "TheUltraBlock",
-            "link": "https://youtu.be/MIibT1jc0pU",
-            "percent": 100
-        },
-                {
-            "user": "Hipo",
-            "link": "https://youtu.be/Ty9HSYzIXAg",
-            "percent": 100
-        },
-        {
-            "user": "enzbro",
-            "link": "https://youtu.be/y33vxnL0cQw",
-            "percent": 100
-        },
-        {
-            "user": "Breakcore",
-            "link": "https://www.youtube.com/watch?v=gWtcZSdhGG8",
-            "percent": 100
-        },
-        {
-            "user": "Whizkid05",
-            "link": "https://youtube.com/watch?v=eV9fuuJElac&si=Zoz2juf16MLy2HQK",
-            "percent": 100
-        },
-        {
             "user": "Cookie",
-            "link": "https://www.youtube.com/watch?v=c_69zJM8oo0&t=2s",
+            "link": "https://youtu.be/YYImMLet1hk?si=F5x4yHZ-KSiM9Xyq",
             "percent": 100
-        },
-        {
-            "user": "Wirbelwind",
-            "link": "https://youtu.be/Vcgnxwla8Uo?si=1DLDvTJfCNoy1r0Q",
-            "percent": 100
-        },
-        {
-            "user": "DuckM",
-            "link": "https://youtu.be/sdim1HMDrkA?si=3O5nFCiI4wBf3zWf",
-            "percent": 57
         }
     ],
     "tags": ["XL"]
