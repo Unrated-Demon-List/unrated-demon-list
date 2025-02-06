@@ -4,7 +4,7 @@
     "author": "Doggie",
     "creators": ["Crazen", "CairoX", "RealVet", "Aranda", "NineDice", "Doggie", "Underings", "Levin", "Mzero", "GhostVandalf", "Croanix", "D3ltex", "Cirtrax", "Kains", "lolwut", "GrenadeOfTacos", "UltraCharge", "Crumche", "Creoa", "Zentraa", "Avenaa", "Triplash", "Yendis", "DTDom", "Acken", "Genoxide", "N3MO", "Shy", "Viper Arctarus", "Rynoxious", "Inex", "SirFluffyBeans"],
     "verifier": "Doggie",
-    "verification": "https://youtu.be/iYztPegByr8?si=hPT6bvCTthqCNwwb",
+    "verification": "https://youtu.be/upWtnQdiVXc?si=C1ZTA_aMhbC-ZR_S",
     "showcase": "https://www.youtube.com/watch?v=lYhHOzzM6VQ",
     "percentToQualify": 100,
     "records": [
@@ -16,6 +16,11 @@
         {
             "user": "Nico GG",
             "link": "https://www.youtube.com/live/A6HqaQMQ3hk?si=ENAKfUWJg4_-Zr-c",
+            "percent": 100
+        },
+        {
+            "user": "SebasLopez",
+            "link": "https://youtu.be/Y0EsLs7GaBA?si=INP6ao8VnBCCqiGE",
             "percent": 100
         }
     ],
