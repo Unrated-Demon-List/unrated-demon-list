@@ -230,6 +230,11 @@
             "percent": 100
         },
         { 
+             "user": "Zamos", 
+            "link": "https://youtu.be/c-9DIR3dwXI?si=40778ehXvbXrxGdd", 
+            "percent": 100
+        },
+        { 
              "user": "reruchoupie", 
             "link": "https://youtu.be/bbuRRXQt4Xo", 
             "percent": 100
@@ -243,7 +248,12 @@
             "user": "Maruigi", 
             "link": "https://youtu.be/tv_KWzrjrkg?si=7kX3MGRohG8RKylG", 
             "percent": 100
-        }
+        },
+        { 
+            "user": "zoldus", 
+            "link": "https://youtu.be/tLWpQb1qTfs?si=qYZOdb4QSUu22syE", 
+            "percent": 100
+        },
     ],
     "tags": ["Short"]
 }
