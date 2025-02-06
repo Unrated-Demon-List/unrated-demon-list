@@ -6,5 +6,11 @@
     "verifier": "Zagros",
     "verification": "https://youtu.be/93YUi8OyssU",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Cobrablitz",
+            "link": "https://youtu.be/JXwJNDQUqwQ?si=xdSAR_dgp-vBAtKW",
+            "percent": 100
+        }
+    ]
 }
