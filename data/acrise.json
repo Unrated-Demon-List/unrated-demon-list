@@ -7,5 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=-78jGwXm2_M",
     "percentToQualify": 100,
     "password": "Free to Copy",
-    "records": []
+    "records": [
+        {
+            "user": "Glungus",
+            "link": "https://www.youtube.com/watch?v=r9CQPdQe51M",
+            "percent": 100
+        }
+    ]
 }
