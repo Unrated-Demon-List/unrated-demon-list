@@ -7,7 +7,13 @@
     "verification": "https://www.youtube.com/watch?v=jVgZ-eSoCVw",
     "showcase": "https://www.youtube.com/watch?v=HUa6ifk0fdE",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+        {
+            "user": "MaruiG",
+            "link": "https://youtu.be/mltVyKb09ko?si=Q2GXxszdLum_MU4a",
+            "percent": 100
+        }
+    ],
     "tags": ["Short", "Remake", "Nine Circles Level", "GDPS Level"]
 }
 
