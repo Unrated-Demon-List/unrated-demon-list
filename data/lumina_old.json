@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "records": [
         {
+            "user": "postdude",
+            "link": "https://www.youtube.com/watch?v=rpLC3xMRFTM",
+            "percent": 100
+        },
+        {
             "user": "Cacademarmota",
             "link": "https://drive.google.com/file/d/1hO4ojvjACc7SYEI_2dWlRodA8_SwjUTV/view?usp=sharing",
             "percent": 91
