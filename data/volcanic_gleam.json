@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/8quWIffBSvU?si=CKKY2DScitThN6tm",
     "percentToQualify": 57,
     "password": "Free to copy",
-    "records": []
+    "records": [
+        {
+            "user": "Rayanso",
+            "link": "https://www.youtube.com/watch?v=Ihl0xL6Yt9E",
+            "percent": 100
+        }
+    ]
 }
