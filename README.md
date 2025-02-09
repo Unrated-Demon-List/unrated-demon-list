@@ -48,8 +48,7 @@ Can I submit Multiple levels on 1 video?
 
 ## List Leaders/Owners:
 
-- DaMeister
-- legoyoshi
+- Lucidium
 
 ## Repo Maintainers:
 
