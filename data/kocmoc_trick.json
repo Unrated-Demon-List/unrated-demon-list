@@ -6,5 +6,11 @@
     "verifier": "Trick",
     "verification": "https://youtu.be/RsOVrVlcE2g?si=RXaQjP6hbKhvNbfS",
     "percentToQualify": 56,
-    "records": []
+    "records": [
+        {
+            "user": "Serpentical",
+            "link": "https://youtu.be/QwrfvaG8zQU",
+            "percent": 64
+        }
+    ]
 }
