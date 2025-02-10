@@ -1,18 +1,12 @@
 {
-    "id": 86699545,
+    "id": 115001297,
     "name": "UnbreakAbility",
-    "author": "HSWSmokeWeed",
+    "author": "Hipolaaa",
     "creators": ["hota1991", "Cyclic"],
     "verifier": "Hipo",
-    "verification": "https://youtu.be/kYfh6rj6pCo",
+    "verification": "https://youtu.be/r-CNGeNB6_w",
     "showcase": "https://www.youtube.com/watch?v=MIsFZwO3Lt0&t=10s",
     "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Sevant",
-            "link": "https://youtu.be/dWNkmmY_8jo?si=UvSu88vOpdjLSs-k",
-            "percent": 100
-        }
-    ],
+    "records": [],
     "tags": ["Remake", "Nine Circles"]
 }
