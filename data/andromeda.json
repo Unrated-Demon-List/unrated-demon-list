@@ -6,5 +6,11 @@
     "verifier": "Taiago",
     "verification": "https://youtu.be/mk3TDemdkC0?si=yK9SfX-edaOpwmf7",
     "percentToQualify": 53,
-    "records": []
+    "records": [
+        {
+            "user": "Zoink",
+            "link": "https://youtu.be/iI0hymTllo0?si=8X98FVIWKRYhQ8D4",
+            "percent": 100
+        }
+    ]
 }
