@@ -1,6 +1,6 @@
 {
     "id": 82592033,
-    "name": "Grains of Sand (Remake/Old)",
+    "name": "Grains of Sand (New)",
     "author": "Harchok",
     "creators": ["STARxd", "pocke"],
     "verifier": "Harchok",
@@ -14,6 +14,6 @@
             "percent": 100
         }
     ],
-    "tags": ["Remake", "Old", "XL", "Spam", "NoNG Song"],
+    "tags": ["Remake", "XL", "Spam", "NoNG Song"],
     "song": "https://cdn.discordapp.com/attachments/1112151604070719699/1118303751380410471/1111680.mp3"
 }
