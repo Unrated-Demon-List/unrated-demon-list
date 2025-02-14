@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/vd2SKU48k6g",
     "showcase": "https://www.youtube.com/watch?v=U0VgXuMgkoo",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+        {
+            "user": "ZygisDij",
+            "link": "https://www.youtube.com/watch?v=ioKxVc7ZcD4",
+            "percent": 100
+        }
+    ],
     "tags": ["Old Impossible Level", "Formerly Rated"]
 }
