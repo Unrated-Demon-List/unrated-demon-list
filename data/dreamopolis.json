@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/b0DJ-TR4Y60",
     "showcase": "https://youtu.be/lsO_YAhuQFc",
     "percentToQualify": 83,
-    "records": [],
+    "records": [
+        {
+            "user": "Mike",
+            "link": "https://www.youtube.com/watch?v=F4NBumvJR6g",
+            "percent": 83
+        }
+    ],
     "tags": ["Unnerfed", "Old Impossible Level"]
 }
