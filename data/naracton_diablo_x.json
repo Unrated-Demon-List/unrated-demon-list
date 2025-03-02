@@ -7,6 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=rbG0ATTxHsg",
     "showcase": "https://www.youtube.com/watch?v=LmAn6VgAdyw",
     "percentToQualify": 62,
-    "records": [],
+    "records": [
+        {
+            "user": "terraaiguess",
+            "link": "https://youtu.be/8OBMrVUq0Lk?si=SYMEptCLRaLv3zzw",
+            "percent": 100
+        }
+    ],
     "tags": ["Old Impossible Level", "Short"]
 }
