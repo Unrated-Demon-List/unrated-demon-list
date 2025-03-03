@@ -8,6 +8,12 @@
     "showcase": "https://youtu.be/yJ50xSuFFgM",
     "percentToQualify": 63,
     "password": "Free to copy",
-    "records": [],
+    "records": [
+            {
+                "user": "Hipo",
+                "link": "https://youtu.be/X5BDV25G8rw?si=b5xO3sE_BrB2uIHN",
+                "percent": 100
+            }
+        ],
     "tags": ["Short", "Nine Circles"]
 }
