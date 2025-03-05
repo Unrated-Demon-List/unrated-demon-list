@@ -6,5 +6,11 @@
     "verifier": "Shyv",
     "verification": "https://youtu.be/GgUN7jLbmnU?si=g-4n7sBRtNVmKrTl",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Hipo",
+            "link": "https://youtu.be/9uVxeT8lYJw",
+            "percent": 100
+        }
+    ]
 }
