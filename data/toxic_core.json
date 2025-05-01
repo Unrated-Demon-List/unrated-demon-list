@@ -6,7 +6,7 @@
     "verifier": "Baeru",
     "verification": "https://youtu.be/9w-ed-sGfpQ",
     "showcase": "https://www.youtube.com/watch?v=f1JQi0lnrQs",
-    "percentToQualify": 57,
+    "percentToQualify": 100,
     "records": [
         {
             "user": "maxer",
@@ -16,6 +16,11 @@
         {
             "user": "luci4rr",
             "link": "https://youtu.be/N5lpZI402h0?si=liw-eyKw79t5VKU9",
+            "percent": 100
+        },
+        {
+            "user": "Rub1dium",
+            "link": "https://youtu.be/fw1TbFRWvow?si=oSvlk3PiE1Y6FnW1",
             "percent": 100
         }
     ],
