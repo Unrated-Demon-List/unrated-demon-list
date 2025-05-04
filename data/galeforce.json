@@ -6,5 +6,16 @@
     "verifier": "Blitzer",
     "verification": "https://youtu.be/G6VF2Gvmpz0?si=qSfaqQOJAQIIDWjt",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Viper",
+            "link": "https://youtu.be/GVSvB7svgPw?si=8zWELSSlU6T_vVPH",
+            "percent": 100
+        },
+        {
+            "user": "Zoff",
+            "link": "https://youtu.be/wNLROQvcMig?si=uDz0-PRt7XCPhUEX",
+            "percent": 100
+        }
+    ]
 }
