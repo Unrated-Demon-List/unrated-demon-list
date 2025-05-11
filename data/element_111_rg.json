@@ -8,6 +8,11 @@
     "percentToQualify": 47,
     "password": "Free to copy",
     "records": [
+        {
+	    "user": "olivia",
+	    "link": "https://youtu.be/0hJ4627Thp4?si=kWTqNEOG4kStBKoC",
+        "percent": 51
+        }
     ],
     "tags": ["CBF", "Old Impossible Level"]
 }
