@@ -6,6 +6,12 @@
     "verifier": "nensa",
     "verification": "https://youtu.be/w_SfQ5RJTj4?si=b3Y3SuPzFWgFNNam",
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+        {
+            "user": "Brian_Cheese",
+            "link": "https://www.youtube.com/watch?v=LosiqyqaqV0",
+            "percent": 100
+        }
+    ],
     "tags": ["Nine Circles", "Old Impossible Level"]
 }
