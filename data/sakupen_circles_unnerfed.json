@@ -6,6 +6,22 @@
     "verifier": "ad3us",
     "verification": "https://youtu.be/AdrmZsy52EY?si=Dl1vpDmY-BW_V-yz",
     "percentToQualify": 67,
-    "records": [],
-    "tags": ["Nine Circles", "Old Impossible Level", "Short", "Spam"]
+    "records": [
+        {
+            "user": "totalgd",
+            "link": "https://youtu.be/P9iazmh05LM?si=TfVHFO_m5zOIvDBA",
+            "percent": 82
+        },
+        {
+            "user": "Emp",
+            "link": "https://youtu.be/xOQ0O-Oh6Ys?si=sWcba1oc0oJ8yoQs",
+            "percent": 76
+        },
+        {
+            "user": "cookie498",
+            "link": "https://www.youtube.com/watch?v=hUxeTCImYe0",
+            "percent": 67
+        }
+    ],   
+    "tags": ["Nine Circles", "Old Impossible Level", "Short", "Spam", "CBF"]
 }
