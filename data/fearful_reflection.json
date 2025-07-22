@@ -6,6 +6,17 @@
     "verifier": "Kevelia",
     "verification": "https://youtu.be/Ve_tiphhUGU",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+        {
+            "user": "SaYne",
+            "link": "https://youtu.be/eP3f3eT61Is",
+            "percent": 100,
+        },
+        {
+            "user": "veshel",
+            "link": "https://youtu.be/gpo8fh0crD0",
+            "percent": 100,
+        }
+    ],
     "tags": ["Nine Circles"]
 }
