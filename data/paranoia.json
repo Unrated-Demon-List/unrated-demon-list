@@ -6,5 +6,11 @@
     "verifier": "Amplitron",
     "verification": "https://youtu.be/Aw83i8Zmh_0?si=UMAiG3cIuQJEa-os",
     "percentToQualify": 66,
-    "records": []
+    "records": [
+        {
+            "user": "SuperJavicon",
+            "link": "https://www.youtube.com/watch?v=9u0EjtU_67M",
+            "percent": 100
+        }
+    ]
 }
