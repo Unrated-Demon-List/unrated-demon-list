@@ -30,6 +30,11 @@
         "link": "https://www.youtube.com/channel/UCab6v0QABvh4ca5EJrlgH9A"
     },
     {
+        "role": "helper",
+        "name": "Bread Demon",
+        "link": "https://www.youtube.com/@breaddemon"
+    },
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/c/PrometheusAlt"
