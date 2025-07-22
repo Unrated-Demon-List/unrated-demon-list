@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/BTEQcqAmXw0",
     "percentToQualify": 100,
     "password": "375195",
-    "records": []
+    "records": [
+        {
+            "user": "Zeronium",
+            "link": "https://www.youtube.com/watch?v=3inJ3DJiz2A",
+            "percent": 100
+        }
+    ]
 }
