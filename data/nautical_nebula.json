@@ -6,5 +6,11 @@
     "verifier": "manu",
     "verification": "https://youtu.be/JdmURAYP1-k?si=V3ddaUY5MWC_gGGU",
     "percentToQualify": 49,
-    "records": []
+    "records": [
+        {
+            "user": "Hardcore507",
+            "link": "https://youtu.be/R1XYgaFWmCo?si=bq50gFGPpcSclteU",
+            "percent": 100,
+        }
+    ]
 }
