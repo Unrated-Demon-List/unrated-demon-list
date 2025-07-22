@@ -6,6 +6,12 @@
     "verifier": "Stormfly",
     "verification": "https://youtu.be/10Qzd6LDTs0",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+        {
+            "user": "Sevant",
+            "link": "https://www.youtube.com/watch?v=aJxA1xTxnGo",
+            "percent": 100
+        }
+    ],
     "tags": ["Formerly Rated"]
 }
