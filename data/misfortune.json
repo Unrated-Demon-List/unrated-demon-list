@@ -6,5 +6,11 @@
     "verifier": "Serpentical",
     "verification": "https://youtu.be/lnutSFazI_c?si=f4HqWOLXIlEQldOp",
     "percentToQualify": 53,
-    "records": []
+    "records": [
+                {
+            "user": "Cryostaz",
+            "link": "https://youtu.be/0oJmFc5nAho?si=TeqDZOVi6Jt8eGFT",
+            "percent": 66
+        }
+    ]
 }
