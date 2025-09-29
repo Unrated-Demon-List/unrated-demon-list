@@ -6,5 +6,11 @@
     "verifier": "Karmakaze",
     "verification": "https://youtu.be/eqyd78Vwi60?si=fi1X-gWR2b98ERMy",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+                {
+            "user": "Bonngd",
+            "link": "https://youtu.be/APG5CofIqtY?feature=shared",
+            "percent": 100
+        }
+    ]
 }

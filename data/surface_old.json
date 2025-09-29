@@ -6,5 +6,11 @@
     "verifier": "zLettuce",
     "verification": "https://youtu.be/bLYjChY-FY0?si=8KfIzFyU9TqJRGlB",
     "percentToQualify": 39,
-    "records": []
+    "records": [
+        {
+            "user": "Breakcore",
+            "link": "https://youtu.be/3qXHOuLVWkQ",
+            "percent": 100
+        }
+    ]
 }
