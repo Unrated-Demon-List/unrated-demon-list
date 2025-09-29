@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/nCb7Pp2ckcQ",
     "percentToQualify": 100,
     "password": "290601",
-    "records": []
+    "records": [
+                {
+            "user": "lovely",
+            "link": "https://youtu.be/I4_JibZ4QGU",
+            "percent": 100
+        }
+    ]
 }
