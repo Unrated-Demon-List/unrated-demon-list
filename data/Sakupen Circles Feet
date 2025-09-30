@@ -1,17 +1,11 @@
 {
-    "id": 116001711,
+    "id": 118680356,
     "name": "Sakupen Feet",
     "author": "TrotskyGd",
     "creators": ["Awedsy", "CriedEx", "Nick24"],
-    "verifier": "nensa",
+    "verifier": "WozertWW",
     "verification": "https://www.youtube.com/watch?v=w_SfQ5RJTj4",
     "percentToQualify": 100,
-    "records": [
-      {
-        "user": "WozertWW",
-        "link": "https://www.youtube.com/watch?v=7db-ebcuSIw",
-        "percent": "100"
-      }
-    ]
+    "records": []
 }
 
