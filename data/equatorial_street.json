@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/W4rAiQW93u4",
     "percentToQualify": 100,
     "password": "696969",
-    "records": [],
+    "records": [
+        {
+            "user": "reruchoupie",
+            "link": "https://youtu.be/TLvjlvTB5ps",
+            "percent": 100
+        }
+    ],
     "tags": ["Nerfed Impossible Level"]
 }
