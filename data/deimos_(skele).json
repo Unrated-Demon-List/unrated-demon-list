@@ -9,6 +9,11 @@
     "percentToQualify": 55,
     "password": "Not copyable",
     "records": [
+          {
+            "user": "Hokie",
+            "link": "https://www.youtube.com/watch?v=7ON1TrEEOWI",
+            "percent": 100
+        },
         {
             "user": "Laniakea",
             "link": "https://youtu.be/1g5dbDXwla8",
