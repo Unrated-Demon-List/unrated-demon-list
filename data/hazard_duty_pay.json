@@ -6,5 +6,12 @@
     "verifier": "w3rty",
     "verification": "https://youtu.be/kpbE1vJXUos?si=6ywUZrrS8Kmbufrt",
     "percentToQualify": 61,
-    "records": []
+    "records": [
+        {
+            "user": "moby",
+            "link": "https://www.youtube.com/watch?v=IXnJM9I2hb0",
+            "percent": 72
+        }
+    ]
+}
 }
