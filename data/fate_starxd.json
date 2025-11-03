@@ -6,5 +6,12 @@
     "verifier": "paranoiacAK",
     "verification": "https://youtu.be/lqHosZ1gN6A?si=iDDuZxfct86865VK",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "kolzaru",
+            "link": "https://youtu.be/uxUjmEHG7XY?si=E9g4qFuryTB8ztck",
+            "percent": 100
+        }
+    ]
 }
+
