@@ -26,7 +26,7 @@ export default {
                     <tr v-for="([err, rank, level], i) in list">
                         <td class="rank">
                             <p v-if="rank === null" class="type-label-lg">&mdash;</p>
-                            <p v-else class="type-label-lg" :style="{ color: rank > 150 ? 'darkgrey' : undefined }">#{{ rank }}</p>
+                            <p v-else class="type-label-lg" :style="{ color: rank > 200 ? 'darkgrey' : undefined }">#{{ rank }}</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': err !== null }">
                             <button @click="selected = i">

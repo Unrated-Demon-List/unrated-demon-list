@@ -13,8 +13,8 @@ const scale = 3;
  */
 export function score(rank, percent, minPercent, listlen) {
     let returnval = 0;
-    if (rank!== null && rank <= 150){
-        if (rank > 75){
+    if (rank!== null && rank <= 200){
+        if (rank > 100){
             minPercent = 100;
         }
         /* Old Formula
@@ -36,7 +36,7 @@ export function score(rank, percent, minPercent, listlen) {
         }
     }
     else {
-        let score = 14 * (rank - 151) / (151 - listlen) + 15;
+        let score = 14 * (rank - 201) / (201 - listlen) + 15;
         returnval = round(score);
     }
     return returnval;
