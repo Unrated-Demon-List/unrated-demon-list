@@ -6,6 +6,12 @@
     "verifier": "TFIBB",
     "verification": "https://youtu.be/FlgH7PxLWvQ?si=dNCc3GDZuABIZll6",
     "percentToQualify": 58,
-    "records": [],
+    "records": [
+         {
+           "user": "Rulmy",
+           "link": "https://youtu.be/QBfN4Cqf4-o?si=ABRQN-M7IIm3yd5J",
+           "percent": 100
+        },
+    ],
     "tags": ["GDPS level"]
 }
