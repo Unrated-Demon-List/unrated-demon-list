@@ -6,5 +6,12 @@
     "verifier": "ZazaGD",
     "verification": "https://youtu.be/HAyxOJ1XuBk?si=HPwhQOga71WZ3m_3",
     "percentToQualify": 70,
-    "records": []
+    "records": [
+         {
+           "user": "Lexxxy",
+           "link": "https://youtu.be/vo1jRlCqFcg?si=HiVTTIZWg63a5cE4",
+           "percent": 100
+        },
+    ]
 }
+
