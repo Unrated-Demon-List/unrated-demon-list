@@ -6,6 +6,13 @@
     "verifier": "fusion425",
     "verification": "https://youtu.be/4uwSVZBrtfg?si=_WqGINZrgfcbs2pu",
     "percentToQualify": 48,
-    "records": [],
+    "records": [
+        {
+            "user": "Sykaav",
+            "link": "https://www.youtube.com/watch?v=8pvKlCIDA30",
+            "percent": 100
+        }
+    ],
     "tags": ["Short"]
 }
+
