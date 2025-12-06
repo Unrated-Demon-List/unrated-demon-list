@@ -7,7 +7,13 @@
     "verification": "https://youtu.be/2vfZ4jkwJ5I?si=mPKwVONFDDYlMpaI",
     "showcase": "https://youtu.be/06YvxOChXsc?si=P08RyvJrJS-LvgF9",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+        {
+            "user": "Yoshikid",
+            "link": "https://youtu.be/RLDHyyRRFZY",
+            "percent": 100
+        }
+    ],
     "tags": ["NoNG Song"],
     "song": "https://cdn.discordapp.com/attachments/1112151604070719699/1169412017866674176/995166.mp3?ex=65554ecf&is=6542d9cf&hm=69b19ca0d34e38532d06d671cf4fbd2e17c5d42ba6e8435f4139cb48211ea550&"
 }
