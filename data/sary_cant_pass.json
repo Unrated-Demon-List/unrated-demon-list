@@ -7,6 +7,13 @@
     "verification": "https://youtu.be/dXzVKnLXbnc?si=aK1I2RYSGffzioH3",
     "showcase": "https://youtu.be/EdZGpepkwkE?si=RATQ6tsQlPbuy_Wj",
     "percentToQualify": 63,
-    "records": [],
+    "records": [
+        {
+            "user": "Achlys";
+            "link": "https://www.youtube.com/watch?v=uIuK_9A90EE";
+            "percent": 100
+        }
+    ],
     "tags": ["Remake", "Memory", "Limited Vision"]
 }
+
