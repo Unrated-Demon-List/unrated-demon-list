@@ -8,6 +8,12 @@
     "showcase": "https://www.youtube.com/watch?v=yUMpMyDdU9s",
     "percentToQualify": 100,
     "password": "Free to Copy",
-    "records": [],
+    "records": [
+        {
+            "user": "trixicdal",
+            "link": "https://youtu.be/1so7sF5znKo?si=baqxUQ6n4kbRrMMl",
+            "percent": 100
+        }
+    ],
     "tags": ["Nine Circles Level", "Short"]
 }
