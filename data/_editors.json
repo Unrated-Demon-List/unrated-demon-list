@@ -5,7 +5,7 @@
         "link": "https://www.youtube.com/@LucidiumGD"
     },
     {
-        "role": "admin",
+        "role": "owner",
         "name": "KirbyX152",
         "link": "https://www.youtube.com/channel/UC3bT08NPMRLhqc8msXU7uzQ"
     },
@@ -13,6 +13,11 @@
         "role": "admin",
         "name": "Marcy",
         "link": "https://www.youtube.com/channel/UCiJHQq5gF6t2yh4V59DU3jg"
+    },
+    {
+        "role": "admin",
+        "name": "Bread Demon",
+        "link": "https://www.youtube.com/@breaddemon"
     },
     {
         "role": "helper",
@@ -31,8 +36,18 @@
     },
     {
         "role": "helper",
-        "name": "Bread Demon",
-        "link": "https://www.youtube.com/@breaddemon"
+        "name": "LukeLGamer",
+        "link": "https://www.youtube.com/channel/UCtUUslY9zz5Zk8AXIpAAK9Q"
+    },
+    {
+        "role": "helper",
+        "name": "Vivisectiongd",
+        "link": "https://www.youtube.com/channel/UCGvgvJbn0K34WxvyLctqqzQ"
+    },
+    {
+        "role": "helper",
+        "name": "Acacia",
+        "link": "https://www.youtube.com/channel/UCqLmil7jDa0MF1tRJpfSaKw"
     },
     {
         "role": "dev",
