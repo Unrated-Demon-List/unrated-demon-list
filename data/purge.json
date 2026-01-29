@@ -6,6 +6,12 @@
     "verifier": "XavT",
     "verification": "https://youtu.be/4xOC4Q0wtIw",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+          {
+            "user": "Burning",
+            "link": "https://www.youtube.com/watch?v=BjUPjUPjWk8",
+            "percent": 100
+        }
+    ],
     "tags": ["Memory", "Short"]
 }
