@@ -6,5 +6,12 @@
     "verifier": "ROZE GD",
     "verification": "https://youtu.be/Lidju9Y3ZcE?si=TlDO1xePjSx_rpnE",
     "percentToQualify": 66,
-    "records": []
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/jpTwZYDnDwE",
+            "percent": 100
+        }
+    ]
 }
+
