@@ -8,7 +8,11 @@
     "showcase": "https://www.youtube.com/watch?v=xdtIhgCOx_4",
     "percentToQualify": 69,
     "records": [
-        
+        {
+            "user": "ad3us", 
+            "link": "https://www.youtube.com/watch?v=OSnPpTI_9d0", 
+            "percent": 100
+        },
         {
             "user": "Skylar", 
             "link": "https://youtu.be/9-idf0mJEdw?si=mC51l0qMVMdLDF2n", 
