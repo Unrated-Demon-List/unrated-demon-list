@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/P6nXjf84kMw",
     "percentToQualify": 100,
     "password": "425835",
-    "records": [],
+    "records": [
+         {
+            "user": "wadur",
+            "link": "https://www.youtube.com/watch?v=d5B5A9Ip_SM",
+            "percent": 100
+        }
+    ],
     "tags": ["Short"]
 }
