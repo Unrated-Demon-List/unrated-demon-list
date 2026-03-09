@@ -50,6 +50,11 @@
         "link": "https://www.youtube.com/channel/UCqLmil7jDa0MF1tRJpfSaKw"
     },
     {
+        "role": "helper",
+        "name": "Livyoshi",
+        "link": "https://www.youtube.com/@livyoshi6464"
+    },
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/c/PrometheusAlt"
