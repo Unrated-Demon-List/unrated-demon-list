@@ -1,10 +1,16 @@
 {
     "id": 58716045,
     "name": "AntiMaterial",
-    "author": "SeptaGon7",
+    "author": "CamRa",
     "creators": ["CamRa", "KoolBoom", "Splenetic"],
-    "verifier": "SeptaGon7",
-    "verification": "https://youtu.be/5rFXsd9UeqM",
+    "verifier": "MarcYy",
+    "verification": "https://www.youtube.com/watch?v=LhzXZWjRd8Q",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "SeptaGon7",
+            "link": "https://www.youtube.com/watch?v=5rFXsd9UeqM",
+            "percent": 100
+        }
+    ]
 }
