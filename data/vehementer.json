@@ -6,6 +6,12 @@
     "verifier": "Kurei",
     "verification": "https://youtu.be/taNAO7_aatQ",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+        {
+            "user": "wooshify",
+            "link": "https://medal.tv/games/geometry-dash/clips/kzYsTyEioh7wmU6Ci?invite=cr-MSxXR1csODAxNDI1Nw&v=76",
+            "percent": 100
+        }
+    ],
     "tags": ["Short"]
 }
