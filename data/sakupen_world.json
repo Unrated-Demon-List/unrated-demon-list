@@ -6,6 +6,12 @@
     "verifier": "GDMeric",
     "verification": "https://youtu.be/NyOMwwq4h2Y",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+         {
+            "user": "Adhafera",
+            "link": "https://youtu.be/3oej6V8i3Uw",
+            "percent": 100
+        }
+    ],
     "tags": ["Short"]
 }
