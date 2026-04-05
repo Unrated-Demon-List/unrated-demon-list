@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/bCPTwheR08I?si=Yn_P9-hFOpWA5xqa",
     "showcase": "https://www.youtube.com/watch?v=07iDKXXFeXc",
     "percentToQualify": 58,
-    "records": []
+    "records": [
+        {
+            "user": "podushka", 
+            "link": "https://www.youtube.com/watch?v=yFtUMhIkAO8", 
+            "percent": 100
+        }
+    ]
 }
