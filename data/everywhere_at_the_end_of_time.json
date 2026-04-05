@@ -6,5 +6,11 @@
     "verifier": "Dragun GD",
     "verification": "https://youtu.be/88EBrHoDssU?si=qRNF2PxAHBoNCGTf",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+         {
+            "user": "SvenPlayerTV",
+            "link": "https://www.youtube.com/watch?v=fi0PFGfmX8c",
+            "percent": 100
+        }
+    ]
 }
