@@ -6,5 +6,11 @@
     "verifier": "WaterBottle317",
     "verification": "https://youtu.be/ZjFTJkj2YJ0?si=KZkpUaoC0hFChC7Y",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "TRIXICIDAL",
+            "link": "https://www.youtube.com/watch?v=LUsKD2q4rkM",
+            "percent": 100
+        }
+    ]
 }
