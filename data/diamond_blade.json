@@ -68,6 +68,11 @@
             "percent": 100
         },
         {
+            "user": "macaca",
+            "link": "https://www.youtube.com/watch?v=KGrIy20hJ_c&list=PLImwSUnAr3kdVIiIVoj2in1OT2Sytdn9g",
+            "percent": 100
+        },
+        {
             "user": "Amandus",
             "link": "https://youtu.be/03Q3wALkU8M",
             "percent": 95
@@ -87,6 +92,7 @@
             "link": "https://youtu.be/ynURrhmTR3M?si=ofbatg4v2Co4L3Hb",
             "percent": 56
         }
+        
     ],
     "tags": ["Layout"]
 }
