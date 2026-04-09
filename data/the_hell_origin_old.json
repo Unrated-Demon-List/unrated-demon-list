@@ -9,6 +9,11 @@
     "percentToQualify": 100,
     "records": [
         {
+            "user": "Duck",
+            "link": "https://www.youtube.com/watch?v=rUv0sQIjd5U&t",
+            "percent": 100
+        },
+        {
             "user": "GeoDasher36",
             "link": "https://youtu.be/4s6-0JzmSjU",
             "percent": 62
