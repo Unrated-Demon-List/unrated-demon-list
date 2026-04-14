@@ -8,6 +8,12 @@
     "showcase": "https://www.youtube.com/watch?v=bkCamWIB3i0",
     "percentToQualify": 100,
     "password": "987456",
-    "records": [],
+    "records": [
+        {
+            "user": "TPSkeleton",
+            "link": "https://youtu.be/U-7SmOPYGPU",
+            "percent": 100
+        }
+    ],
     "tags": ["Old Impossible Level", "Short"]
 }
