@@ -6,6 +6,12 @@
     "verifier": "KrNati",
     "verification": "https://youtu.be/jsrqMqs1-Ao?si=sGXpJs7x7YdolU9E",
     "percentToQualify": 54,
-    "records": [],
+    "records": [
+        {
+            "user": "youngs",
+            "link": "https://www.youtube.com/watch?v=R7t7Ysa9deM",
+            "percent": 100
+        }
+    ],
     "tags": ["Old Impossible Level", "Layout"]
 }
