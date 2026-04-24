@@ -6,5 +6,11 @@
     "verifier": "vonic",
     "verification": "https://youtu.be/IMLjnmnIWRc?si=WSavFfqv3Ynxg4sv",
     "percentToQualify": 69,
-    "records": []
+    "records": [
+        {
+            "user": "Duv",
+            "link": "https://www.youtube.com/watch?v=S1Mw_Mf1bVw",
+            "percent": 100
+        }
+    ]
 }
