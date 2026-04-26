@@ -8,6 +8,12 @@
     "showcase": "https://www.youtube.com/watch?v=S5AWp5P9hVU",
     "percentToQualify": 100,
     "password": "Free to copy",
-    "records": [],
+    "records": [
+        {
+            "user": "Acacia",
+            "link": "https://www.youtube.com/watch?v=OUdyI_CeQqM",
+            "percent": 100
+        }
+    ],
     "tags": ["Remake"]
 }
