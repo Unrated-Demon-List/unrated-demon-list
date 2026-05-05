@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/WFu5H7yi9hA",
     "showcase": "https://www.youtube.com/watch?v=Yfl8yAtGuNA&t=54s",
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+        {
+            "user": "isthata4x4",
+            "link": "https://www.youtube.com/watch?v=q4qF_2pVnoA",
+            "percent": 100
+        }
+    ],
     "tags": ["XL", "Epilepsy Warning"]
 }
