@@ -6,5 +6,11 @@
     "verifier": "Riley",
     "verification": "https://youtu.be/WECBlbM0LJk?si=-bRY99GjT1J7fdbw",
     "percentToQualify": 77,
-    "records": []
+    "records": [
+         {
+            "user": "exerity",
+            "link": "https://www.youtube.com/live/m-SCNpXWsDM?si=Z2kqCbu8KRxKnNi0&t=5632",
+            "percent": 85
+        }
+    ]
 }
