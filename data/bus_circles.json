@@ -6,5 +6,11 @@
     "verifier": "ghoster",
     "verification": "https://youtu.be/NH_jUzxCOl8?si=YOlxzfFgThTJO-2z",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "damian",
+            "link": "https://www.youtube.com/watch?v=H-ysO8glkFU",
+            "percent": 100
+        }
+    ]
 }
