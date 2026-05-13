@@ -7,7 +7,13 @@
     "verification": "https://youtu.be/9P_mhkysO_s",
     "percentToQualify": 100,
     "password": "258025",
-    "records": [],
+    "records": [
+        {
+            "user": "Adhafera",
+            "link": "https://www.youtube.com/watch?v=BukLygGuRNY",
+            "percent": 100
+        }
+    ],
     "tags": ["Nine Circles Level"]
 }   
 
