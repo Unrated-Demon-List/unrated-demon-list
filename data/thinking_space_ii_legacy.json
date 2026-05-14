@@ -6,5 +6,11 @@
     "verifier": "Zeronium",
     "verification": "https://youtu.be/RJedeB2wHCA?si=CoD6Zi65eRP28584",
     "percentToQualify": 68,
-    "records": []
+    "records": [
+           {
+            "user": "clubflocked",
+            "link": "https://youtu.be/KQR-gD7bLXw?si=wphk35OeBLrbBjNl",
+            "percent": 100
+        }
+    ]
 }
