@@ -6,5 +6,11 @@
     "verifier": "jupibun",
     "verification": "https://youtu.be/JQDw15tJR58?si=pM2jVCpvVTfjfGJt",
     "percentToQualify": 64,
-    "records": []
+    "records": [
+        {
+            "user": "Dundermuffin7",
+            "link": "https://youtu.be/wkFScCFVaGk",
+            "percent": 87
+        }
+    ]
 }
