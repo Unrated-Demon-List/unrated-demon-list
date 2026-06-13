@@ -8,14 +8,14 @@
     "percentToQualify": 77,
     "records": [
            {
-            "user": "podushka",
-            "link": "https://youtu.be/j2_bSA2rO7I?si=6rvEMjzqyXnIP-Pj",
+            "user": "exerity",
+            "link": "https://youtu.be/t-DCM3_ZUuc?si=A7CsSIEmmzSCfUPZ",
             "percent": 100
         },
          {
-            "user": "exerity",
-            "link": "https://www.youtube.com/live/m-SCNpXWsDM?si=Z2kqCbu8KRxKnNi0&t=5632",
-            "percent": 85
+            "user": "podushka",
+            "link": "https://youtu.be/j2_bSA2rO7I?si=6rvEMjzqyXnIP-Pj",
+            "percent": 100
         }
     ]
 }
