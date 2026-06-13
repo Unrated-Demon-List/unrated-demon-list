@@ -18,6 +18,11 @@
             "percent": 100
         },
         {
+            "user": "cc478",
+            "link": "https://www.youtube.com/watch?v=jdd9KZn3HtE",
+            "percent": 100
+        },
+         {
             "user": "Emp",
             "link": "https://youtu.be/xOQ0O-Oh6Ys?si=sWcba1oc0oJ8yoQs",
             "percent": 76
@@ -36,12 +41,8 @@
             "user": "nensa",
             "link": "https://www.youtube.com/watch?v=VnN2UygB00I",
             "percent": 68
-        },
-        {
-            "user": "cc478",
-            "link": "https://www.youtube.com/watch?v=LDcsNoIiyXQ",
-            "percent": 67
         }
+        
     ],   
     "tags": ["Nine Circles", "Old Impossible Level", "Short", "Spam", "CBF"]
 }
