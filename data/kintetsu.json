@@ -7,10 +7,14 @@
     "verification": "https://youtu.be/JQDw15tJR58?si=pM2jVCpvVTfjfGJt",
     "percentToQualify": 64,
     "records": [
-        
         {
             "user": "TyreekBigs",
             "link": "https://youtu.be/G6B6qpHlJB4?si=BDcgGbKSaaLsrP7A",
+            "percent": 100
+        },
+        {
+            "user": "linayru",
+            "link": "https://www.youtube.com/watch?v=fxieGnWfwFk",
             "percent": 100
         }
     ]
