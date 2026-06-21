@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/-t453kMyZ3Y",
     "percentToQualify": 100,
     "password": "1804",
-    "records": [],
+    "records": [
+          {
+            "user": "VisibleBottle",
+            "link": "https://youtu.be/-II9p1uMIBY?si=UGRMfqMb8BNaT_J9",
+            "percent": 100
+        }
+    ],
     "tags": ["Memory"]
 }
