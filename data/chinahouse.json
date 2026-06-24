@@ -6,5 +6,11 @@
     "verifier": "majin",
     "verification": "https://youtu.be/DwgQf4-EQHA?si=OqEEDkvu_vlqBu8g",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "owch", 
+            "link": "https://www.youtube.com/watch?v=wsvLqiJb6ew", 
+            "percent": 100
+        }
+    ]
 }
