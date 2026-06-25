@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/luk43CtAbVY",
     "percentToQualify": 100,
     "password": "111111",
-    "records": []  
+    "records": [
+        {
+            "user": "TPSkeleton",
+            "link": "https://youtu.be/Z7jK4PRrLh8",
+            "percent": 100
+        }
+    ]  
 }
