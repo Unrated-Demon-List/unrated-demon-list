@@ -6,6 +6,12 @@
     "verifier": "by Trafiken",
     "verification": "https://youtu.be/AYiJ_Q08kLw",
     "percentToQualify": 100,
-    "records": [],
+    "records": [
+        {
+            "user": "Goose",
+            "link": "https://www.youtube.com/watch?v=pxalqLifR0A",
+            "percent": 100
+        }
+    ],
     "tags": ["Short", "Nine Circles"]
 }
