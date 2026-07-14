@@ -6,5 +6,11 @@
     "verifier": "Bacon",
     "verification": "https://youtu.be/RTXnFHkGO_g?si=b66EXLje9jaS4sLn",
     "percentToQualify": 60,
-    "records": []
+    "records": [
+        {
+            "user": "lanx",
+            "link": "https://www.youtube.com/watch?v=0ahcl3VkdSM&list=LL&index=2",
+            "percent": 65
+        }
+    ]
 }
