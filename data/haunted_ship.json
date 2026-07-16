@@ -6,5 +6,11 @@
     "verifier": "Gnamolor",
     "verification": "https://youtu.be/22l59QGmL48",
     "percentToQualify": 49,
-    "records": []
+    "records": [
+        {
+            "user": "Jyvl01",
+            "link": "https://www.youtube.com/watch?v=1aIdHSAQX94&t",
+            "percent": 100
+        }
+    ]
 }
