@@ -20,6 +20,11 @@
         "link": "https://www.youtube.com/channel/UCqLmil7jDa0MF1tRJpfSaKw"
     },
     {
+        "role": "admin",
+        "name": "Shifield",
+        "link": "https://youtube.com/@gd_leaf?si=qMRJRhJxFIW-d0YH"
+    },
+    {
         "role": "helper",
         "name": "AlexNomas",
         "link": "https://youtube.com/@alexnomas_?si=Mj8cZgbC0Umk1rxG"
@@ -38,11 +43,6 @@
         "role": "helper",
         "name": "Livyoshi",
         "link": "https://www.youtube.com/@livyoshi6464"
-    },
-    {
-        "role": "helper",
-        "name": "Shifield",
-        "link": "https://youtube.com/@gd_leaf?si=qMRJRhJxFIW-d0YH"
     },
     {
         "role": "dev",
