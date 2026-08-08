@@ -6,6 +6,12 @@
     "verifier": "9i",
     "verification": "https://youtu.be/jgxbGKENau8?si=QUTkeTkd4j3qtJ-C",
     "percentToQualify": 74,
-    "records": [],
+    "records": [
+        {
+            "user": "j2w0xngss",
+            "link": "https://www.youtube.com/watch?v=U0a47qqq_5s",
+            "percent": 100
+        }
+    ],
     "tags": ["Nine Circles", "Short"]
 }
