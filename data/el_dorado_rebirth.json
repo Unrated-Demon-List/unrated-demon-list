@@ -28,11 +28,16 @@
 	    "link": "https://youtu.be/_pPtqA7fQTU",
             "percent": 100
 	},
-        {
-	        "user": "maxer",
-	        "link": "https://youtu.be/BA6mm83Do48?si=fDtAxVX1p0l2_pM1",
-            "percent": 100
-	    }
+    {
+	    "user": "maxer",
+	    "link": "https://youtu.be/BA6mm83Do48?si=fDtAxVX1p0l2_pM1",
+        "percent": 100
+	},
+	{
+		"user": "Microchop44",
+		"link": "https://youtu.be/f96ED1X5eMQ?si=Z57AutT9_bXiMZyI",
+        "percent": 100
+	}
     ],
     "tags": ["Remake"]
 }
