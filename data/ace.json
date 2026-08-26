@@ -6,5 +6,11 @@
     "verifier": "Aidsen",
     "verification": "https://youtu.be/7uYghOdos8I?si=qGsx0xVDkJxktu46",
     "percentToQualify": 48,
-    "records": []
+    "records": [
+         {
+            "user": "podushka",
+            "link": "https://www.youtube.com/watch?v=r4DXE_CCYfU",
+            "percent": 78
+        }
+    ]
 }
