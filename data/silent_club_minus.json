@@ -7,9 +7,14 @@
     "verification": "https://youtu.be/oyE9uJ2ySlw?si=1x_DLzaEGqjwgJ7C",
     "percentToQualify": 100,
     "records": [
-          {
+        {
             "user": "nico",
             "link": "https://youtu.be/1-SVf3ar2_g",
+            "percent": 100
+        },
+        {
+            "user": "cyrik2",
+            "link": "https://drive.google.com/file/d/18eNmi_kPzgXOe18ha8vNHtmMMGu3MDSE/view?usp=sharing",
             "percent": 100
         }
     ]
