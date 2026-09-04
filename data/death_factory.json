@@ -6,6 +6,12 @@
     "verifier": "dewbbs",
     "verification": "https://youtu.be/aH4VVYn2Tds?si=C1gJStDbqUAS1cAy",
     "percentToQualify": 65,
-    "records": [],
+    "records": [
+        {
+            "user": "SaitamaGD", 
+            "link": "https://youtu.be/lhsNynFaa94?si=kWStZWAVRZ7mHdos", 
+            "percent": 100
+        }
+    ],
     "tags": []
 }
