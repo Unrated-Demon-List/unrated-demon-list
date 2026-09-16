@@ -1,7 +1,7 @@
 [
     {
         "role": "owner",
-        "name": "Lucidium",
+        "name": "Frungle",
         "link": "https://www.youtube.com/@LucidiumGD"
     },
     {
@@ -23,11 +23,6 @@
         "role": "admin",
         "name": "Shifield",
         "link": "https://youtube.com/@gd_leaf?si=qMRJRhJxFIW-d0YH"
-    },
-    {
-        "role": "helper",
-        "name": "AlexNomas",
-        "link": "https://youtube.com/@alexnomas_?si=Mj8cZgbC0Umk1rxG"
     },
     {
         "role": "helper",
