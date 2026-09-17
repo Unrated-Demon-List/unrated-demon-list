@@ -18,9 +18,14 @@
             "link": "https://www.youtube.com/watch?v=zHPlYbUdWfs",
             "percent": 100
         },
-          { "user": "Paranoiac",
+        {   "user": "Paranoiac",
             "link": "https://youtu.be/ITdMOdoNnUg?si=m6QBzsw-Mo-Qiw5K&t=136",
             "percent": 100
+        },
+        {
+            "user": "Muffy450",
+            "link": "https://www.youtube.com/watch?v=yjiFGwc3Ri0",
+            "percent": 100            
         }
     ],
     "tags": ["Old Impossible Level", "Spam"]
