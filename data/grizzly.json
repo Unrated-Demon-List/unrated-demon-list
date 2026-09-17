@@ -6,6 +6,12 @@
     "verifier": "xKrakence",
     "verification": "https://www.youtube.com/watch?v=5kZ4usXwCI0",
     "percentToQualify": 100,
-    "records": [],
+    "records":  [
+         {
+            "user": "LilleBygger", 
+            "link": "https://www.youtube.com/watch?v=3Y71zI4odX8", 
+            "percent": 100
+        }
+    ],
     "tags": ["DON'T PLAY THE ONE ON LUCIDALS ACCOUNT"]
 }
