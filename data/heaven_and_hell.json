@@ -1,8 +1,8 @@
 {
-    "id": 71287982,
-    "name": "Heaven and Hell",
-    "author": "Tuggy75",
-    "creators": ["RoadBose"],
+    "id": 167264,
+    "name": "Heaven And Hell",
+    "author": "roadjunior",
+    "creators": ["roadjunior"],
     "verifier": "Tuggy75",
     "verification": "https://youtu.be/kBatLhgBJ6Y",
     "showcase": "https://www.youtube.com/watch?v=eECHiKPe_54&t=2s",
@@ -11,6 +11,11 @@
         {
             "user": "KPGDylan",
             "link": "https://www.youtube.com/watch?v=8dPyNHKaHbk",
+            "percent": 100
+        },
+        {
+            "user": "Muffy450",
+            "link": "https://youtu.be/40WQCMv8Fno?si=SuX3a_esqGrwHcii",
             "percent": 100
         },
         {
