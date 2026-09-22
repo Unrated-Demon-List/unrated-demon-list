@@ -6,5 +6,11 @@
     "verifier": "Carv",
     "verification": "https://youtu.be/ESrEIdb86sM?si=obL5Yn6lXDLGH04v",
     "percentToQualify": 62,
-    "records": []
+    "records": [
+        {
+            "user": "Draks_Loves_U",
+            "link": "https://youtu.be/JD9CMsQ9bgI?is=Qt8-gqp1GzPXnRlr",
+            "percent": 100
+        }
+    ]
 }
