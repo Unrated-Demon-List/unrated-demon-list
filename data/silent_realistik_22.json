@@ -6,5 +6,11 @@
     "verifier": "apuu",
     "verification": "https://youtu.be/jI4AySdFlIo?si=VL-1Z30AOsnjbXeP",
     "percentToQualify": 63,
-    "records": []
+    "records": [
+        {
+            "user": "marleyy",
+            "link": "https://www.youtube.com/watch?v=JWBPh_1h8Os",
+            "percent": 100
+        }
+    ]
 }
