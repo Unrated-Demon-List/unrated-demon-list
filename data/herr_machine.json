@@ -6,5 +6,11 @@
     "verifier": "Bonngd",
     "verification": "https://youtu.be/CBcQqmqWFo4?si=X-nW9aowsByjNckm",
     "percentToQualify": 52,
-    "records": []
+    "records": [
+        {
+            "user": "lanx",
+            "link": "https://youtu.be/kOnCfTddPi4?si=ZDPCEutthKmdrwfQ",
+            "percent": 100
+        },
+    ]
 }
