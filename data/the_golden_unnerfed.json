@@ -6,5 +6,11 @@
     "verifier": "nkontion",
     "verification": "https://youtu.be/zfIy-LRaeOc?si=wvm-6OOL11dGaLwL",
     "percentToQualify": 61,
-    "records": []
+    "records": [
+        {
+            "user": "Lukasta",
+            "link": "https://www.youtube.com/watch?v=InR1wxGjKUE",
+            "percent": 100
+        }
+    ]
 }
