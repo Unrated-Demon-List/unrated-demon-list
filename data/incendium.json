@@ -6,6 +6,12 @@
     "verifier": "Streamyy",
     "verification": "https://youtu.be/11YU_H4XcOU?si=LxE1lUqE-61Tvdoq",
     "percentToQualify": 100,
-    "records": [],   
+    "records": [
+        {
+            "user": "Adhafera",
+            "link": "https://www.youtube.com/watch?v=bywfd6IZcG8",
+            "percent": 100
+        }
+    ],   
     "tags": ["Nine Circles"]
 }
