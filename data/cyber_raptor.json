@@ -2,7 +2,7 @@
     "id": 85174455,
     "name": "Cyber Raptor",
     "author": "ItsGianlu",
-    "creators": "ItsGianlu, Robotition, niroi, TheExtremeDash, Foin, veshel",
+    "creators": ["ItsGianlu", "Robotition", "niroi", "TheExtremeDash", "Foin", "veshel"],
     "verifier": "Lobster",
     "verification": "https://www.youtube.com/watch?v=zxojmwuEBo0",
     "percentToQualify": 48,
