@@ -6,5 +6,11 @@
     "verifier": "MeatiusGaming",
     "verification": "https://youtu.be/9OAPpsCZvsA",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Chima",
+            "link": "https://youtu.be/tG00_oJfSEA",
+            "percent": 100
+        }
+    ],
 }
