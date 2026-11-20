@@ -5,13 +5,12 @@
     "creators": [],
     "verifier": "BradenBowl",
     "verification": "https://youtu.be/ygpr6dzzVAY",
-    "percentToQualify": 25,
+    "percentToQualify": 50,
     "records": [
         {
             "user": "Tipower",
             "link": "https://youtu.be/AwCr2-ikpb0",
             "percent": 100
         }
-    ],
-    "tags": ["List percent is according to the verification video"]
+    ]
 }
