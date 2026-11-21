@@ -6,5 +6,11 @@
     "verifier": "zRickyy",
     "verification": "https://youtu.be/2y1GVoPZjhU?si=GBVrMmkvRQL0daGZ",
     "percentToQualify": 53,
-    "records": []
+    "records": [
+    {
+        "user": "Yammy",
+        "link": "https://www.youtube.com/watch?v=XB7VfbRSRFc",
+        "percent": 100
+    }
+    ]
 }
