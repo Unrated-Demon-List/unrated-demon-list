@@ -43,10 +43,15 @@
             "percent": 100
 	    },
         {
+            "user": "Adhafera",
+            "link": "https://youtu.be/yMSRBSyiT18",
+            "percent": 100
+        },
+        {
 	        "user": "DiLeMa",
 	        "link": "https://www.youtube.com/watch?v=0FiShgj_dqw",
             "percent": 71
-	    }
+	    } 
     ],
     "tags": ["Nine Circles Level", "GDPS Level", "Short"]
 }
