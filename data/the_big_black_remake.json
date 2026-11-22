@@ -1,10 +1,10 @@
 {
-    "id": 43761151,
+    "id": 127478411,
     "name": "The Big Black (Remake)",
     "author": "Zylenox",
     "creators": ["Zylenox", "Nautilus2K"],
     "verifier": "Zylenox",
-    "verification": "https://youtu.be/i9R-FWAgkuE",
+    "verification": "https://youtu.be/8uI5hew59Vg",
     "percentToQualify": 100,
     "records": [
         {
@@ -50,6 +50,11 @@
         {
             "user": "Mewtwo557",
             "link": "https://youtu.be/HJ37y1YpOq0?si=SeqO7xE92EDbJy-2",
+            "percent": 100
+        },
+        {
+            "user": "Lexy",
+            "link": "https://www.youtube.com/watch?v=rskvFYWXMWU",
             "percent": 100
         }
     ],
